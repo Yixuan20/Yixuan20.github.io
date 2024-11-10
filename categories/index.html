@@ -2,7 +2,7 @@
 <html>
 	<head>
 		
-<title>Hexo主题-Quiet主题-Hexo扁平化主题安装-Quiet</title>
+<title>文章分类-Quiet</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -49,13 +49,13 @@
 				<ul>
 					
 						
-							<li class="select">
-								<a href="/">
-									HOME
-								</a>
-								<span class="dot"></span>
-							</li>
-							
+								<li>
+									<a href="/">
+										HOME
+									</a>
+									<span class="dot"></span>
+								</li>
+								
 									
 						
 								<li>
@@ -67,13 +67,13 @@
 								
 									
 						
-								<li>
-									<a href="/categories">
-										CATEGORIES
-									</a>
-									<span class="dot"></span>
-								</li>
-								
+							<li class="select">
+								<a href="/categories">
+									CATEGORIES
+								</a>
+								<span class="dot"></span>
+							</li>
+							
 									
 						
 								<li>
@@ -275,54 +275,35 @@
 
 </script>
 
-<div class="home">
-	<div class="header-body-background">
+
+<div class="categories">
+    <div class="header-body-background">
     <div class="header-body-background-content">
         <span>
-            <img src="/image/logo.png" alt="Quiet">
+            <img src="https://cdn.jsdelivr.net/gh/duogongneng/MyBlogImg/imgblogmyCategory.svg" alt="Quiet">
         </span>
 
-        <h2>首页这里应该有一句话，你想想写点什么？</h2>
+        <h2>文章分类</h2>
     </div>
 </div>
-	<div class="main">
-		
-			<div class="post-card" id="content">
-				
-					<div class="post-card-display">
-						<a href="/2024/11/10/research-note/">
-							<h2 class="post-card-title">
-								论文笔记——T
-							</h2>
-							
-								<img src="https://api.ixiaowai.cn/gqapi/gqapi.php" alt="Quiet">
-							
-						</a>
-						<div class="post-card-meat">
-							<div class="meat-info">
-								<div class="info-auth">
-										<a href="categories/论文笔记/">
-											论文笔记
-										</a>
-								</div>
-								<div class="info-data">
-									2024-11-10
-								</div>
+    <div class="categories-content" id="content">
+        <div class="categories-content-data">
+				<div class="categories-class">
+					
+						<a class="categories-class-card" href="/categories/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"
+							style="background-image: url('https://api.ixiaowai.cn/gqapi/gqapi.php');"
+						>
+							<span class="categories-class-card-title">论文笔记</span>
+							<div class="categories-class-card-number">
+								<span>
+									<span class="categories-length">1</span> 篇
+								</span>
 							</div>
-							<div class="meat-type"></div>
-						</div>
-					</div>
-				
-			</div>
-		
-		
-	
-	</div>
-	<div class="change-page">
-		
-				
-	</div>
-	
+						</a>
+					
+				</div>
+        </div>
+    </div>
 </div>
 		
 <div class="footer">
@@ -427,7 +408,7 @@
             distractionFreeMode:false
         })
         
-        if(Boolean('')){
+        if(Boolean('true')){
             gitalk.render('gitalk-container')
         }
     </script>
