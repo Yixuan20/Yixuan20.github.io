@@ -57,19 +57,21 @@ otal <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google sch
 
 # 💻 Research Experience
 
-- *2023.12 - 2024.05*, ![Computational Media and Arts (CMA), HKUST (GZ)](https://cma.hkust-gz.edu.cn/content/images/size/w1000/2024/05/cma-logo-06-------.png)[The Hong Kong University of Science and Technology (Guangzhou), Computational Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), Research Associate, China.
+- *2023.12 - 2024.05*, <img src="http://cma.hkust-gz.edu.cn/content/images/2024/05/---.png" alt="img" style="zoom:50%;" />[The Hong Kong University of Science and Technology (Guangzhou), Computational Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), Research Associate, China.
 
   Conducted testing and market research on the BMW tram charging system as well as in-vehicle hardware and interfaces, and analyzed competitor vehicles such as NIO and XPeng for cross-testing comparisons.
 
-- *2022.10 ~ 2023.07*, Guangzhou Yuanwukong Technology Co., UI Designer, China.
+- *2022.10 ~ 2023.07*, North Carolina State University, UI Designer, China.
 
   Cooperate with developers to complete the tasks of interaction, design and user experience research of the project. Analyze business requirements and generate interface and physical product prototypes through user research.
 
-- *2023.12 - 2024.05*, [BMW (China) Service Co., Ltd](https://www.bmwgroup.com/en/news/general/2019/china-fe.html), Electric Vehicle Program & User Research Internship, China.
+- *2022.11 - 2024.05*, [Future Laboratory, Tsinghua University ](https://thfl.tsinghua.edu.cn/en/), Haptic Vibration Feedback Design Group Internship, China.
 
-  
+  Responsible for analyzing the evaluation dimensions of smartphone vibration feedback, user experiments and comparative cross-testing research of multiple terminals.
 
-- *2022.10 ~ 2023.07*, Guangzhou Yuanwukong Technology Co., UI Designer, China.
+- *2024.01 ~ Present*, University of Rochester, Department of Computer Science, Research Intern, USA.
+
+  Capturing users' behavioral, developing visual physiological data interfaces as socio-emotional cues in asynchronous games, and exploring emotional communication features in VR. Supervisor: Prof. Yukang Yan.
 
 # 💻 Internships
 
