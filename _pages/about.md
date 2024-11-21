@@ -33,11 +33,6 @@ HCI | Designer | Artist
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COST 2023</div><img src='images/100x60.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-
 [Children's Toy Design Process Based on the Kano-AHP-FBS Model: Case of Multisensory Educational Toys](https://ieeexplore.ieee.org/abstract/document/10336473)
 
 **Yixuan Li**, Lei Xue∗
@@ -50,7 +45,7 @@ HCI | Designer | Artist
 
 - *2023.12 - 2024.05*, <img src="/Users/a9816493/Desktop/D-HCI/9.3d打印学/image 1342.png" style="zoom:25%;" />[The Hong Kong University of Science and Technology (Guangzhou), Computational Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), Research Associate, Guangzhou.
 
-  Conducted testing and market research on the BMW tram charging system as well as in-vehicle hardware and interfaces, and analyzed competitor vehicles such as NIO and XPeng for cross-testing comparisons.
+  Join in HKUST(GZ) as a Research Assistant in Human-Computer Interaction, research direction: child-oriented tangible interfaces/devices. Supervisor: Xin Tong.
 
 - *2023.05 - 2023.07*, <img src="/Users/a9816493/Desktop/D-HCI/9.3d打印学/image 1344.png" style="zoom:25%;" />[Southern University of Science and Technology, School of Design](https://designschool.sustech.edu.cn/), Visiting Student, Shenzhen.
 
@@ -58,19 +53,19 @@ HCI | Designer | Artist
 
 - *2022.11 - 2024.05*,<img src="/Users/a9816493/Desktop/D-HCI/9.3d打印学/左右组合 1.png" style="zoom:25%;" /> [Future Laboratory, Tsinghua University ](https://thfl.tsinghua.edu.cn/en/), Haptic Vibration Feedback Design Group Internship, Beijing.
 
-  Responsible for analyzing the evaluation dimensions of smartphone vibration feedback, user experiments and comparative cross-testing research of multiple terminals.
+  Responsible for analyzing the evaluation dimensions of smartphone vibration feedback, user experiments and comparative cross-testing research of multiple terminals.Supervisor: Prof. Yang Jiao.
 
 - *2022.10 - 2023.07*, <img src="/Users/a9816493/Desktop/D-HCI/9.3d打印学/Screenshot 2024-11-22 at 01.44.58 1.png" style="zoom:25%;" />North Carolina State University, Wilson College of Textiles](https://textiles.ncsu.edu/), USA.
 
   Cooperate with Applied the deformation effect of memory alloy based on SCR signal to origami structured textiles, researched and designed a wearable device, and created a poster for presentation. Supervisor: Prof. Rong Yin.
 
-- *2024.01 - Present*, <img src="/Users/a9816493/Desktop/D-HCI/9.3d打印学/image 1343.png" style="zoom:25%;" />University of Rochester, Department of Computer Science, Research Intern, USA.
+- *2024.01 - Present*, <img src="/Users/a9816493/Desktop/D-HCI/9.3d打印学/image 1343.png" style="zoom: 50%;" />University of Rochester, Department of Computer Science, Research Intern, USA.
 
   Capturing users' behavioral, developing visual physiological data interfaces as socio-emotional cues in asynchronous games, and exploring emotional communication features in VR. Supervisor: Prof. Yukang Yan.
 
 # 💻 Internships
 
-- *2023.12 - 2024.05*, <img src="/Users/a9816493/Desktop/D-HCI/9.3d打印学/image 1345.png" style="zoom:25%;" />[BMW (China) Service Co., Ltd](https://www.bmwgroup.com/en/news/general/2019/china-fe.html), Electric Vehicle Program & User Research Internship, China.
+- *2023.12 - 2024.05*, <img src="/Users/a9816493/Desktop/D-HCI/9.3d打印学/image 1345.png" style="zoom: 50%;" />[BMW (China) Service Co., Ltd](https://www.bmwgroup.com/en/news/general/2019/china-fe.html), Electric Vehicle Program & User Research Internship, China.
 
   Conducted testing and market research on the BMW tram charging system as well as in-vehicle hardware and interfaces, and analyzed competitor vehicles such as NIO and XPeng for cross-testing comparisons.
 
