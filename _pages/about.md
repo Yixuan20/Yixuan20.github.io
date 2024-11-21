@@ -59,7 +59,7 @@ HCI | Designer | Artist
 
   Cooperate with Applied the deformation effect of memory alloy based on SCR signal to origami structured textiles, researched and designed a wearable device, and created a poster for presentation. Supervisor: Prof. Rong Yin.
 
-- *2024.01 - Present*, <img src="/Users/a9816493/Desktop/D-HCI/9.3d打印学/image 1343.png" style="zoom: 50%;" />University of Rochester, Department of Computer Science, Research Intern, USA.
+- *2024.01 - Present*, <img src="/Users/a9816493/Desktop/D-HCI/9.3d打印学/image 1343.png" alt="image 1343" style="zoom:25%;" />University of Rochester, Department of Computer Science, Research Intern, USA.
 
   Capturing users' behavioral, developing visual physiological data interfaces as socio-emotional cues in asynchronous games, and exploring emotional communication features in VR. Supervisor: Prof. Yukang Yan.
 
