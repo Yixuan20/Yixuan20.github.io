@@ -43,29 +43,29 @@ HCI | Designer | Artist
 
 # 💻 Research Experience
 
-- *2023.12 - 2024.05*, <img src="/Users/a9816493/Desktop/D-HCI/9.3d打印学/image 1342.png" style="zoom:25%;" />[The Hong Kong University of Science and Technology (Guangzhou), Computational Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), Research Associate, Guangzhou.
+- *2023.12 - 2024.05*, <img src="https://s2.loli.net/2024/11/22/cYVRtEDkluAIh2y.png" alt="image 1342.png" style="zoom:33%;" />[The Hong Kong University of Science and Technology (Guangzhou), Computational Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), Research Associate, Guangzhou.
 
   Join in HKUST(GZ) as a Research Assistant in Human-Computer Interaction, research direction: child-oriented tangible interfaces/devices. Supervisor: Xin Tong.
 
-- *2023.05 - 2023.07*, <img src="/Users/a9816493/Desktop/D-HCI/9.3d打印学/image 1344.png" style="zoom:25%;" />[Southern University of Science and Technology, School of Design](https://designschool.sustech.edu.cn/), Visiting Student, Shenzhen.
+- *2023.05 - 2023.07*, <img src="https://s2.loli.net/2024/11/22/8793FvuPUfNHzeY.png" alt="image 1344.png" style="zoom:50%;" />[Southern University of Science and Technology, School of Design](https://designschool.sustech.edu.cn/), Visiting Student, Shenzhen.
 
   As a visiting student of Prof. Mirna ZORDAN, assisted in research on behavioral performance of environments under complex conditions, and conducted literature reviews and unity productions related to human peripheral vision, Hong Kong's high-density cities, and so on.
 
-- *2022.11 - 2024.05*,<img src="/Users/a9816493/Desktop/D-HCI/9.3d打印学/左右组合 1.png" style="zoom:25%;" /> [Future Laboratory, Tsinghua University ](https://thfl.tsinghua.edu.cn/en/), Haptic Vibration Feedback Design Group Internship, Beijing.
+- *2022.11 - 2024.05*,<img src="https://s2.loli.net/2024/11/22/eWJm5r68u9g4RKA.png" alt=" 1.png" style="zoom:80%;" /> [Future Laboratory, Tsinghua University ](https://thfl.tsinghua.edu.cn/en/), Haptic Vibration Feedback Design Group Internship, Beijing.
 
   Responsible for analyzing the evaluation dimensions of smartphone vibration feedback, user experiments and comparative cross-testing research of multiple terminals.Supervisor: Prof. Yang Jiao.
 
-- *2022.10 - 2023.07*, <img src="/Users/a9816493/Desktop/D-HCI/9.3d打印学/Screenshot 2024-11-22 at 01.44.58 1.png" style="zoom:25%;" />North Carolina State University, Wilson College of Textiles](https://textiles.ncsu.edu/), USA.
+- *2022.10 - 2023.07*, ![Screenshot 2024-11-22 at 01.44.58 1.png](https://s2.loli.net/2024/11/22/qaV8RZj5OK9Sgpt.png)North Carolina State University, Wilson College of Textiles](https://textiles.ncsu.edu/), USA.
 
   Cooperate with Applied the deformation effect of memory alloy based on SCR signal to origami structured textiles, researched and designed a wearable device, and created a poster for presentation. Supervisor: Prof. Rong Yin.
 
-- *2024.01 - Present*, <img src="/Users/a9816493/Desktop/D-HCI/9.3d打印学/image 1343.png" alt="image 1343" style="zoom:25%;" />University of Rochester, Department of Computer Science, Research Intern, USA.
+- *2024.01 - 2024.05*, ![image 1343.png](https://s2.loli.net/2024/11/22/w5kXLAjJo7BVtgR.png)University of Rochester, Department of Computer Science, Research Intern, USA.
 
   Capturing users' behavioral, developing visual physiological data interfaces as socio-emotional cues in asynchronous games, and exploring emotional communication features in VR. Supervisor: Prof. Yukang Yan.
 
 # 💻 Internships
 
-- *2023.12 - 2024.05*, <img src="/Users/a9816493/Desktop/D-HCI/9.3d打印学/image 1345.png" style="zoom: 50%;" />[BMW (China) Service Co., Ltd](https://www.bmwgroup.com/en/news/general/2019/china-fe.html), Electric Vehicle Program & User Research Internship, China.
+- *2023.12 - 2024.05*, ![image 1345.png](https://s2.loli.net/2024/11/22/gCjFyeYdszu9KRL.png)[BMW (China) Service Co., Ltd](https://www.bmwgroup.com/en/news/general/2019/china-fe.html), Electric Vehicle Program & User Research Internship, China.
 
   Conducted testing and market research on the BMW tram charging system as well as in-vehicle hardware and interfaces, and analyzed competitor vehicles such as NIO and XPeng for cross-testing comparisons.
 
