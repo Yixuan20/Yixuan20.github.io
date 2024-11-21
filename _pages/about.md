@@ -28,10 +28,11 @@ HCI | Designer | Artist
 
 otal <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+# 📖 Educations
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 - 2027.06 (expect)*, Master,  Electronic Information at Tsinghua University.
+- *2021.09 - 2025.06 (now)*,  Undergraduate,  majored in product design at the School of Art and Design, Beijing Forestry University.
+- *2021.09 - 2022.09*, Undergraduate, minoring in Computer Art at the School of Information Science and Technology, Beijing Forestry University.
 
 # 📝 Publications 
 
@@ -40,43 +41,61 @@ otal <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google sch
 
 
 
-# 
-
-## [PDF](https://ieeexplore.ieee.org/abstract/document/10336473)
-
-
-
-∗Corresponding Author
-
-[Children's Toy Design Process Based on the Kano-AHP-FBS Model: Case of Multisensory Educational Toys](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Children's Toy Design Process Based on the Kano-AHP-FBS Model: Case of Multisensory Educational Toys](https://ieeexplore.ieee.org/abstract/document/10336473)
 
 **Yixuan Li**, Lei Xue∗
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - User needs
-
   - Kano model
   - Analytic Hierarchy Process
   - FBS model
   - Design model
   - Children's Toy Design
-- </div>
-</div>
-
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💻 Research Experience
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12 - 2024.05*, ![Computational Media and Arts (CMA), HKUST (GZ)](https://cma.hkust-gz.edu.cn/content/images/size/w1000/2024/05/cma-logo-06-------.png)[The Hong Kong University of Science and Technology (Guangzhou), Computational Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), Research Associate, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+  Conducted testing and market research on the BMW tram charging system as well as in-vehicle hardware and interfaces, and analyzed competitor vehicles such as NIO and XPeng for cross-testing comparisons.
+
+- *2022.10 ~ 2023.07*, Guangzhou Yuanwukong Technology Co., UI Designer, China.
+
+  Cooperate with developers to complete the tasks of interaction, design and user experience research of the project. Analyze business requirements and generate interface and physical product prototypes through user research.
+
+- *2023.12 - 2024.05*, [BMW (China) Service Co., Ltd](https://www.bmwgroup.com/en/news/general/2019/china-fe.html), Electric Vehicle Program & User Research Internship, China.
+
+  
+
+- *2022.10 ~ 2023.07*, Guangzhou Yuanwukong Technology Co., UI Designer, China.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+- *2023.12 - 2024.05*, [BMW (China) Service Co., Ltd](https://www.bmwgroup.com/en/news/general/2019/china-fe.html), Electric Vehicle Program & User Research Internship, China.
+
+  Conducted testing and market research on the BMW tram charging system as well as in-vehicle hardware and interfaces, and analyzed competitor vehicles such as NIO and XPeng for cross-testing comparisons.
+
+- *2022.10 ~ 2023.07*, Guangzhou Yuanwukong Technology Co., UI Designer, China.
+
+  Cooperate with developers to complete the tasks of interaction, design and user experience research of the project. Analyze business requirements and generate interface and physical product prototypes through user research.
+
+- *2023.12 - 2024.05*, [BMW (China) Service Co., Ltd](https://www.bmwgroup.com/en/news/general/2019/china-fe.html), Electric Vehicle Program & User Research Internship, China.
+
+  
+
+- *2022.10 ~ 2023.07*, Guangzhou Yuanwukong Technology Co., UI Designer, China.
+
+# 🎖 Honors and Awards
+
+- *2024.9*  Baosteel Outstanding Student Scholarship (approximately 500 people nationwide). 
+- *2024.09*  China National Scholarship (1%) 
+- *2023.09*  China National Scholarship (1%) 
+- *2024, 2023, 2022*  BJFU Outstanding Student First Class Scholarship (2%)
+- *2024, 2023, 2022*  BJFU Scholarship for Academic Excellence
+
+# 💬 Invited Talks
+
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
