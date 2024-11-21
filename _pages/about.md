@@ -27,9 +27,9 @@ HCI | Designer | Artist
 
 # 📖 Educations
 
-- *2025.09 - 2027.06 (expect)*, <img src="https://s2.loli.net/2024/11/22/nyLrt4gP86W2u9S.png" alt=" 2.png" style="zoom:25%;" />Master,  Electronic Information at Tsinghua University.
-- *2021.09 - 2025.06 (now)*,  <img src="https://s2.loli.net/2024/11/22/qA7LrlcBRwZQj8z.png" alt="image 1325.png" style="zoom:25%;" />Undergraduate,  majored in product design at the School of Art and Design, Beijing Forestry University.
-- *2021.09 - 2022.09*, <img src="https://s2.loli.net/2024/11/22/qA7LrlcBRwZQj8z.png" alt="image 1325.png" style="zoom:25%;" />Undergraduate, minoring in Computer Art at the School of Information Science and Technology, Beijing Forestry University.
+- *2025.09 - 2027.06 (expect)*, <img src="https://s2.loli.net/2024/11/22/nyLrt4gP86W2u9S.png" alt=" 2.png" style="zoom:10%;" />Master,  Electronic Information at Tsinghua University.
+- *2021.09 - 2025.06 (now)*,  <img src="https://s2.loli.net/2024/11/22/qA7LrlcBRwZQj8z.png" alt="image 1325.png" style="zoom:10%;" />Undergraduate,  majored in product design at the School of Art and Design, Beijing Forestry University.
+- *2021.09 - 2022.09*, <img src="https://s2.loli.net/2024/11/22/qA7LrlcBRwZQj8z.png" alt="image 1325.png" style="zoom:10%;" />Undergraduate, minoring in Computer Art at the School of Information Science and Technology, Beijing Forestry University.
 
 # 📝 Publications 
 
