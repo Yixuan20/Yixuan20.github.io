@@ -48,7 +48,7 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2024</div><img src='https://s2.loli.net/2024/11/22/dU7nPHlKVIeNOWu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EmoPus: Providing Emotional and Tactile Comfort with a AI Desk Companion Octopus](https://dl.acm.org/doi/abs/10.1145/3672539.3686730)**
+[EmoPus: Providing Emotional and Tactile Comfort with a AI Desk Companion Octopus](https://dl.acm.org/doi/abs/10.1145/3672539.3686730)
 
 ***Yixuan Li∗**, Zhaowen Deng∗, Yanying Zhu*
 
@@ -63,32 +63,30 @@ I am interested in human-computer interaction (HCI), specifically in the design 
   </div>
   </div>
 
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHCHI 2024</div><img src='https://s2.loli.net/2024/11/22/DLZarg4ckF5eXyn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”](https://link.springer.com/chapter/10.1007/978-3-031-35599-8_8)**
+[Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”](https://link.springer.com/chapter/10.1007/978-3-031-35599-8_8)
 
 ***Yixuan Li∗**, Rui Zhang∗, Liwen He, Yang Jiao†*
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - Haptic Experience
+
 - Smartphone
+
 - Computing System
+
 - Subjective Perception
-- </div>
+
   </div>
-
-
-
-
+  </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COST 2023</div><img src='https://s2.loli.net/2024/11/22/zwoHpcfM5tGO6yE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- [Children's Toy Design Process Based on the Kano-AHP-FBS Model: Case of Multisensory Educational Toys](\https://ieeexplore.ieee.org/abstract/document/10336473)**
+ [Children's Toy Design Process Based on the Kano-AHP-FBS Model: Case of Multisensory Educational Toys](\https://ieeexplore.ieee.org/abstract/document/10336473)
 
 ***Yixuan Li**, Lei Xue∗*
 
@@ -108,7 +106,7 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HCII 2023</div><img src='https://s2.loli.net/2024/11/22/6U1AEutB9oXsdPj.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”](https://link.springer.com/chapter/10.1007/978-3-031-35599-8_8)**
+[Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”](https://link.springer.com/chapter/10.1007/978-3-031-35599-8_8)
 
 *Xiaoyang Qian , **Yixuan Li**, Lei Xue∗*
 
