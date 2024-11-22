@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yixuan Li's website"
-description              : " "
+description              : "HCI🤖 Designer🧑‍🎨  Artist🎨"
 repository               : "yixuan20/yixuan20.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yixuan Li"
   avatar           : "images/image 1490.jpg"
-  bio              : "I am a senior undergraduate student, and my research interests are in Human-Computer Interaction (HCI) and haptics/tangible technology."
-  location         : "Beijing, China"
+  bio              : "I am a senior undergraduate student, and my research interests are in HCI, haptics, tangible."
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3peOthcAAAAJ&hl=zh-CN"

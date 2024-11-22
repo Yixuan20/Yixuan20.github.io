@@ -17,21 +17,31 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a junior student at Beijing Forestry University, majored in product design at the School of Art and Design while minoring in Computer Art at the School of Information Science and Technology. I will be pursuing a master’s degree in Electronic Information at Tsinghua University in 2025.
+I am a senior undergraduate studentr student at Beijing Forestry University, majored in product design, School of Art and Design, minoring in Computer Art, School of Information Science and Technology. I will be pursuing a master’s degree in Electronic Information at Tsinghua University in 2025.
 
-I have research experience at [The Hong Kong University of Science and Technology (Guangzhou), Computational Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), [Future Laboratory, Tsinghua University ](https://thfl.tsinghua.edu.cn/en/), and the [Southern University of Science and Technology, School of Design](https://designschool.sustech.edu.cn/), along with work experience at [BMW (China) Service Co., Ltd](https://www.bmwgroup.com/en/news/general/2019/china-fe.html). These experiences have helped me develop a foundation in interdisciplinary fields, showcasing my ability to integrate research with design and promote technological innovation.
+I have research experience at [The Hong Kong University of Science and Technology (Guangzhou), Computational Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), [Future Laboratory, Tsinghua University ](https://thfl.tsinghua.edu.cn/en/), and the [Southern University of Science and Technology, School of Design](https://designschool.sustech.edu.cn/), along with work experience at [BMW (China) Service Co., Ltd](https://www.bmwgroup.com/en/news/general/2019/china-fe.html). These experiences have helped me build a strong foundation in interdisciplinary fields, fostering my ability to integrate research with design and drive technological innovation.
 
 I am interested in human-computer interaction (HCI), specifically in the design of tangible interfaces, wearables, and haptic feedback.
-
-HCI🤖 Designer🧑‍🎨  Artist🎨
 
 # 📖 Educations
 
 - *2025.09 - 2027.06 (expect)*, <img src="https://s2.loli.net/2024/11/22/nyLrt4gP86W2u9S.png" alt=" 2.png" style="zoom:10%;" />Master,  Electronic Information at Tsinghua University.
-- *2021.09 - 2025.06 (now)*,  <img src="https://s2.loli.net/2024/11/22/qA7LrlcBRwZQj8z.png" alt="image 1325.png" style="zoom:10%;" />Undergraduate,  majored in product design at the School of Art and Design, Beijing Forestry University.
-- *2021.09 - 2022.09*, <img src="https://s2.loli.net/2024/11/22/qA7LrlcBRwZQj8z.png" alt="image 1325.png" style="zoom:10%;" />Undergraduate, minoring in Computer Art at the School of Information Science and Technology, Beijing Forestry University.
+- *2021.09 - 2025.06 (now)*,  <img src="https://s2.loli.net/2024/11/22/qA7LrlcBRwZQj8z.png" alt="image 1325.png" style="zoom:10%;" />Undergraduate, majoring in Product Design at the School of Art and Design, Beijing Forestry University.
+- *2021.09 - 2022.09*, <img src="https://s2.loli.net/2024/11/22/qA7LrlcBRwZQj8z.png" alt="image 1325.png" style="zoom:10%;" />Undergraduate, minored in Computer Art at the School of Information Science and Technology, Beijing Forestry University.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='https://s2.loli.net/2024/11/22/SwoF3c1CXb6TPp7.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
 
 **ICMI'24 [SemanticTap: A Haptic Toolkit for Vibration Semantic Design of Smartphone](https://dl.acm.org/doi/abs/10.1145/3678957.3685739)**
 
