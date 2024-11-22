@@ -33,7 +33,7 @@ HCI🤖 Designer🧑‍🎨  Artist🎨
 
 # 📝 Publications 
 
-ICMI'24 [SemanticTap: A Haptic Toolkit for Vibration Semantic Design of Smartphone](https://dl.acm.org/doi/abs/10.1145/3678957.3685739)
+**ICMI'24 [SemanticTap: A Haptic Toolkit for Vibration Semantic Design of Smartphone](https://dl.acm.org/doi/abs/10.1145/3678957.3685739)**
 
 *Rui Zhang*, **Yixuan Li∗**, Zihuang Wu, Yong Zhang, Jie Zhao, Yang Jiao†*
 
@@ -42,7 +42,7 @@ ICMI'24 [SemanticTap: A Haptic Toolkit for Vibration Semantic Design of Smartpho
 
 <img src="https://s2.loli.net/2024/11/22/SwoF3c1CXb6TPp7.jpg" alt="Group 2271.jpg" style="zoom:17%;" />
 
-UIST '24 [EmoPus: Providing Emotional and Tactile Comfort with a AI Desk Companion Octopus](https://dl.acm.org/doi/abs/10.1145/3672539.3686730)
+**UIST '24 [EmoPus: Providing Emotional and Tactile Comfort with a AI Desk Companion Octopus](https://dl.acm.org/doi/abs/10.1145/3672539.3686730)**
 
 ***Yixuan Li∗**, Zhaowen Deng∗, Yanying Zhu*
 
@@ -52,7 +52,7 @@ UIST '24 [EmoPus: Providing Emotional and Tactile Comfort with a AI Desk Compani
 
 <img src="https://s2.loli.net/2024/11/22/dU7nPHlKVIeNOWu.png" alt="Screenshot 2024-11-19 at 12.22.50.png" style="zoom: 20%;" />
 
-CHCHI '24 [Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”](https://link.springer.com/chapter/10.1007/978-3-031-35599-8_8)
+**CHCHI '24 [Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”](https://link.springer.com/chapter/10.1007/978-3-031-35599-8_8)**
 
 ***Yixuan Li∗**, Rui Zhang∗, Liwen He, Yang Jiao†*
 
@@ -63,7 +63,7 @@ CHCHI '24 [Children's Toy Design Based on Multiple Intelligence Theory–Researc
 
 <img src="https://s2.loli.net/2024/11/22/DLZarg4ckF5eXyn.png" alt="Screenshot 2024-11-19 at 10.11.15.png" style="zoom: 33%;" />
 
-COST 23' [Children's Toy Design Process Based on the Kano-AHP-FBS Model: Case of Multisensory Educational Toys](\https://ieeexplore.ieee.org/abstract/document/10336473)
+**COST 23' [Children's Toy Design Process Based on the Kano-AHP-FBS Model: Case of Multisensory Educational Toys](\https://ieeexplore.ieee.org/abstract/document/10336473)**
 
 ***Yixuan Li**, Lei Xue∗*
 
@@ -71,7 +71,7 @@ COST 23' [Children's Toy Design Process Based on the Kano-AHP-FBS Model: Case of
   - Design model
   - Children's Toy Design
 
-HCII'23 [Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”](https://link.springer.com/chapter/10.1007/978-3-031-35599-8_8)
+**HCII'23 [Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”](https://link.springer.com/chapter/10.1007/978-3-031-35599-8_8)**
 
 *Xiaoyang Qian , **Yixuan Li**, Lei Xue∗*
 
