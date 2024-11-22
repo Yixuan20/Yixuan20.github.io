@@ -101,8 +101,6 @@ I am interested in human-computer interaction (HCI), specifically in the design 
     </div>
     </div>
 
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HCII 2023</div><img src='https://s2.loli.net/2024/11/22/6U1AEutB9oXsdPj.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
