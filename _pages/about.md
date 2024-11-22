@@ -23,7 +23,7 @@ I have research experience at [The Hong Kong University of Science and Technolog
 
 I am interested in human-computer interaction (HCI), specifically in the design of tangible interfaces, wearables, and haptic feedback.
 
-HCI | Designer | Artist
+HCI🤖 Designer🧑‍🎨  Artist🎨
 
 # 📖 Educations
 
@@ -38,10 +38,9 @@ ICMI'24 [SemanticTap: A Haptic Toolkit for Vibration Semantic Design of Smartpho
 *Rui Zhang*, **Yixuan Li∗**, Zihuang Wu, Yong Zhang, Jie Zhao, Yang Jiao†*
 
 - Haptic experience
-  - Smartphone
 - Vibration Design Toolkit
 
-<img src="https://s2.loli.net/2024/11/22/SwoF3c1CXb6TPp7.jpg" alt="Group 2271.jpg" style="zoom:80%;" />
+<img src="https://s2.loli.net/2024/11/22/SwoF3c1CXb6TPp7.jpg" alt="Group 2271.jpg" style="zoom:17%;" />
 
 UIST '24 [EmoPus: Providing Emotional and Tactile Comfort with a AI Desk Companion Octopus](https://dl.acm.org/doi/abs/10.1145/3672539.3686730)
 
@@ -51,18 +50,18 @@ UIST '24 [EmoPus: Providing Emotional and Tactile Comfort with a AI Desk Compani
 - AI Robot
 - Tactile Comfort
 
-<img src="https://s2.loli.net/2024/11/22/dU7nPHlKVIeNOWu.png" alt="Screenshot 2024-11-19 at 12.22.50.png" style="zoom:67%;" />
+<img src="https://s2.loli.net/2024/11/22/dU7nPHlKVIeNOWu.png" alt="Screenshot 2024-11-19 at 12.22.50.png" style="zoom: 20%;" />
 
 CHCHI '24 [Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”](https://link.springer.com/chapter/10.1007/978-3-031-35599-8_8)
 
 ***Yixuan Li∗**, Rui Zhang∗, Liwen He, Yang Jiao†*
 
 - Haptic Experience
-- Smartphone,
+- Smartphone
 - Computing System
 - Subjective Perception
 
-<img src="https://s2.loli.net/2024/11/22/DLZarg4ckF5eXyn.png" alt="Screenshot 2024-11-19 at 10.11.15.png" style="zoom:50%;" />
+<img src="https://s2.loli.net/2024/11/22/DLZarg4ckF5eXyn.png" alt="Screenshot 2024-11-19 at 10.11.15.png" style="zoom: 33%;" />
 
 COST 23' [Children's Toy Design Process Based on the Kano-AHP-FBS Model: Case of Multisensory Educational Toys](\https://ieeexplore.ieee.org/abstract/document/10336473)
 
@@ -80,11 +79,11 @@ HCII'23 [Children's Toy Design Based on Multiple Intelligence Theory–Research 
 - Emotional design
 - Learning by playing
 
-<img src="https://s2.loli.net/2024/11/22/6U1AEutB9oXsdPj.jpg" alt="Group 2090052108.jpg" style="zoom:33%;" />
+<img src="https://s2.loli.net/2024/11/22/6U1AEutB9oXsdPj.jpg" alt="Group 2090052108.jpg" style="zoom: 8%;" />
 
 # 💻 Research Experience
 
-- *2023.12 - 2024.05*, <img src="https://s2.loli.net/2024/11/22/cYVRtEDkluAIh2y.png" alt="image 1342.png" style="zoom: 25%;" />[The Hong Kong University of Science and Technology (Guangzhou), Computational Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), Research Associate, Guangzhou.
+- *2024.05*, <img src="https://s2.loli.net/2024/11/22/cYVRtEDkluAIh2y.png" alt="image 1342.png" style="zoom: 25%;" />[The Hong Kong University of Science and Technology (Guangzhou), Computational Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), Research Associate, Guangzhou.
 
   Join in HKUST(GZ) as a Research Assistant in Human-Computer Interaction, research direction: child-oriented tangible interfaces/devices. Supervisor: Xin Tong.
 
@@ -118,21 +117,84 @@ HCII'23 [Children's Toy Design Based on Multiple Intelligence Theory–Research 
 
   Responsible for planning and arranging the solo exhibition of Central Academy of Fine Arts artist Dazhi, dynamic poster production, push production, etc. Accumulated more than 10,000 radiant people.
 
+# 🎨 Design
+
+- *2023.12 - 2024.02*, [Plastic Response x Artworks Composition Patch Series](https://mp.weixin.qq.com/s/iMmlwcnNrE4ovLfAIlNTmg), 798 Art Space Exhibition, Beijing
+  In collaboration with the eco-friendly brand Plastic Answer, an installation made from recycled plastic sheets was exhibited in the Infinity x City-Children's Art Festival at the Shanzhongtian Art Center-Genkan.
+
+- 
+
+- *2022.09 - 2023.03*,  [Xiaomi 14&14 pro Vibration Waveform Optimization Design](https://www.mi.com/xiaomi-14), Xiaomi Flagship Phone
+  Using accelerometers, Pico5444DMSO oscilloscopes, semi-structured interviews with users, UEQ, using multiple linear regression, KMO, particle swarm optimization algorithms to analyze the data and generate new waveforms.
+
+  
+
+- *2023.10 - 2024.03*, IKEA x  [LIVAT](https://www.ingkacentres.com/zh-cn/where-we-are/china/livat-beijing), [Stainable Healing Space Installation](https://mp.weixin.qq.com/s/kerrR8LTFeLgs1cW6KdA8w), Beijing LIVAT
+  In collaboration with IKEA and INGKA Group, we designed a space installation in Beijing's largest commercial space for parents and children. The work was introduced to Jesper Brodin, CEO of INGKA Group, and was supported by the leading groups in Sweden and China.
+
+  
+
+- *2022.10 - 2023.07*, Faculty Celebration Wall Visualization Design, Beijing Forestry University Academic Research Building
+  To meet the 10th anniversary of the School of Art and Design, we designed the exhibition wall on the 12th floor of the Research Building of Beijing Forestry University, responsible for the content layout and spatial dynamic line design.
+
 # 🎖 Honors and Awards
 
-- *2024.9*  Baosteel Outstanding Student Scholarship (approximately 500 people nationwide). 
+## 🏆 Scholarships
+
+- *2024.9*  Baosteel Outstanding Student Scholarship [Shenzhen EDA Art Space](https://artpro.com/gallery/1468) (approximately 500 people nationwide). 
 - *2024.09*  China National Scholarship (1%) 
 - *2023.09*  China National Scholarship (1%) 
 - *2024, 2023, 2022*  BJFU Outstanding Student First Class Scholarship (2%)
 - *2024, 2023, 2022*  BJFU Scholarship for Academic Excellence
 
-# 🎨 Artworks
+## 🧑‍🎨 Design Awards
 
-- *2023.12 - 2024.02*, Plastic Response x Artworks Composition Patch Series, 798 Art Space Exhibition, Beijing
-  In collaboration with the eco-friendly brand Plastic Answer, an installation made from recycled plastic sheets was exhibited in the Infinity x City-Children's Art Festival at the Shanzhongtian Art Center-Genkan.
-- *2022.09 - 2023.03*,  [Xiaomi 14&14 pro Vibration Waveform Optimization Design](https://www.mi.com/xiaomi-14), Xiaomi Flagship Phone
-  Using accelerometers, Pico5444DMSO oscilloscopes, semi-structured interviews with users, UEQ, using multiple linear regression, KMO, particle swarm optimization algorithms to analyze the data and generate new waveforms.
-- *2023.10 - 2024.03*, IKEA x  [LIVAT](https://www.ingkacentres.com/zh-cn/where-we-are/china/livat-beijing), [Stainable Healing Space Installation](https://mp.weixin.qq.com/s/kerrR8LTFeLgs1cW6KdA8w), Beijing LIVAT
-  In collaboration with IKEA and INGKA Group, we designed a space installation in Beijing's largest commercial space for parents and children. The work was introduced to Jesper Brodin, CEO of INGKA Group, and was supported by the leading groups in Sweden and China.
-- *2022.10 - 2023.07*, Faculty Celebration Wall Visualization Design, Beijing Forestry University Academic Research Building
-  To meet the 10th anniversary of the School of Art and Design, we designed the exhibition wall on the 12th floor of the Research Building of Beijing Forestry University, responsible for the content layout and spatial dynamic line design.
+- *2024*  NCDA Future Designer Competition, Beijing 3rd Prize;
+- *2023*  [The Ninth “Creativity - Made in China” Automobile Design Competition](https://www.shobserver.com/sgh/detail?id=1227897), National 2nd Prize (3%);
+- *2023*  The 7th Beijing Cultural Creativity Competition, Finalist Award;
+- *2023*  Beijing Industrial Design Competition for College Students, 2nd, 3rd Prize and Excellence Award;
+- 2023 DiD Award Dongguan Cup International Industrial Design Competition,  Excellence Award;
+- 2023 The 11th International Art & Design Competition Mutual Arts Award, Excellence Award;
+- 2023 Venice International Art and Design Award, Student Group Nomination Award;
+- 2023 USDA Design Competition, Second Prize;
+- 2023 G CROSS Design Competition, Silver Award;
+- 2023 HK Contemporary Design Competition, Silver Prize;
+- *2022*   [The 5th China University Student Research English Speech Contest](http://news.bjfu.edu.cn/lsxy/404279.html), National Grand Prize (14th in China, the first student from BJFU to win this prize);
+
+## 💼Entrepreneurship Awards
+
+- 2024 The 1st Youth Green Science and Technology Innovation Competition, Bronze Prize of the National Competition;
+- 2024 The First National Student Career Planning Competition, Second Prize of Beijing Region Employment Track;
+- 2023 “Youth Creating Beijing” “Challenge Cup” Capital University Students Science and Technology Competition, Second Prize;
+- 2022 The 8th China International Innovation and Entrepreneurship Competition for College Students, Provincial Excellence Award;
+- 2022 Computer Application Competition of Five Provinces in North China, Second Prize ;
+- 2022 China Hainan Free Trade Port High School Main Track, Excellence Award;
+
+# 📒 Project
+
+- 2023.06 - Present, Beijing Association of Higher Education Funding Program, AIGC-Assisted Design Teaching｜Core member
+  Responsible for writing the research report of AIGC-assisted design and conducting the teaching experiment. Utilized Python to analyze the data and complete the paper writing, totaling more than 30,000 words. Supervisor: Xue Lei.
+
+  
+
+- 2023.02 - Present, [Supported by the Fundamental Research Funds for the Central Universities](https://artpro.com/gallery/1468), Research on the Innovation System of “Green Community Service Design” under the Concept of Ecological Civilization ｜Core Member
+
+  Responsible for more than 50,000 words of writing, and 40+ case studies on sustainable communities. Supervisor: Xue Lei.
+
+  
+
+- 2023.05 - 2024.09, [National level Innovation and Entrepreneurship Training Program for Undergraduates](http://gjcxcy.bjtu.edu.cn/), Research on the renovation of child-friendly space in old communities based on community co-construction｜Leader
+
+  Responsible for paper writing and designing experiments, organizing co-construction activities in Beijing Petroleum  Community, and implementing community renovation programs. At present, we already granted a notice of acceptance of appearance patent.
+
+  
+
+- 2023.09 - 2023.11,  [BMW x Tongji University Innovation Challenge Camp](https://www.sohu.com/a/735124266_121124373)｜Copilot Interactive System Design, Core Member
+  Jointly with BMW AI training platform, the output of design combining generative large model with in-vehicle multimodal recognition, personalized HMI and emotional interaction in car experience for users, exhibited at the Tongji University, won the second prize. 
+
+  
+
+  
+
+
+
