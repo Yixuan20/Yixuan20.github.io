@@ -140,6 +140,32 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 - *2022.10 - 2023.07*, Faculty Celebration Wall Visualization Design, Beijing Forestry University Academic Research Building
   To meet the 10th anniversary of the School of Art and Design, we designed the exhibition wall on the 12th floor of the Research Building of Beijing Forestry University, responsible for the content layout and spatial dynamic line design.
 
+# 📒 Project
+
+- 2023.06 - Present, Beijing Association of Higher Education Funding Program, AIGC-Assisted Design Teaching｜Core member
+  Responsible for writing the research report of AIGC-assisted design and conducting the teaching experiment. Utilized Python to analyze the data and complete the paper writing, totaling more than 30,000 words. Supervisor: Xue Lei.
+
+  
+
+- 2023.02 - Present, [Supported by the Fundamental Research Funds for the Central Universities](https://artpro.com/gallery/1468), Research on the Innovation System of “Green Community Service Design” under the Concept of Ecological Civilization ｜Core Member
+
+  Responsible for more than 50,000 words of writing, and 40+ case studies on sustainable communities. Supervisor: Xue Lei.
+
+  
+
+- 2023.05 - 2024.09, [National level Innovation and Entrepreneurship Training Program for Undergraduates](http://gjcxcy.bjtu.edu.cn/), Research on the renovation of child-friendly space in old communities based on community co-construction｜Leader
+
+  Responsible for paper writing and designing experiments, organizing co-construction activities in Beijing Petroleum  Community, and implementing community renovation programs. At present, we already granted a notice of acceptance of appearance patent.
+
+  
+
+- 2023.09 - 2023.11,  [BMW x Tongji University Innovation Challenge Camp](https://www.sohu.com/a/735124266_121124373)｜Copilot Interactive System Design, Core Member
+  Jointly with BMW AI training platform, the output of design combining generative large model with in-vehicle multimodal recognition, personalized HMI and emotional interaction in car experience for users, exhibited at the Tongji University, won the second prize. 
+
+  
+
+  
+
 # 🎖 Honors and Awards
 
 ## 🏆 Scholarships
@@ -173,31 +199,7 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 - 2022 Computer Application Competition of Five Provinces in North China, Second Prize ;
 - 2022 China Hainan Free Trade Port High School Main Track, Excellence Award;
 
-# 📒 Project
 
-- 2023.06 - Present, Beijing Association of Higher Education Funding Program, AIGC-Assisted Design Teaching｜Core member
-  Responsible for writing the research report of AIGC-assisted design and conducting the teaching experiment. Utilized Python to analyze the data and complete the paper writing, totaling more than 30,000 words. Supervisor: Xue Lei.
-
-  
-
-- 2023.02 - Present, [Supported by the Fundamental Research Funds for the Central Universities](https://artpro.com/gallery/1468), Research on the Innovation System of “Green Community Service Design” under the Concept of Ecological Civilization ｜Core Member
-
-  Responsible for more than 50,000 words of writing, and 40+ case studies on sustainable communities. Supervisor: Xue Lei.
-
-  
-
-- 2023.05 - 2024.09, [National level Innovation and Entrepreneurship Training Program for Undergraduates](http://gjcxcy.bjtu.edu.cn/), Research on the renovation of child-friendly space in old communities based on community co-construction｜Leader
-
-  Responsible for paper writing and designing experiments, organizing co-construction activities in Beijing Petroleum  Community, and implementing community renovation programs. At present, we already granted a notice of acceptance of appearance patent.
-
-  
-
-- 2023.09 - 2023.11,  [BMW x Tongji University Innovation Challenge Camp](https://www.sohu.com/a/735124266_121124373)｜Copilot Interactive System Design, Core Member
-  Jointly with BMW AI training platform, the output of design combining generative large model with in-vehicle multimodal recognition, personalized HMI and emotional interaction in car experience for users, exhibited at the Tongji University, won the second prize. 
-
-  
-
-  
 
 
 
