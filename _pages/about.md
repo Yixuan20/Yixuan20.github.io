@@ -45,6 +45,26 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 </div>
 </div>
 
+
+
+# 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMI 2024</div><img src='https://s2.loli.net/2024/11/22/SwoF3c1CXb6TPp7.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SemanticTap: A Haptic Toolkit for Vibration Semantic Design of Smartphone](https://dl.acm.org/doi/abs/10.1145/3678957.3685739)
+
+*Rui Zhang*, **Yixuan Li∗**, Zihuang Wu, Yong Zhang, Jie Zhao, Yang Jiao†*
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- Haptic experience
+- Vibration Design Toolkit
+  </div>
+  </div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2024</div><img src='https://s2.loli.net/2024/11/22/dU7nPHlKVIeNOWu.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
