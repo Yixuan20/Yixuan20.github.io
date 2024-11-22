@@ -158,7 +158,7 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 
 # 💻 Experience
 
-## 🔬Research 
+## ◻️ Research 
 
 - *2024.05*, <img src="https://s2.loli.net/2024/11/22/cYVRtEDkluAIh2y.png" alt="image 1342.png" style="zoom: 25%;" />[The Hong Kong University of Science and Technology (Guangzhou), Computational Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), Research Associate, Guangzhou.
 
@@ -180,7 +180,7 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 
   Capturing users' behavioral, developing visual physiological data interfaces as socio-emotional cues in asynchronous games, and exploring emotional communication features in VR. Supervisor: Prof. Yukang Yan.
 
-## 💻 Internships
+## ▪️ Internships
 
 - *2023.12 - 2024.05*, <img src="https://s2.loli.net/2024/11/22/gCjFyeYdszu9KRL.png" alt="image 1345.png" style="zoom:25%;" />[BMW (China) Service Co., Ltd](https://www.bmwgroup.com/en/news/general/2019/china-fe.html), Electric Vehicle Program & User Research Internship, China.
 
@@ -194,7 +194,7 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 
   Responsible for planning and arranging the solo exhibition of Central Academy of Fine Arts artist Dazhi, dynamic poster production, push production, etc. Accumulated more than 10,000 radiant people.
 
-## 📒 Project
+## ◻️ Project
 
 - 2023.06 - Present, Beijing Association of Higher Education Funding Program, AIGC-Assisted Design Teaching｜Core member
   Responsible for writing the research report of AIGC-assisted design and conducting the teaching experiment. Utilized Python to analyze the data and complete the paper writing, totaling more than 30,000 words. Supervisor: Xue Lei.
@@ -240,7 +240,7 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 
 # 🎖 Honors and Awards
 
-## 🏆 Scholarships
+## ◻️ Scholarships
 
 - *2024.9*  Baosteel Outstanding Student Scholarship [Shenzhen EDA Art Space](https://artpro.com/gallery/1468) (approximately 500 people nationwide). 
 - *2024.09*  China National Scholarship (1%) 
@@ -248,7 +248,7 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 - *2024, 2023, 2022*  BJFU Outstanding Student First Class Scholarship (2%)
 - *2024, 2023, 2022*  BJFU Scholarship for Academic Excellence
 
-## 🧑‍🎨 Design Awards
+## ◻️ Design Awards
 
 - *2024*  NCDA Future Designer Competition, Beijing 3rd Prize;
 - *2023*  [The Ninth “Creativity - Made in China” Automobile Design Competition](https://www.shobserver.com/sgh/detail?id=1227897), National 2nd Prize (3%);
@@ -262,7 +262,7 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 - 2023 HK Contemporary Design Competition, Silver Prize;
 - *2022*   [The 5th China University Student Research English Speech Contest](http://news.bjfu.edu.cn/lsxy/404279.html), National Grand Prize (14th in China, the first student from BJFU to win this prize);
 
-## 💼Entrepreneurship Awards
+## ◻️ Entrepreneurship Awards
 
 - 2024 The 1st Youth Green Science and Technology Innovation Competition, Bronze Prize of the National Competition;
 - 2024 The First National Student Career Planning Competition, Second Prize of Beijing Region Employment Track;
