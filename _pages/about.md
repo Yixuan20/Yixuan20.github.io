@@ -84,61 +84,77 @@ I am interested in human-computer interaction (HCI), specifically in the design 
     </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHCHI 2024</div><img src='https://s2.loli.net/2024/11/22/DLZarg4ckF5eXyn.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”](https://link.springer.com/chapter/10.1007/978-3-031-35599-8_8)
-
-***Yixuan Li∗**, Rui Zhang∗, Liwen He, Yang Jiao†*
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- Haptic Experience
-
-- Smartphone
-
-- Computing System
-
-- Subjective Perception
-
-  </div>
-  </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COST 2023</div><img src='https://s2.loli.net/2024/11/22/zwoHpcfM5tGO6yE.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
- [Children's Toy Design Process Based on the Kano-AHP-FBS Model: Case of Multisensory Educational Toys](\https://ieeexplore.ieee.org/abstract/document/10336473)
-
-***Yixuan Li**, Lei Xue∗*
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- User needs
-
-  - Design model
-
-  - Children's Toy Design
-
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">CHCHI 2024</div>
+            <img src='https://s2.loli.net/2024/11/22/DLZarg4ckF5eXyn.png' alt="sym" width="100%">
+        </div>
     </div>
+    <div class='paper-box-text'>
+        <a href="https://link.springer.com/chapter/10.1007/978-3-031-35599-8_8">
+            Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”
+        </a>
+        <p><b>Yixuan Li∗</b>, Rui Zhang∗, Liwen He, Yang Jiao†</p>
+        <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC">
+            <b>Project</b>
+        </a>
+        <ul>
+            <li>Haptic Experience</li>
+            <li>Smartphone</li>
+            <li>Computing System</li>
+            <li>Subjective Perception</li>
+        </ul>
     </div>
+</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HCII 2023</div><img src='https://s2.loli.net/2024/11/22/6U1AEutB9oXsdPj.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">COST 2023</div>
+            <img src='https://s2.loli.net/2024/11/22/zwoHpcfM5tGO6yE.png' alt="sym" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://ieeexplore.ieee.org/abstract/document/10336473">
+            Children's Toy Design Process Based on the Kano-AHP-FBS Model: Case of Multisensory Educational Toys
+        </a>
+        <p><b>Yixuan Li</b>, Lei Xue∗</p>
+        <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC">
+            <b>Project</b>
+        </a>
+        <ul>
+            <li>User needs</li>
+            <li>Design model</li>
+            <li>Children's Toy Design</li>
+        </ul>
+    </div>
+</div>
 
-[Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”](https://link.springer.com/chapter/10.1007/978-3-031-35599-8_8)
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">HCII 2023</div>
+            <img src='https://s2.loli.net/2024/11/22/6U1AEutB9oXsdPj.jpg' alt="sym" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://link.springer.com/chapter/10.1007/978-3-031-35599-8_8">
+            Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”
+        </a>
+        <p><b>Xiaoyang Qian</b>, <b>Yixuan Li</b>, Lei Xue∗</p>
+        <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC">
+            <b>Project</b>
+        </a>
+        <ul>
+            <li>Multiple intelligence theory</li>
+            <li>Emotional design</li>
+            <li>Learning by playing</li>
+        </ul>
+    </div>
+</div>
 
-*Xiaoyang Qian , **Yixuan Li**, Lei Xue∗*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- Multiple intelligence theory
-
-- Emotional design
-
-- Learning by playing
-
-  </div>
-  </div>
 
 # 💻 Experience
 
@@ -150,7 +166,7 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 
 - *2023.05 - 2023.07*, <img src="https://s2.loli.net/2024/11/22/8793FvuPUfNHzeY.png" alt="image 1344.png" style="zoom: 25%;" />[Southern University of Science and Technology, School of Design](https://designschool.sustech.edu.cn/), Visiting Student, Shenzhen.
 
-  <font color=#616161>As a visiting student of Prof. Mirna ZORDAN, assisted in research on behavioral performance of environments under complex conditions, and conducted literature reviews and unity productions related to human peripheral vision, Hong Kong's high-density cities, and so on.</font>
+  <p style="color: #616161;">     As a visiting student of Prof. Mirna ZORDAN, assisted in research on behavioral performance of environments under complex conditions, and conducted literature reviews and Unity productions related to human peripheral vision, Hong Kong's high-density cities, and so on. </p>
 
 - *2022.11 - 2024.05*,<img src="https://s2.loli.net/2024/11/22/eWJm5r68u9g4RKA.png" alt=" 1.png" style="zoom: 25%;" /> [Future Laboratory, Tsinghua University ](https://thfl.tsinghua.edu.cn/en/), Haptic Vibration Feedback Design Group Internship, Beijing.
 
