@@ -39,19 +39,11 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 *Rui Zhang*, **Yixuan Li∗**, Zihuang Wu, Yong Zhang, Jie Zhao, Yang Jiao†*
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 - Haptic experience
 - Vibration Design Toolkit
 </div>
 </div>
-
-**ICMI'24 [SemanticTap: A Haptic Toolkit for Vibration Semantic Design of Smartphone](https://dl.acm.org/doi/abs/10.1145/3678957.3685739)**
-
-*Rui Zhang*, **Yixuan Li∗**, Zihuang Wu, Yong Zhang, Jie Zhao, Yang Jiao†*
-
-- Haptic experience
-- Vibration Design Toolkit
-
-<img src="https://s2.loli.net/2024/11/22/SwoF3c1CXb6TPp7.jpg" alt="Group 2271.jpg" style="zoom:17%;" />
 
 **UIST '24 [EmoPus: Providing Emotional and Tactile Comfort with a AI Desk Companion Octopus](https://dl.acm.org/doi/abs/10.1145/3672539.3686730)**
 
@@ -100,7 +92,7 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 
 - *2023.05 - 2023.07*, <img src="https://s2.loli.net/2024/11/22/8793FvuPUfNHzeY.png" alt="image 1344.png" style="zoom: 25%;" />[Southern University of Science and Technology, School of Design](https://designschool.sustech.edu.cn/), Visiting Student, Shenzhen.
 
-  As a visiting student of Prof. Mirna ZORDAN, assisted in research on behavioral performance of environments under complex conditions, and conducted literature reviews and unity productions related to human peripheral vision, Hong Kong's high-density cities, and so on.
+  <font color=#616161>As a visiting student of Prof. Mirna ZORDAN, assisted in research on behavioral performance of environments under complex conditions, and conducted literature reviews and unity productions related to human peripheral vision, Hong Kong's high-density cities, and so on.</font>
 
 - *2022.11 - 2024.05*,<img src="https://s2.loli.net/2024/11/22/eWJm5r68u9g4RKA.png" alt=" 1.png" style="zoom: 25%;" /> [Future Laboratory, Tsinghua University ](https://thfl.tsinghua.edu.cn/en/), Haptic Vibration Feedback Design Group Internship, Beijing.
 
@@ -133,7 +125,7 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 - *2023.12 - 2024.02*, [Plastic Response x Artworks Composition Patch Series](https://mp.weixin.qq.com/s/iMmlwcnNrE4ovLfAIlNTmg), 798 Art Space Exhibition, Beijing
   In collaboration with the eco-friendly brand Plastic Answer, an installation made from recycled plastic sheets was exhibited in the Infinity x City-Children's Art Festival at the Shanzhongtian Art Center-Genkan.
 
-- 
+  
 
 - *2022.09 - 2023.03*,  [Xiaomi 14&14 pro Vibration Waveform Optimization Design](https://www.mi.com/xiaomi-14), Xiaomi Flagship Phone
   Using accelerometers, Pico5444DMSO oscilloscopes, semi-structured interviews with users, UEQ, using multiple linear regression, KMO, particle swarm optimization algorithms to analyze the data and generate new waveforms.
