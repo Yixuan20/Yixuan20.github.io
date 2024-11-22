@@ -33,13 +33,56 @@ HCI | Designer | Artist
 
 # 📝 Publications 
 
-[Children's Toy Design Process Based on the Kano-AHP-FBS Model: Case of Multisensory Educational Toys](https://ieeexplore.ieee.org/abstract/document/10336473)
+ICMI'24 [SemanticTap: A Haptic Toolkit for Vibration Semantic Design of Smartphone](https://dl.acm.org/doi/abs/10.1145/3678957.3685739)
 
-**Yixuan Li**, Lei Xue∗
+*Rui Zhang*, **Yixuan Li∗**, Zihuang Wu, Yong Zhang, Jie Zhao, Yang Jiao†*
+
+- Haptic experience
+  - Smartphone
+- Vibration Design Toolkit
+
+![Group 2271.jpg](https://s2.loli.net/2024/11/22/SwoF3c1CXb6TPp7.jpg)
+
+UIST '24 [EmoPus: Providing Emotional and Tactile Comfort with a AI Desk Companion Octopus](https://dl.acm.org/doi/abs/10.1145/3672539.3686730)
+
+***Yixuan Li∗**, Zhaowen Deng∗, Yanying Zhu*
+
+- Emotional Companion
+- AI Robot
+- Tactile Comfort
+
+![Screenshot 2024-11-19 at 12.22.50.png](https://s2.loli.net/2024/11/22/dU7nPHlKVIeNOWu.png)
+
+CHCHI '24 [Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”](https://link.springer.com/chapter/10.1007/978-3-031-35599-8_8)
+
+***Yixuan Li∗**, Rui Zhang∗, Liwen He, Yang Jiao†*
+
+- Haptic Experience
+- Smartphone,
+- Computing System
+- Subjective Perception
+
+![Screenshot 2024-11-19 at 10.11.15.png](https://s2.loli.net/2024/11/22/DLZarg4ckF5eXyn.png)
+
+COST 23' [Children's Toy Design Process Based on the Kano-AHP-FBS Model: Case of Multisensory Educational Toys](\https://ieeexplore.ieee.org/abstract/document/10336473)
+
+***Yixuan Li**, Lei Xue∗*
 
 - User needs
   - Design model
   - Children's Toy Design
+
+![Screenshot 2024-11-19 at 13.49.59.png](https://s2.loli.net/2024/11/22/IvVmEBQ9jtUanu8.png)
+
+HCII'23 [Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”](https://link.springer.com/chapter/10.1007/978-3-031-35599-8_8)
+
+*Xiaoyang Qian , **Yixuan Li**, Lei Xue∗*
+
+- Multiple intelligence theory
+- Emotional design
+- Learning by playing
+
+![Group 2090052108.jpg](https://s2.loli.net/2024/11/22/6U1AEutB9oXsdPj.jpg)
 
 # 💻 Research Experience
 
