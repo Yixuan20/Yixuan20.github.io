@@ -45,46 +45,87 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 </div>
 </div>
 
-**UIST '24 [EmoPus: Providing Emotional and Tactile Comfort with a AI Desk Companion Octopus](https://dl.acm.org/doi/abs/10.1145/3672539.3686730)**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2024</div><img src='https://s2.loli.net/2024/11/22/dU7nPHlKVIeNOWu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EmoPus: Providing Emotional and Tactile Comfort with a AI Desk Companion Octopus](https://dl.acm.org/doi/abs/10.1145/3672539.3686730)**
 
 ***Yixuan Li∗**, Zhaowen Deng∗, Yanying Zhu*
 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 - Emotional Companion
+
 - AI Robot
+
 - Tactile Comfort
 
-<img src="https://s2.loli.net/2024/11/22/dU7nPHlKVIeNOWu.png" alt="Screenshot 2024-11-19 at 12.22.50.png" style="zoom: 20%;" />
+  </div>
+  </div>
 
-**CHCHI '24 [Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”](https://link.springer.com/chapter/10.1007/978-3-031-35599-8_8)**
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHCHI 2024</div><img src='https://s2.loli.net/2024/11/22/DLZarg4ckF5eXyn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”](https://link.springer.com/chapter/10.1007/978-3-031-35599-8_8)**
 
 ***Yixuan Li∗**, Rui Zhang∗, Liwen He, Yang Jiao†*
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - Haptic Experience
 - Smartphone
 - Computing System
 - Subjective Perception
+- </div>
+  </div>
 
-<img src="https://s2.loli.net/2024/11/22/DLZarg4ckF5eXyn.png" alt="Screenshot 2024-11-19 at 10.11.15.png" style="zoom: 33%;" />
 
-**COST 23' [Children's Toy Design Process Based on the Kano-AHP-FBS Model: Case of Multisensory Educational Toys](\https://ieeexplore.ieee.org/abstract/document/10336473)**
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COST 2023</div><img src='https://s2.loli.net/2024/11/22/zwoHpcfM5tGO6yE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [Children's Toy Design Process Based on the Kano-AHP-FBS Model: Case of Multisensory Educational Toys](\https://ieeexplore.ieee.org/abstract/document/10336473)**
 
 ***Yixuan Li**, Lei Xue∗*
 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 - User needs
+
   - Design model
+
   - Children's Toy Design
 
-**HCII'23 [Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”](https://link.springer.com/chapter/10.1007/978-3-031-35599-8_8)**
+    </div>
+    </div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HCII 2023</div><img src='https://s2.loli.net/2024/11/22/6U1AEutB9oXsdPj.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”](https://link.springer.com/chapter/10.1007/978-3-031-35599-8_8)**
 
 *Xiaoyang Qian , **Yixuan Li**, Lei Xue∗*
 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 - Multiple intelligence theory
+
 - Emotional design
+
 - Learning by playing
 
-<img src="https://s2.loli.net/2024/11/22/6U1AEutB9oXsdPj.jpg" alt="Group 2090052108.jpg" style="zoom: 8%;" />
+  </div>
+  </div>
 
-# 💻 Research Experience
+# 💻 Experience
+
+## 🔬Research 
 
 - *2024.05*, <img src="https://s2.loli.net/2024/11/22/cYVRtEDkluAIh2y.png" alt="image 1342.png" style="zoom: 25%;" />[The Hong Kong University of Science and Technology (Guangzhou), Computational Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), Research Associate, Guangzhou.
 
@@ -106,7 +147,7 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 
   Capturing users' behavioral, developing visual physiological data interfaces as socio-emotional cues in asynchronous games, and exploring emotional communication features in VR. Supervisor: Prof. Yukang Yan.
 
-# 💻 Internships
+## 💻 Internships
 
 - *2023.12 - 2024.05*, <img src="https://s2.loli.net/2024/11/22/gCjFyeYdszu9KRL.png" alt="image 1345.png" style="zoom:25%;" />[BMW (China) Service Co., Ltd](https://www.bmwgroup.com/en/news/general/2019/china-fe.html), Electric Vehicle Program & User Research Internship, China.
 
@@ -120,27 +161,7 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 
   Responsible for planning and arranging the solo exhibition of Central Academy of Fine Arts artist Dazhi, dynamic poster production, push production, etc. Accumulated more than 10,000 radiant people.
 
-# 🎨 Design
-
-- *2023.12 - 2024.02*, [Plastic Response x Artworks Composition Patch Series](https://mp.weixin.qq.com/s/iMmlwcnNrE4ovLfAIlNTmg), 798 Art Space Exhibition, Beijing
-  In collaboration with the eco-friendly brand Plastic Answer, an installation made from recycled plastic sheets was exhibited in the Infinity x City-Children's Art Festival at the Shanzhongtian Art Center-Genkan.
-
-  
-
-- *2022.09 - 2023.03*,  [Xiaomi 14&14 pro Vibration Waveform Optimization Design](https://www.mi.com/xiaomi-14), Xiaomi Flagship Phone
-  Using accelerometers, Pico5444DMSO oscilloscopes, semi-structured interviews with users, UEQ, using multiple linear regression, KMO, particle swarm optimization algorithms to analyze the data and generate new waveforms.
-
-  
-
-- *2023.10 - 2024.03*, IKEA x  [LIVAT](https://www.ingkacentres.com/zh-cn/where-we-are/china/livat-beijing), [Stainable Healing Space Installation](https://mp.weixin.qq.com/s/kerrR8LTFeLgs1cW6KdA8w), Beijing LIVAT
-  In collaboration with IKEA and INGKA Group, we designed a space installation in Beijing's largest commercial space for parents and children. The work was introduced to Jesper Brodin, CEO of INGKA Group, and was supported by the leading groups in Sweden and China.
-
-  
-
-- *2022.10 - 2023.07*, Faculty Celebration Wall Visualization Design, Beijing Forestry University Academic Research Building
-  To meet the 10th anniversary of the School of Art and Design, we designed the exhibition wall on the 12th floor of the Research Building of Beijing Forestry University, responsible for the content layout and spatial dynamic line design.
-
-# 📒 Project
+## 📒 Project
 
 - 2023.06 - Present, Beijing Association of Higher Education Funding Program, AIGC-Assisted Design Teaching｜Core member
   Responsible for writing the research report of AIGC-assisted design and conducting the teaching experiment. Utilized Python to analyze the data and complete the paper writing, totaling more than 30,000 words. Supervisor: Xue Lei.
@@ -162,9 +183,27 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 - 2023.09 - 2023.11,  [BMW x Tongji University Innovation Challenge Camp](https://www.sohu.com/a/735124266_121124373)｜Copilot Interactive System Design, Core Member
   Jointly with BMW AI training platform, the output of design combining generative large model with in-vehicle multimodal recognition, personalized HMI and emotional interaction in car experience for users, exhibited at the Tongji University, won the second prize. 
 
-  
+# 🎨 Design
+
+- *2023.12 - 2024.02*, [Plastic Response x Artworks Composition Patch Series](https://mp.weixin.qq.com/s/iMmlwcnNrE4ovLfAIlNTmg), 798 Art Space Exhibition, Beijing
+  In collaboration with the eco-friendly brand Plastic Answer, an installation made from recycled plastic sheets was exhibited in the Infinity x City-Children's Art Festival at the Shanzhongtian Art Center-Genkan.
 
   
+
+- *2022.09 - 2023.03*,  [Xiaomi 14&14 pro Vibration Waveform Optimization Design](https://www.mi.com/xiaomi-14), Xiaomi Flagship Phone
+  Using accelerometers, Pico5444DMSO oscilloscopes, semi-structured interviews with users, UEQ, using multiple linear regression, KMO, particle swarm optimization algorithms to analyze the data and generate new waveforms.
+
+  
+
+- *2023.10 - 2024.03*, IKEA x  [LIVAT](https://www.ingkacentres.com/zh-cn/where-we-are/china/livat-beijing), [Stainable Healing Space Installation](https://mp.weixin.qq.com/s/kerrR8LTFeLgs1cW6KdA8w), Beijing LIVAT
+  In collaboration with IKEA and INGKA Group, we designed a space installation in Beijing's largest commercial space for parents and children. The work was introduced to Jesper Brodin, CEO of INGKA Group, and was supported by the leading groups in Sweden and China.
+
+  
+
+- *2022.10 - 2023.07*, Faculty Celebration Wall Visualization Design, Beijing Forestry University Academic Research Building
+  To meet the 10th anniversary of the School of Art and Design, we designed the exhibition wall on the 12th floor of the Research Building of Beijing Forestry University, responsible for the content layout and spatial dynamic line design.
+
+
 
 # 🎖 Honors and Awards
 
