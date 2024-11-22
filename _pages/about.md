@@ -43,7 +43,7 @@ I am interested in human-computer interaction (HCI), specifically in the design 
             SemanticTap: A Haptic Toolkit for Vibration Semantic Design of Smartphone
         </a>
         <p>
-            <i>Rui Zhang</i>, <b>Yixuan Li∗</b>, Zihuang Wu, Yong Zhang, Jie Zhao, Yang Jiao†
+            <i>Rui Zhang, <b>Yixuan Li∗</b>, Zihuang Wu, Yong Zhang, Jie Zhao, Yang Jiao†</i>
         </p>
         <ul>
             <li>Haptic experience</li>
@@ -64,7 +64,7 @@ I am interested in human-computer interaction (HCI), specifically in the design 
             EmoPus: Providing Emotional and Tactile Comfort with an AI Desk Companion Octopus
         </a>
         <p>
-            <i>Yixuan Li∗</i>, Zhaowen Deng∗, Yanying Zhu
+            <i><b>Yixuan Li∗</b>, Zhaowen Deng∗, Yanying Zhu</i>
         </p>
         <ul>
             <li>Emotional Companion</li>
@@ -85,7 +85,7 @@ I am interested in human-computer interaction (HCI), specifically in the design 
         <a href="https://link.springer.com/chapter/10.1007/978-3-031-35599-8_8">
             Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”
         </a>
-        <p><b>Yixuan Li∗</b>, Rui Zhang∗, Liwen He, Yang Jiao†</p>
+        <p><i><b>Yixuan Li∗</b>, Rui Zhang∗, Liwen He, Yang Jiao†</i></p>
         <ul>
             <li>Haptic Experience</li>
             <li>Smartphone</li>
@@ -106,7 +106,7 @@ I am interested in human-computer interaction (HCI), specifically in the design 
         <a href="https://ieeexplore.ieee.org/abstract/document/10336473">
             Children's Toy Design Process Based on the Kano-AHP-FBS Model: Case of Multisensory Educational Toys
         </a>
-        <p><b>Yixuan Li</b>, Lei Xue∗</p>
+        <p><i><b>Yixuan Li</b>, Lei Xue∗</i></p>
         <ul>
             <li>User needs</li>
             <li>Design model</li>
@@ -126,7 +126,7 @@ I am interested in human-computer interaction (HCI), specifically in the design 
         <a href="https://link.springer.com/chapter/10.1007/978-3-031-35599-8_8">
             Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”
         </a>
-        <p><b>Xiaoyang Qian</b>, <b>Yixuan Li</b>, Lei Xue∗</p>
+        <p><i>Xiaoyang Qian, <b>Yixuan Li</b>, Lei Xue∗</i></p>
         <ul>
             <li>Multiple intelligence theory</li>
             <li>Emotional design</li>
