@@ -45,11 +45,6 @@ I am interested in human-computer interaction (HCI), specifically in the design 
         <p>
             <i>Rui Zhang</i>, <b>Yixuan Li∗</b>, Zihuang Wu, Yong Zhang, Jie Zhao, Yang Jiao†
         </p>
-        <p>
-            <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC">
-                <b>Project</b>
-            </a>
-        </p>
         <ul>
             <li>Haptic experience</li>
             <li>Vibration Design Toolkit</li>
@@ -71,11 +66,6 @@ I am interested in human-computer interaction (HCI), specifically in the design 
         <p>
             <i>Yixuan Li∗</i>, Zhaowen Deng∗, Yanying Zhu
         </p>
-        <p>
-            <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC">
-                <b>Project</b>
-            </a>
-        </p>
         <ul>
             <li>Emotional Companion</li>
             <li>AI Robot</li>
@@ -96,9 +86,6 @@ I am interested in human-computer interaction (HCI), specifically in the design 
             Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”
         </a>
         <p><b>Yixuan Li∗</b>, Rui Zhang∗, Liwen He, Yang Jiao†</p>
-        <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC">
-            <b>Project</b>
-        </a>
         <ul>
             <li>Haptic Experience</li>
             <li>Smartphone</li>
@@ -120,9 +107,6 @@ I am interested in human-computer interaction (HCI), specifically in the design 
             Children's Toy Design Process Based on the Kano-AHP-FBS Model: Case of Multisensory Educational Toys
         </a>
         <p><b>Yixuan Li</b>, Lei Xue∗</p>
-        <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC">
-            <b>Project</b>
-        </a>
         <ul>
             <li>User needs</li>
             <li>Design model</li>
@@ -143,9 +127,6 @@ I am interested in human-computer interaction (HCI), specifically in the design 
             Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”
         </a>
         <p><b>Xiaoyang Qian</b>, <b>Yixuan Li</b>, Lei Xue∗</p>
-        <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC">
-            <b>Project</b>
-        </a>
         <ul>
             <li>Multiple intelligence theory</li>
             <li>Emotional design</li>
