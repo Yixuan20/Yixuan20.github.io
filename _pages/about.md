@@ -213,7 +213,7 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 
 ## ◻️ Scholarships
 
-- *2024.9*  [Baosteel Outstanding Student Scholarship](https://artpro.com/gallery/1468) (approximately 500 candidates nationwide worldwide each year). 
+- *2024.9*  [Baosteel Outstanding Student Scholarship](http://www.bsef.baosteel.com/#/) (approximately 500 candidates nationwide worldwide each year). 
 - *2024.09*  China National Scholarship (1%) 
 - *2023.09*  China National Scholarship (1%) 
 - *2024, 2023, 2022*  BJFU Outstanding Student First Class Scholarship (2%)
