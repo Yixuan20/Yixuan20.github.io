@@ -19,7 +19,7 @@ redirect_from:
 
 I am a junior student at Beijing Forestry University, majored in product design at the School of Art and Design while minoring in Computer Art at the School of Information Science and Technology. I will be pursuing a master’s degree in Electronic Information at Tsinghua University in 2025.
 
-I have research experience at The Hong Kong University of Science and Technology (Guangzhou), Tsinghua University's Future Lab, and the Southern University of Science and Technology, along with work experience at BMW (China) Service Co., Ltd. These experiences have helped me develop a foundation in interdisciplinary fields, showcasing my ability to integrate research with design and promote technological innovation.
+I have research experience at [The Hong Kong University of Science and Technology (Guangzhou), Computational Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), [Future Laboratory, Tsinghua University ](https://thfl.tsinghua.edu.cn/en/), and the [Southern University of Science and Technology, School of Design](https://designschool.sustech.edu.cn/), along with work experience at [BMW (China) Service Co., Ltd](https://www.bmwgroup.com/en/news/general/2019/china-fe.html). These experiences have helped me develop a foundation in interdisciplinary fields, showcasing my ability to integrate research with design and promote technological innovation.
 
 I am interested in human-computer interaction (HCI), specifically in the design of tangible interfaces, wearables, and haptic feedback.
 
@@ -41,7 +41,7 @@ ICMI'24 [SemanticTap: A Haptic Toolkit for Vibration Semantic Design of Smartpho
   - Smartphone
 - Vibration Design Toolkit
 
-![Group 2271.jpg](https://s2.loli.net/2024/11/22/SwoF3c1CXb6TPp7.jpg)
+<img src="https://s2.loli.net/2024/11/22/SwoF3c1CXb6TPp7.jpg" alt="Group 2271.jpg" style="zoom:80%;" />
 
 UIST '24 [EmoPus: Providing Emotional and Tactile Comfort with a AI Desk Companion Octopus](https://dl.acm.org/doi/abs/10.1145/3672539.3686730)
 
@@ -51,7 +51,7 @@ UIST '24 [EmoPus: Providing Emotional and Tactile Comfort with a AI Desk Compani
 - AI Robot
 - Tactile Comfort
 
-![Screenshot 2024-11-19 at 12.22.50.png](https://s2.loli.net/2024/11/22/dU7nPHlKVIeNOWu.png)
+<img src="https://s2.loli.net/2024/11/22/dU7nPHlKVIeNOWu.png" alt="Screenshot 2024-11-19 at 12.22.50.png" style="zoom:67%;" />
 
 CHCHI '24 [Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”](https://link.springer.com/chapter/10.1007/978-3-031-35599-8_8)
 
@@ -62,7 +62,7 @@ CHCHI '24 [Children's Toy Design Based on Multiple Intelligence Theory–Researc
 - Computing System
 - Subjective Perception
 
-![Screenshot 2024-11-19 at 10.11.15.png](https://s2.loli.net/2024/11/22/DLZarg4ckF5eXyn.png)
+<img src="https://s2.loli.net/2024/11/22/DLZarg4ckF5eXyn.png" alt="Screenshot 2024-11-19 at 10.11.15.png" style="zoom:50%;" />
 
 COST 23' [Children's Toy Design Process Based on the Kano-AHP-FBS Model: Case of Multisensory Educational Toys](\https://ieeexplore.ieee.org/abstract/document/10336473)
 
@@ -72,8 +72,6 @@ COST 23' [Children's Toy Design Process Based on the Kano-AHP-FBS Model: Case of
   - Design model
   - Children's Toy Design
 
-![Screenshot 2024-11-19 at 13.49.59.png](https://s2.loli.net/2024/11/22/IvVmEBQ9jtUanu8.png)
-
 HCII'23 [Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”](https://link.springer.com/chapter/10.1007/978-3-031-35599-8_8)
 
 *Xiaoyang Qian , **Yixuan Li**, Lei Xue∗*
@@ -82,7 +80,7 @@ HCII'23 [Children's Toy Design Based on Multiple Intelligence Theory–Research 
 - Emotional design
 - Learning by playing
 
-![Group 2090052108.jpg](https://s2.loli.net/2024/11/22/6U1AEutB9oXsdPj.jpg)
+<img src="https://s2.loli.net/2024/11/22/6U1AEutB9oXsdPj.jpg" alt="Group 2090052108.jpg" style="zoom:33%;" />
 
 # 💻 Research Experience
 
