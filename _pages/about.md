@@ -139,11 +139,11 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 
 ## ◻️ Research 
 
-- *2024.05*, <img src="https://s2.loli.net/2024/11/22/cYVRtEDkluAIh2y.png" alt="image 1342.png" style="zoom: 25%;" />[The Hong Kong University of Science and Technology (Guangzhou), Computational Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), Research Associate, Guangzhou.
+- *2024.05*, <img src="https://s2.loli.net/2024/11/22/cYVRtEDkluAIh2y.png" alt="image 1342.png" style="zoom: 25%;" /> [The Hong Kong University of Science and Technology (Guangzhou), Computational Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), Research Associate, Guangzhou.
 
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Join in HKUST(GZ) as a Research Assistant in Human-Computer Interaction, research direction: child-oriented tangible interfaces/devices. Supervisor: Xin Tong. </p>
 
-- *2023.05 - 2023.07*, <img src="https://s2.loli.net/2024/11/22/8793FvuPUfNHzeY.png" alt="image 1344.png" style="zoom: 25%;" />[Southern University of Science and Technology, School of Design](https://designschool.sustech.edu.cn/), Visiting Student, Shenzhen.
+- *2023.05 - 2023.07*, <img src="https://s2.loli.net/2024/11/22/8793FvuPUfNHzeY.png" alt="image 1344.png" style="zoom: 25%;" /> [Southern University of Science and Technology, School of Design](https://designschool.sustech.edu.cn/), Visiting Student, Shenzhen.
 
 - <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     As a visiting student of Prof. Mirna ZORDAN, assisted in research on behavioral performance of environments under complex conditions, and conducted literature reviews and Unity productions related to human peripheral vision, Hong Kong's high-density cities, and so on. </p>
 
@@ -151,17 +151,17 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for analyzing the evaluation dimensions of smartphone vibration feedback, user experiments and comparative cross-testing research of multiple terminals.Supervisor: Prof. Yang Jiao. </p>
 
-- *2022.10 - 2023.07*, <img src="https://s2.loli.net/2024/11/22/qaV8RZj5OK9Sgpt.png" alt="Screenshot 2024-11-22 at 01.44.58 1.png" style="zoom:25%;" />[North Carolina State University, Wilson College of Textiles](https://textiles.ncsu.edu/), USA.
+- *2022.10 - 2023.07*, <img src="https://s2.loli.net/2024/11/22/qaV8RZj5OK9Sgpt.png" alt="Screenshot 2024-11-22 at 01.44.58 1.png" style="zoom:25%;" /> [North Carolina State University, Wilson College of Textiles](https://textiles.ncsu.edu/), USA.
 
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Cooperate with Applied the deformation effect of memory alloy based on SCR signal to origami structured textiles, researched and designed a wearable device, and created a poster for presentation. Supervisor: Prof. Rong Yin. </p>
 
-- *2024.01 - 2024.05*, <img src="https://s2.loli.net/2024/11/22/w5kXLAjJo7BVtgR.png" alt="image 1343.png" style="zoom:25%;" />University of Rochester, Department of Computer Science, Research Intern, USA.
+- *2024.01 - 2024.05*, <img src="https://s2.loli.net/2024/11/22/w5kXLAjJo7BVtgR.png" alt="image 1343.png" style="zoom:25%;" /> University of Rochester, Department of Computer Science, Research Intern, USA.
 
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Capturing users' behavioral, developing visual physiological data interfaces as socio-emotional cues in asynchronous games, and exploring emotional communication features in VR. Supervisor: Prof. Yukang Yan. </p>
 
 ## ◻️ Internships
 
-- *2023.12 - 2024.05*, <img src="https://s2.loli.net/2024/11/22/gCjFyeYdszu9KRL.png" alt="image 1345.png" style="zoom:25%;" />[BMW (China) Service Co., Ltd](https://www.bmwgroup.com/en/news/general/2019/china-fe.html), Electric Vehicle Program & User Research Internship, China.
+- *2023.12 - 2024.05*, <img src="https://s2.loli.net/2024/11/22/gCjFyeYdszu9KRL.png" alt="image 1345.png" style="zoom:25%;" /> [BMW (China) Service Co., Ltd](https://www.bmwgroup.com/en/news/general/2019/china-fe.html), Electric Vehicle Program & User Research Internship, China.
 
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Conducted testing and market research on the BMW tram charging system as well as in-vehicle hardware and interfaces, and analyzed competitor vehicles such as NIO and XPeng for cross-testing comparisons. </p>
 
@@ -215,7 +215,7 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 
 ## ◻️ Scholarships
 
-- *2024.9*  Baosteel Outstanding Student Scholarship [Shenzhen EDA Art Space](https://artpro.com/gallery/1468) (approximately 500 people nationwide). 
+- *2024.9*  [Baosteel Outstanding Student Scholarship](https://artpro.com/gallery/1468) (approximately 500 candidates nationwide worldwide each year). 
 - *2024.09*  China National Scholarship (1%) 
 - *2023.09*  China National Scholarship (1%) 
 - *2024, 2023, 2022*  BJFU Outstanding Student First Class Scholarship (2%)
