@@ -154,8 +154,6 @@ I am interested in human-computer interaction (HCI), specifically in the design 
     </div>
 </div>
 
-
-
 # 💻 Experience
 
 ## ◻️ Research 
@@ -174,113 +172,61 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 
 - *2022.10 - 2023.07*, <img src="https://s2.loli.net/2024/11/22/qaV8RZj5OK9Sgpt.png" alt="Screenshot 2024-11-22 at 01.44.58 1.png" style="zoom:25%;" />[North Carolina State University, Wilson College of Textiles](https://textiles.ncsu.edu/), USA.
 
-  
-
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for analyzing the evaluation dimensions of smartphone vibration feedback, user experiments and comparative cross-testing research of multiple terminals.Supervisor: Prof. Yang Jiao. </p>
-
-  Cooperate with Applied the deformation effect of memory alloy based on SCR signal to origami structured textiles, researched and designed a wearable device, and created a poster for presentation. Supervisor: Prof. Rong Yin.
+  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Cooperate with Applied the deformation effect of memory alloy based on SCR signal to origami structured textiles, researched and designed a wearable device, and created a poster for presentation. Supervisor: Prof. Rong Yin. </p>
 
 - *2024.01 - 2024.05*, <img src="https://s2.loli.net/2024/11/22/w5kXLAjJo7BVtgR.png" alt="image 1343.png" style="zoom:25%;" />University of Rochester, Department of Computer Science, Research Intern, USA.
 
-  
-
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for analyzing the evaluation dimensions of smartphone vibration feedback, user experiments and comparative cross-testing research of multiple terminals.Supervisor: Prof. Yang Jiao. </p>
-
-  Capturing users' behavioral, developing visual physiological data interfaces as socio-emotional cues in asynchronous games, and exploring emotional communication features in VR. Supervisor: Prof. Yukang Yan.
+  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Capturing users' behavioral, developing visual physiological data interfaces as socio-emotional cues in asynchronous games, and exploring emotional communication features in VR. Supervisor: Prof. Yukang Yan. </p>
 
 ## ◻️ Internships
 
 - *2023.12 - 2024.05*, <img src="https://s2.loli.net/2024/11/22/gCjFyeYdszu9KRL.png" alt="image 1345.png" style="zoom:25%;" />[BMW (China) Service Co., Ltd](https://www.bmwgroup.com/en/news/general/2019/china-fe.html), Electric Vehicle Program & User Research Internship, China.
 
-  
-
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for analyzing the evaluation dimensions of smartphone vibration feedback, user experiments and comparative cross-testing research of multiple terminals.Supervisor: Prof. Yang Jiao. </p>
-
-  Conducted testing and market research on the BMW tram charging system as well as in-vehicle hardware and interfaces, and analyzed competitor vehicles such as NIO and XPeng for cross-testing comparisons.
+  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Conducted testing and market research on the BMW tram charging system as well as in-vehicle hardware and interfaces, and analyzed competitor vehicles such as NIO and XPeng for cross-testing comparisons. </p>
 
 - *2022.10 - 2023.07*, Guangzhou Yuanwukong Technology Co., UI Designer, China.
 
-  
-
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for analyzing the evaluation dimensions of smartphone vibration feedback, user experiments and comparative cross-testing research of multiple terminals.Supervisor: Prof. Yang Jiao. </p>
-
-  Cooperate with developers to complete the tasks of interaction, design and user experience research of the project. Analyze business requirements and generate interface and physical product prototypes through user research.
+  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Cooperate with developers to complete the tasks of interaction, design and user experience research of the project. Analyze business requirements and generate interface and physical product prototypes through user research. </p>
 
 - *2022.06 - 2022.09*, [Shenzhen EDA Art Space](https://artpro.com/gallery/1468), Curatorial Assistant, China.
 
-  
-
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for analyzing the evaluation dimensions of smartphone vibration feedback, user experiments and comparative cross-testing research of multiple terminals.Supervisor: Prof. Yang Jiao. </p>
-
-  Responsible for planning and arranging the solo exhibition of Central Academy of Fine Arts artist Dazhi, dynamic poster production, push production, etc. Accumulated more than 10,000 radiant people.
+  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for planning and arranging the solo exhibition of Central Academy of Fine Arts artist Dazhi, dynamic poster production, push production, etc. Accumulated more than 10,000 radiant people. </p>
 
 ## ◻️ Project
 
 - 2023.06 - Present, Beijing Association of Higher Education Funding Program, AIGC-Assisted Design Teaching｜Core member
 
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for analyzing the evaluation dimensions of smartphone vibration feedback, user experiments and comparative cross-testing research of multiple terminals.Supervisor: Prof. Yang Jiao. </p>
-
-- Responsible for writing the research report of AIGC-assisted design and conducting the teaching experiment. Utilized Python to analyze the data and complete the paper writing, totaling more than 30,000 words. Supervisor: Xue Lei.
-
-  
+  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for writing the research report of AIGC-assisted design and conducting the teaching experiment. Utilized Python to analyze the data and complete the paper writing, totaling more than 30,000 words. Supervisor: Xue Lei. </p>
 
 - 2023.02 - Present, [Supported by the Fundamental Research Funds for the Central Universities](https://artpro.com/gallery/1468), Research on the Innovation System of “Green Community Service Design” under the Concept of Ecological Civilization ｜Core Member
 
-  
-
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for analyzing the evaluation dimensions of smartphone vibration feedback, user experiments and comparative cross-testing research of multiple terminals.Supervisor: Prof. Yang Jiao. </p>
-
-  Responsible for more than 50,000 words of writing, and 40+ case studies on sustainable communities. Supervisor: Xue Lei.
-
-  
+  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for more than 50,000 words of writing, and 40+ case studies on sustainable communities. Supervisor: Xue Lei. </p>
 
 - 2023.05 - 2024.09, [National level Innovation and Entrepreneurship Training Program for Undergraduates](http://gjcxcy.bjtu.edu.cn/), Research on the renovation of child-friendly space in old communities based on community co-construction｜Leader
 
-  
-
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for analyzing the evaluation dimensions of smartphone vibration feedback, user experiments and comparative cross-testing research of multiple terminals.Supervisor: Prof. Yang Jiao. </p>
-
-  Responsible for paper writing and designing experiments, organizing co-construction activities in Beijing Petroleum  Community, and implementing community renovation programs. At present, we already granted a notice of acceptance of appearance patent.
-
-  
+  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for paper writing and designing experiments, organizing co-construction activities in Beijing Petroleum  Community, and implementing community renovation programs. At present, we already granted a notice of acceptance of appearance patent. </p>
 
 - 2023.09 - 2023.11,  [BMW x Tongji University Innovation Challenge Camp](https://www.sohu.com/a/735124266_121124373)｜Copilot Interactive System Design, Core Member
 
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for analyzing the evaluation dimensions of smartphone vibration feedback, user experiments and comparative cross-testing research of multiple terminals.Supervisor: Prof. Yang Jiao. </p>
-
-- Jointly with BMW AI training platform, the output of design combining generative large model with in-vehicle multimodal recognition, personalized HMI and emotional interaction in car experience for users, exhibited at the Tongji University, won the second prize. 
+  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Jointly with BMW AI training platform, the output of design combining generative large model with in-vehicle multimodal recognition, personalized HMI and emotional interaction in car experience for users, exhibited at the Tongji University, won the second prize.  </p>
 
 # 🎨 Design
 
 - *2023.12 - 2024.02*, [Plastic Response x Artworks Composition Patch Series](https://mp.weixin.qq.com/s/iMmlwcnNrE4ovLfAIlNTmg), 798 Art Space Exhibition, Beijing
 
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for analyzing the evaluation dimensions of smartphone vibration feedback, user experiments and comparative cross-testing research of multiple terminals.Supervisor: Prof. Yang Jiao. </p>
-
-- In collaboration with the eco-friendly brand Plastic Answer, an installation made from recycled plastic sheets was exhibited in the Infinity x City-Children's Art Festival at the Shanzhongtian Art Center-Genkan.
-
-  
+  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     In collaboration with the eco-friendly brand Plastic Answer, an installation made from recycled plastic sheets was exhibited in the Infinity x City-Children's Art Festival at the Shanzhongtian Art Center-Genkan. </p>
 
 - *2022.09 - 2023.03*,  [Xiaomi 14&14 pro Vibration Waveform Optimization Design](https://www.mi.com/xiaomi-14), Xiaomi Flagship Phone
 
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for analyzing the evaluation dimensions of smartphone vibration feedback, user experiments and comparative cross-testing research of multiple terminals.Supervisor: Prof. Yang Jiao. </p>
-
-- Using accelerometers, Pico5444DMSO oscilloscopes, semi-structured interviews with users, UEQ, using multiple linear regression, KMO, particle swarm optimization algorithms to analyze the data and generate new waveforms.
-
-  
+  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Using accelerometers, Pico5444DMSO oscilloscopes, semi-structured interviews with users, UEQ, using multiple linear regression, KMO, particle swarm optimization algorithms to analyze the data and generate new waveforms. </p>
 
 - *2023.10 - 2024.03*, IKEA x  [LIVAT](https://www.ingkacentres.com/zh-cn/where-we-are/china/livat-beijing), [Stainable Healing Space Installation](https://mp.weixin.qq.com/s/kerrR8LTFeLgs1cW6KdA8w), Beijing LIVAT
 
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for analyzing the evaluation dimensions of smartphone vibration feedback, user experiments and comparative cross-testing research of multiple terminals.Supervisor: Prof. Yang Jiao. </p>
-
-- In collaboration with IKEA and INGKA Group, we designed a space installation in Beijing's largest commercial space for parents and children. The work was introduced to Jesper Brodin, CEO of INGKA Group, and was supported by the leading groups in Sweden and China.
-
-  
+  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     In collaboration with IKEA and INGKA Group, we designed a space installation in Beijing's largest commercial space for parents and children. The work was introduced to Jesper Brodin, CEO of INGKA Group, and was supported by the leading groups in Sweden and China. </p>
 
 - *2022.10 - 2023.07*, Faculty Celebration Wall Visualization Design, Beijing Forestry University Academic Research Building
 
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for analyzing the evaluation dimensions of smartphone vibration feedback, user experiments and comparative cross-testing research of multiple terminals.Supervisor: Prof. Yang Jiao. </p>
-
-- To meet the 10th anniversary of the School of Art and Design, we designed the exhibition wall on the 12th floor of the Research Building of Beijing Forestry University, responsible for the content layout and spatial dynamic line design.
+  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     To meet the 10th anniversary of the School of Art and Design, we designed the exhibition wall on the 12th floor of the Research Building of Beijing Forestry University, responsible for the content layout and spatial dynamic line design. </p>
 
 
 
