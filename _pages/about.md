@@ -31,57 +31,58 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMI 2024</div><img src='https://s2.loli.net/2024/11/22/SwoF3c1CXb6TPp7.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SemanticTap: A Haptic Toolkit for Vibration Semantic Design of Smartphone](https://dl.acm.org/doi/abs/10.1145/3678957.3685739)
-
-*Rui Zhang*, **Yixuan Li∗**, Zihuang Wu, Yong Zhang, Jie Zhao, Yang Jiao†*
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- Haptic experience
-- Vibration Design Toolkit
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">ICMI 2024</div>
+            <img src='https://s2.loli.net/2024/11/22/SwoF3c1CXb6TPp7.jpg' alt="sym" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://dl.acm.org/doi/abs/10.1145/3678957.3685739">
+            SemanticTap: A Haptic Toolkit for Vibration Semantic Design of Smartphone
+        </a>
+        <p>
+            <i>Rui Zhang</i>, <b>Yixuan Li∗</b>, Zihuang Wu, Yong Zhang, Jie Zhao, Yang Jiao†
+        </p>
+        <p>
+            <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC">
+                <b>Project</b>
+            </a>
+        </p>
+        <ul>
+            <li>Haptic experience</li>
+            <li>Vibration Design Toolkit</li>
+        </ul>
+    </div>
 </div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">UIST 2024</div>
+            <img src='https://s2.loli.net/2024/11/22/dU7nPHlKVIeNOWu.png' alt="sym" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://dl.acm.org/doi/abs/10.1145/3672539.3686730">
+            EmoPus: Providing Emotional and Tactile Comfort with an AI Desk Companion Octopus
+        </a>
+        <p>
+            <i>Yixuan Li∗</i>, Zhaowen Deng∗, Yanying Zhu
+        </p>
+        <p>
+            <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC">
+                <b>Project</b>
+            </a>
+        </p>
+        <ul>
+            <li>Emotional Companion</li>
+            <li>AI Robot</li>
+            <li>Tactile Comfort</li>
+        </ul>
+    </div>
 </div>
-
-
-
-# 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMI 2024</div><img src='https://s2.loli.net/2024/11/22/SwoF3c1CXb6TPp7.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SemanticTap: A Haptic Toolkit for Vibration Semantic Design of Smartphone](https://dl.acm.org/doi/abs/10.1145/3678957.3685739)
-
-*Rui Zhang*, **Yixuan Li∗**, Zihuang Wu, Yong Zhang, Jie Zhao, Yang Jiao†*
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- Haptic experience
-- Vibration Design Toolkit
-  </div>
-  </div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2024</div><img src='https://s2.loli.net/2024/11/22/dU7nPHlKVIeNOWu.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[EmoPus: Providing Emotional and Tactile Comfort with a AI Desk Companion Octopus](https://dl.acm.org/doi/abs/10.1145/3672539.3686730)
-
-***Yixuan Li∗**, Zhaowen Deng∗, Yanying Zhu*
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- Emotional Companion
-
-- AI Robot
-
-- Tactile Comfort
-
-  </div>
-  </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHCHI 2024</div><img src='https://s2.loli.net/2024/11/22/DLZarg4ckF5eXyn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
