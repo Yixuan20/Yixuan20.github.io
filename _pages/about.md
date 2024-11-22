@@ -23,6 +23,8 @@ I have research experience at [The Hong Kong University of Science and Technolog
 
 I am interested in human-computer interaction (HCI), specifically in the design of tangible interfaces, wearables, and haptic feedback.
 
+Email: 17825470707@163.com
+
 # 📖 Educations
 
 - *2025.09 - 2027.06 (expect)*, <img src="https://s2.loli.net/2024/11/22/nyLrt4gP86W2u9S.png" alt=" 2.png" style="zoom:10%;" />Master,  Electronic Information at Tsinghua University.
