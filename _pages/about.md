@@ -63,6 +63,9 @@ I am interested in human-computer interaction (HCI), specifically in the design 
         <a href="https://dl.acm.org/doi/abs/10.1145/3672539.3686730">
             EmoPus: Providing Emotional and Tactile Comfort with an AI Desk Companion Octopus
         </a>
+         <a href="https://www.youtube.com/watch?v=6pnTmdU3NJw&t=12s">
+           Video
+        </a>
         <p>
             <i><b>Yixuan Li∗</b>, Zhaowen Deng∗, Yanying Zhu</i>
         </p>
