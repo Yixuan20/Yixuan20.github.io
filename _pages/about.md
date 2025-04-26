@@ -160,9 +160,8 @@ I am interested in human-computer interaction (HCI), specifically in the design 
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">    <a href="https://www.youtube.com/watch?v=6pnTmdU3NJw&t=12s">
              Video
           </a> </p>
-
   
-
+  
 - *2024.01 - 2024.05*, <img src="https://s2.loli.net/2024/11/22/w5kXLAjJo7BVtgR.png" alt="image 1343.png" style="zoom:25%;" /> University of Rochester, Department of Computer Science, Research Intern, USA.
 
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Capturing users' behavioral, developing visual physiological data interfaces as socio-emotional cues in asynchronous games, and exploring emotional communication features in VR. Supervisor: Prof. Yukang Yan. </p>
@@ -201,13 +200,23 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 
 # 🎨 Design
 
+- 2025.4 "See Diversity" Digital Media Art Exhibition-Mycelium Spectrum
+
+- <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> Inspired by the artwork of children from diverse genealogies and my observations of mushroom morphology, I realized that each individual shines with an irreplaceable life force. Seemingly independent entities are interconnected through a hidden mycelial network, facilitating nutrient exchange and information flow, thus forming a complex ecosystem. The work uses mushrooms as a metaphor and employs tactile installations to simulate the flow of energy within the mycelial network, inviting the audience to reconsider the boundaries of groups in human society. The so-called 'circles' defined by society are not isolated islands, but rather dynamic, interconnected life networks, where each unique individual can remain authentic while becoming a crucial node in sustaining the system's operation. </p>
+
+  <img src="https://imgur.la/images/2025/04/26/image.jpeg" alt="image" border="0">
+
 - *2023.12 - 2024.02*, [Plastic Response x Artworks Composition Patch Series](https://mp.weixin.qq.com/s/iMmlwcnNrE4ovLfAIlNTmg), 798 Art Space Exhibition, Beijing
 
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     In collaboration with the eco-friendly brand Plastic Answer, we designed an installation made from recycled plastic sheets, which was exhibited at the Infinity x City-Children's Art Festival held at the Shanzhongtian Art Center-Genkan. </p>
 
-- *2022.09 - 2023.03*,  [Xiaomi 14 &14 pro Vibration Waveform Optimization Design](https://www.mi.com/xiaomi-14), Xiaomi Flagship Phone
+  <img src="https://imgur.la/images/2025/04/26/Letter---4.png" alt="Letter 4" border="0">
+
+- 2022.09 - 2023.03*,  [Xiaomi 14 &14 pro Vibration Waveform Optimization Design](https://www.mi.com/xiaomi-14), Xiaomi Flagship Phone
 
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Using accelerometers, Pico5444DMSO oscilloscopes, semi-structured interviews with users, UEQ, using multiple linear regression, KMO, particle swarm optimization algorithms to analyze the data and generate new waveforms. </p>
+
+  <img src="https://imgur.la/images/2025/04/26/image840b4994543ce60f.jpeg" alt="image" border="0">
 
 - *2023.10 - 2024.03*, IKEA x  [LIVAT](https://www.ingkacentres.com/zh-cn/where-we-are/china/livat-beijing), [Stainable Healing Space Installation](https://mp.weixin.qq.com/s/kerrR8LTFeLgs1cW6KdA8w), Beijing LIVAT
 
@@ -215,6 +224,8 @@ I am interested in human-computer interaction (HCI), specifically in the design 
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     <a href="https://www.youtube.com/watch?v=L3EMBTZAKxc">
              Video
           </a> </p>
+
+  <img src="https://imgur.la/images/2025/04/26/image30bc5a100d6cabac.jpeg" alt="image" border="0">
 
 - *2022.10 - 2023.07*, Faculty Celebration Wall Visualization Design, Beijing Forestry University Academic Research Building
 
