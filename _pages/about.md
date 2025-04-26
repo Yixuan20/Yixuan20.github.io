@@ -204,7 +204,9 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 
 - <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> Inspired by the artwork of children from diverse genealogies and my observations of mushroom morphology, I realized that each individual shines with an irreplaceable life force. Seemingly independent entities are interconnected through a hidden mycelial network, facilitating nutrient exchange and information flow, thus forming a complex ecosystem. The work uses mushrooms as a metaphor and employs tactile installations to simulate the flow of energy within the mycelial network, inviting the audience to reconsider the boundaries of groups in human society. The so-called 'circles' defined by society are not isolated islands, but rather dynamic, interconnected life networks, where each unique individual can remain authentic while becoming a crucial node in sustaining the system's operation. </p>
 
-  <img src="https://imgur.la/images/2025/04/26/image.jpeg" alt="image" border="0">
+  <div class="paper-box-image">
+      <img src="https://imgur.la/images/2025/04/26/image.jpeg" alt="image" style="width: 100%; border: 0;">
+  </div>
 
 - *2023.12 - 2024.02*, [Plastic Response x Artworks Composition Patch Series](https://mp.weixin.qq.com/s/iMmlwcnNrE4ovLfAIlNTmg), 798 Art Space Exhibition, Beijing
 
