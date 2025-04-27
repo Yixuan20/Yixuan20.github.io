@@ -204,9 +204,7 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 
 - <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> Inspired by the artwork of children from diverse genealogies and my observations of mushroom morphology, I realized that each individual shines with an irreplaceable life force. Seemingly independent entities are interconnected through a hidden mycelial network, facilitating nutrient exchange and information flow, thus forming a complex ecosystem. The work uses mushrooms as a metaphor and employs tactile installations to simulate the flow of energy within the mycelial network, inviting the audience to reconsider the boundaries of groups in human society. The so-called 'circles' defined by society are not isolated islands, but rather dynamic, interconnected life networks, where each unique individual can remain authentic while becoming a crucial node in sustaining the system's operation. </p>
 
-  <div class="paper-box-image">
-      <img src="https://imgur.la/images/2025/04/26/image.jpeg" alt="image" style="width: 100%; border: 0;">
-  </div>
+  ![image](https://imgur.la/images/2025/04/26/image.jpeg)
 
 - *2023.12 - 2024.02*, [Plastic Response x Artworks Composition Patch Series](https://mp.weixin.qq.com/s/iMmlwcnNrE4ovLfAIlNTmg), 798 Art Space Exhibition, Beijing
 
@@ -226,9 +224,8 @@ I am interested in human-computer interaction (HCI), specifically in the design 
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     <a href="https://www.youtube.com/watch?v=L3EMBTZAKxc">
              Video
           </a> </p>
-
   <img src="https://imgur.la/images/2025/04/26/image30bc5a100d6cabac.jpeg" alt="image" border="0">
-
+  
 - *2022.10 - 2023.07*, Faculty Celebration Wall Visualization Design, Beijing Forestry University Academic Research Building
 
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     To meet the 10th anniversary of the School of Art and Design, we designed the exhibition wall on the 12th floor of the Research Building of Beijing Forestry University, responsible for the content layout and spatial dynamic line design. </p>
