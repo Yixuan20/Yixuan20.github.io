@@ -136,6 +136,9 @@ I have research experience at [The Hong Kong University of Science and Technolog
             <i><b>Yixuan Li</b>, Hongni Ye, Yinghao Gao 2025.4</i>
              </p>
          <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> Inspired by the artwork of children from diverse genealogies and my observations of mushroom morphology, I realized that each individual shines with an irreplaceable life force. Seemingly independent entities are interconnected through a hidden mycelial network, facilitating nutrient exchange and information flow, thus forming a complex ecosystem. The work uses mushrooms as a metaphor and employs tactile installations to simulate the flow of energy within the mycelial network, inviting the audience to reconsider the boundaries of groups in human society. The so-called 'circles' defined by society are not isolated islands, but rather dynamic, interconnected life networks, where each unique individual can remain authentic while becoming a crucial node in sustaining the system's operation. </p>
+         </div>
+</div>
+
       <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
@@ -151,6 +154,9 @@ I have research experience at [The Hong Kong University of Science and Technolog
             <i><b>Yixuan Li</b>, Rui Zhang, Zihuang Wu, Yang Jiao 2022.09 - 2023.03,  </i>
              </p>
          <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Using accelerometers, Pico5444DMSO oscilloscopes, semi-structured interviews with users, UEQ, using multiple linear regression, KMO, particle swarm optimization algorithms to analyze the data and generate new waveforms. </p>
+         </div>
+</div>
+      
       <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
@@ -171,6 +177,7 @@ I have research experience at [The Hong Kong University of Science and Technolog
         </ul>
     </div>
 </div>
+      
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
