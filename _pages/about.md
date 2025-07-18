@@ -118,6 +118,21 @@ I have research experience at [The Hong Kong University of Science and Technolog
 
 # 🎨 Design
 
+<style>
+.paper-box {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+    margin-bottom: 30px;
+}
+.paper-box-image {
+    flex: 1;
+    max-width: 40%;
+}
+.paper-box-text {
+    flex: 2;
+}
+</style>
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
