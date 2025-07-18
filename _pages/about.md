@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior undergraduate studentr student at Beijing Forestry University, majored in product design, School of Art and Design, minoring in Computer Art, School of Information Science and Technology. I will be pursuing a master’s degree in Electronic Information at Tsinghua University in 2025.
+I am a master student at Tsinghua Universty, majored in electronic imformation. i 获得了产品设计 B.A 在北京林业大学School of Art and Design, minoring in Computer Art, School of Information Science and Technology.
 
 I have research experience at [The Hong Kong University of Science and Technology (Guangzhou), Computational Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), [Future Laboratory, Tsinghua University ](https://thfl.tsinghua.edu.cn/en/), and the [Southern University of Science and Technology, School of Design](https://designschool.sustech.edu.cn/), along with work experience at [BMW (China) Service Co., Ltd](https://www.bmwgroup.com/en/news/general/2019/china-fe.html). These experiences have helped me build a strong foundation in interdisciplinary fields, fostering my ability to integrate research with design and drive technological innovation.
 
-I am interested in human-computer interaction (HCI), specifically in the design of tangible interfaces, wearables, and haptic feedback.
+I am interested in human-computer interaction (HCI), specifically in the design of tangible interfaces, fabrication, and haptic feedback.
 
 # 📖 Educations
 
@@ -77,66 +77,6 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 </div>
 
 
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">CHCHI 2024</div>
-            <img src='https://s2.loli.net/2024/11/22/DLZarg4ckF5eXyn.png' alt="sym" width="100%">
-        </div>
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://link.springer.com/chapter/10.1007/978-3-031-35599-8_8">
-            Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”
-        </a>
-        <p><i><b>Yixuan Li∗</b>, Rui Zhang∗, Liwen He, Yang Jiao†</i></p>
-        <ul>
-            <li>Haptic Experience</li>
-            <li>Smartphone</li>
-            <li>Computing System</li>
-            <li>Subjective Perception</li>
-        </ul>
-    </div>
-</div>
-
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">COST 2023</div>
-            <img src='https://s2.loli.net/2024/11/22/zwoHpcfM5tGO6yE.png' alt="sym" width="100%">
-        </div>
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://ieeexplore.ieee.org/abstract/document/10336473">
-            Children's Toy Design Process Based on the Kano-AHP-FBS Model: Case of Multisensory Educational Toys
-        </a>
-        <p><i><b>Yixuan Li</b>, Lei Xue∗</i></p>
-        <ul>
-            <li>User needs</li>
-            <li>Design model</li>
-            <li>Children's Toy Design</li>
-        </ul>
-    </div>
-</div>
-
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">HCII 2023</div>
-            <img src='https://s2.loli.net/2024/11/22/6U1AEutB9oXsdPj.jpg' alt="sym" width="100%">
-        </div>
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://link.springer.com/chapter/10.1007/978-3-031-35599-8_8">
-            Children's Toy Design Based on Multiple Intelligence Theory–Research Case of “Spatial Intelligence Design”
-        </a>
-        <p><i>Xiaoyang Qian, <b>Yixuan Li</b>, Lei Xue∗</i></p>
-        <ul>
-            <li>Multiple intelligence theory</li>
-            <li>Emotional design</li>
-            <li>Learning by playing</li>
-        </ul>
-    </div>
-</div>
 
 # 💻 Experience
 
@@ -228,8 +168,18 @@ I am interested in human-computer interaction (HCI), specifically in the design 
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     <a href="https://www.youtube.com/watch?v=L3EMBTZAKxc">
              Video
           </a> </p>
-  <img src="https://imgur.la/images/2025/04/26/image30bc5a100d6cabac.jpeg" alt="image" border="0">
+  <img src="https://i.ibb.co/YBYvhLG9/119.jpg" alt="image" border="0">
   
+- 
+
+- <div class='paper-box'>
+      <div class='paper-box-image'>
+          <div>
+              <div class="badge">ICMI 2024</div>
+              <img src='https://i.ibb.co/YBYvhLG9/119.jpg' alt="sym" width="100%">
+          </div>
+      </div>
+
 - *2022.10 - 2023.07*, Faculty Celebration Wall Visualization Design, Beijing Forestry University Academic Research Building
 
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     To meet the 10th anniversary of the School of Art and Design, we designed the exhibition wall on the 12th floor of the Research Building of Beijing Forestry University, responsible for the content layout and spatial dynamic line design. </p>
