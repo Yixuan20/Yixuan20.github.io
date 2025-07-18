@@ -118,6 +118,86 @@ I have research experience at [The Hong Kong University of Science and Technolog
 
 # 🎨 Design
 
+
+
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Art Exhibition</div>
+             <img src='https://i.ibb.co/0yQs8RvG/image-1475.jpg' alt="sym" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://www.gzlib.org.cn/english/index.jhtml">
+         "See Diversity" Digital Media Art Exhibition-Mycelium Spectrum, Guangzhou library, Guangzhou, China
+        </a>
+        <p>
+            <i><b>Yixuan Li</b>, Hongni Ye, Yinghao Gao 2025.4</i>
+             </p>
+         <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> Inspired by the artwork of children from diverse genealogies and my observations of mushroom morphology, I realized that each individual shines with an irreplaceable life force. Seemingly independent entities are interconnected through a hidden mycelial network, facilitating nutrient exchange and information flow, thus forming a complex ecosystem. The work uses mushrooms as a metaphor and employs tactile installations to simulate the flow of energy within the mycelial network, inviting the audience to reconsider the boundaries of groups in human society. The so-called 'circles' defined by society are not isolated islands, but rather dynamic, interconnected life networks, where each unique individual can remain authentic while becoming a crucial node in sustaining the system's operation. </p>
+      <div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Commercial Products</div>
+             <img src='https://i.ibb.co/pj5dHqjM/Group-2090052059.jpg' alt="sym" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://www.mi.com/xiaomi-14">
+          Xiaomi 14, 14 pro Vibration Waveform Optimization Design, Xiaomi Flagship Phone
+        </a>
+        <p>
+            <i><b>Yixuan Li</b>, Rui Zhang, Zihuang Wu, Yang Jiao 2022.09 - 2023.03,  </i>
+             </p>
+         <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Using accelerometers, Pico5444DMSO oscilloscopes, semi-structured interviews with users, UEQ, using multiple linear regression, KMO, particle swarm optimization algorithms to analyze the data and generate new waveforms. </p>
+      <div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">ICMI 2024</div>
+            <img src='https://s2.loli.net/2024/11/22/SwoF3c1CXb6TPp7.jpg' alt="sym" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://dl.acm.org/doi/abs/10.1145/3678957.3685739">
+            SemanticTap: A Haptic Toolkit for Vibration Semantic Design of Smartphone
+        </a>
+        <p>
+            <i>Rui Zhang∗, <b>Yixuan Li∗</b>, Zihuang Wu, Yong Zhang, Jie Zhao, Yang Jiao†</i>
+        </p>
+        <ul>
+            <li>Haptic experience</li>
+            <li>Vibration Design Toolkit</li>
+        </ul>
+    </div>
+</div>
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">UIST 2024</div>
+            <img src='https://s2.loli.net/2024/11/22/dU7nPHlKVIeNOWu.png' alt="sym" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://dl.acm.org/doi/abs/10.1145/3672539.3686730">
+            EmoPus: Providing Emotional and Tactile Comfort with an AI Desk Companion Octopus
+        </a>
+        <p>
+            <i><b>Yixuan Li∗</b>, Zhaowen Deng∗, Yanying Zhu</i>
+           <a href="https://www.youtube.com/watch?v=6pnTmdU3NJw&t=12s">
+           Video
+        </a>
+        </p>
+        <ul>
+            <li>Emotional Companion</li>
+            <li>AI Robot</li>
+            <li>Tactile Comfort</li>
+        </ul>
+    </div>
+</div>
+
+
+
 <style>
 .paper-box {
     display: flex;
