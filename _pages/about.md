@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master student at Tsinghua Universty, majored in electronic imformation. i 获得了产品设计 B.A 在北京林业大学School of Art and Design, minoring in Computer Art, School of Information Science and Technology.
+I am currently a Master’s student at **Tsinghua University**, majoring in **Electronic Information**. I hold a B.A. in Product Design from Beijing Forestry University, with a minor in Computer Art from theSchool of Information Science and Technology. With a background spanning both **Electrical Engineering** and **Product Design**, my previous research has focused on **tangible interfaces**, **digital fabrication**, and **haptic feedback**.
 
-I have research experience at [The Hong Kong University of Science and Technology (Guangzhou), Computational Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), [Future Laboratory, Tsinghua University ](https://thfl.tsinghua.edu.cn/en/), and the [Southern University of Science and Technology, School of Design](https://designschool.sustech.edu.cn/), along with work experience at [BMW (China) Service Co., Ltd](https://www.bmwgroup.com/en/news/general/2019/china-fe.html). These experiences have helped me build a strong foundation in interdisciplinary fields, fostering my ability to integrate research with design and drive technological innovation.
-
-I am interested in human-computer interaction (HCI), specifically in the design of tangible interfaces, fabrication, and haptic feedback.
+I have research experience at [The Hong Kong University of Science and Technology (Guangzhou), Computational Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), [Future Laboratory, Tsinghua University ](https://thfl.tsinghua.edu.cn/en/), and the [Southern University of Science and Technology, School of Design](https://designschool.sustech.edu.cn/), along with work experience at [BMW (China) Service Co., Ltd](https://www.bmwgroup.com/en/news/general/2019/china-fe.html). These interdisciplinary experiences have strengthened my ability to integrate **design thinking with technical research**, enabling me to develop innovative, user-centered technological solutions.
 
 # 📖 Educations
 
@@ -76,8 +74,6 @@ I am interested in human-computer interaction (HCI), specifically in the design 
     </div>
 </div>
 
-
-
 # 💻 Experience
 
 ## ◻️ Research 
@@ -120,7 +116,96 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for planning and arranging the solo exhibition of Central Academy of Fine Arts artist Dazhi, dynamic poster production, push production, etc. Accumulated more than 10,000 radiant people. </p>
 
-## ◻️ Project
+# 🎨 Design
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Commercial Products</div>
+             <img src='https://i.ibb.co/pj5dHqjM/Group-2090052059.jpg' alt="sym" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://www.mi.com/xiaomi-14">
+          Xiaomi 14, 14 pro Vibration Waveform Optimization Design, Xiaomi Flagship Phone
+        </a>
+        <p>
+            <i><b>Yixuan Li</b>, Rui Zhang, Zihuang Wu, Yang Jiao 2022.09 - 2023.03,  </i>
+             </p>
+         <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Using accelerometers, Pico5444DMSO oscilloscopes, semi-structured interviews with users, UEQ, using multiple linear regression, KMO, particle swarm optimization algorithms to analyze the data and generate new waveforms. </p>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Art Exhibition</div>
+             <img src='https://i.ibb.co/0yQs8RvG/image-1475.jpg' alt="sym" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://www.gzlib.org.cn/english/index.jhtml">
+         "See Diversity" Digital Media Art Exhibition-Mycelium Spectrum, Guangzhou library, Guangzhou, China
+        </a>
+        <p>
+            <i><b>Yixuan Li</b>, Hongni Ye, Yinghao Gao 2025.4</i>
+             </p>
+         <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> Inspired by the artwork of children from diverse genealogies and my observations of mushroom morphology, I realized that each individual shines with an irreplaceable life force. Seemingly independent entities are interconnected through a hidden mycelial network, facilitating nutrient exchange and information flow, thus forming a complex ecosystem. The work uses mushrooms as a metaphor and employs tactile installations to simulate the flow of energy within the mycelial network, inviting the audience to reconsider the boundaries of groups in human society. The so-called 'circles' defined by society are not isolated islands, but rather dynamic, interconnected life networks, where each unique individual can remain authentic while becoming a crucial node in sustaining the system's operation. </p>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Art Exhibition</div>
+             <img src='https://i.ibb.co/YBYvhLG9/119.jpg' alt="sym" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://www.ingkacentres.com/zh-cn/where-we-are/china/livat-beijing">
+           IKEA x  LIVAT, Stainable Healing Space Installation, Beijing LIVAT
+        </a>
+        <p>
+            <i><b>Yixuan Li</b>, Xiaoli Zhou, Peixuan Liu</i>
+          </p>
+                <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     In collaboration with IKEA and INGKA Group, we designed a space installation in Beijing's largest commercial space for parents and children. The work was introduced to Jesper Brodin, CEO of INGKA Group, and was supported by the leading groups in Sweden and China. </p>
+</div>
+<p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     <a href="https://www.youtube.com/watch?v=L3EMBTZAKxc">
+           Video
+        </a> 
+        </p>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Art Exhibition</div>
+             <img src='https://i.ibb.co/21PTt2kr/Group-2090052058.jpg' alt="sym" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://mp.weixin.qq.com/s/iMmlwcnNrE4ovLfAIlNTmg">
+        Plastic Response x Artworks Composition Patch Series, 798 Art Space Exhibition, Beijing, China
+        </a>
+        <p>
+            <i><b>Yixuan Li</b>, Peixuan Liu 2023.12 - 2024.02</i>
+             </p>
+         <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> In collaboration with the eco-friendly brand Plastic Answer, we designed an installation made from recycled plastic sheets, which was exhibited at the Infinity x City-Children's Art Festival held at the Shanzhongtian Art Center-Genkan. </p>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Art Exhibition</div>
+             <img src='https://i.ibb.co/JWQGW8PR/image-1405.jpg' alt="sym" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://www.sohu.com/a/735124266_121124373">
+        BMW x Tongji University Innovation Challenge Camp Exhibition, Copilot Interactive System Design, Shanghai, China
+        </a>
+        <p>
+            Core Member 2023.09 - 2023.11</i>
+             </p>
+        <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Jointly with BMW AI training platform, the output of design combining generative large model with in-vehicle multimodal recognition, personalized HMI and emotional interaction in car experience for users, exhibited at the Tongji University, won the second prize.  </p>
+
+
+
+# 📖 Project
 
 - 2023.06 - Present, Beijing Association of Higher Education Funding Program, AIGC-Assisted Design Teaching｜Core member
 
@@ -134,77 +219,16 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for paper writing and designing experiments, organizing co-construction activities in Beijing Petroleum  Community, and implementing community renovation programs. At present, we already granted a notice of acceptance of appearance patent. </p>
 
-- 2023.09 - 2023.11,  [BMW x Tongji University Innovation Challenge Camp](https://www.sohu.com/a/735124266_121124373)｜Copilot Interactive System Design, Core Member
-
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Jointly with BMW AI training platform, the output of design combining generative large model with in-vehicle multimodal recognition, personalized HMI and emotional interaction in car experience for users, exhibited at the Tongji University, won the second prize.  </p>
-
-# 🎨 Design
-
-- 2025.4 "See Diversity" Digital Media Art Exhibition-Mycelium Spectrum
-
-- <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> Inspired by the artwork of children from diverse genealogies and my observations of mushroom morphology, I realized that each individual shines with an irreplaceable life force. Seemingly independent entities are interconnected through a hidden mycelial network, facilitating nutrient exchange and information flow, thus forming a complex ecosystem. The work uses mushrooms as a metaphor and employs tactile installations to simulate the flow of energy within the mycelial network, inviting the audience to reconsider the boundaries of groups in human society. The so-called 'circles' defined by society are not isolated islands, but rather dynamic, interconnected life networks, where each unique individual can remain authentic while becoming a crucial node in sustaining the system's operation. </p>
-
-  ![image](https://imgur.la/images/2025/04/26/image.jpeg)
-
-- *2023.12 - 2024.02*, [Plastic Response x Artworks Composition Patch Series](https://mp.weixin.qq.com/s/iMmlwcnNrE4ovLfAIlNTmg), 798 Art Space Exhibition, Beijing
-
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     In collaboration with the eco-friendly brand Plastic Answer, we designed an installation made from recycled plastic sheets, which was exhibited at the Infinity x City-Children's Art Festival held at the Shanzhongtian Art Center-Genkan. </p>
-
-  <img src="https://imgur.la/images/2025/07/18/DJI_20250712234133_0294_D.th.jpgs" alt="DJI 20250712234133 0294 D" border="0">
-
-  <a href="https://ibb.co/6JL4Sqrc"><img src="https://i.ibb.co/6JL4Sqrc/2.jpg" alt="2" border="0"></a>
-
-- 2022.09 - 2023.03*,  [Xiaomi 14 &14 pro Vibration Waveform Optimization Design](https://www.mi.com/xiaomi-14), Xiaomi Flagship Phone
-
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Using accelerometers, Pico5444DMSO oscilloscopes, semi-structured interviews with users, UEQ, using multiple linear regression, KMO, particle swarm optimization algorithms to analyze the data and generate new waveforms. </p>
-
-  <img src="https://i.ibb.co/93Sq0dcm/2.jpg" alt="image" border="0">
-
-- 
-
-- *2023.10 - 2024.03*, IKEA x  [LIVAT](https://www.ingkacentres.com/zh-cn/where-we-are/china/livat-beijing), [Stainable Healing Space Installation](https://mp.weixin.qq.com/s/kerrR8LTFeLgs1cW6KdA8w), Beijing LIVAT
-
-  
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     <a href="https://www.youtube.com/watch?v=L3EMBTZAKxc">
-             Video
-          </a> </p>
-  
-  <div class='paper-box'>
-      <div class='paper-box-image'>
-          <div>
-              <div class="badge">ICMI 2024</div>
-               <img src='https://i.ibb.co/YBYvhLG9/119.jpg' alt="sym" width="100%">
-          </div>
-      </div>
-      <div class='paper-box-text'>
-          <a href="https://www.ingkacentres.com/zh-cn/where-we-are/china/livat-beijing">
-             IKEA x  LIVAT, Stainable Healing Space Installation(https://mp.weixin.qq.com/s/kerrR8LTFeLgs1cW6KdA8w), Beijing LIVAT
-          </a>
-          <p>
-              <i>Yixuan Li, <b>Xiaoli Zhou</b>, Peixuan Liu</i>
-          </p>
-         
-            <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     In collaboration with IKEA and INGKA Group, we designed a space installation in Beijing's largest commercial space for parents and children. The work was introduced to Jesper Brodin, CEO of INGKA Group, and was supported by the leading groups in Sweden and China. </p>
-      </div>
-  </div>
-  
-- <div class='paper-box'>
-      <div class='paper-box-image'>
-          <div>
-              <div class="badge">ICMI 2024</div>
-              <img src='https://i.ibb.co/YBYvhLG9/119.jpg' alt="sym" width="100%">
-          </div>
-      </div>
-
-- *2022.10 - 2023.07*, Faculty Celebration Wall Visualization Design, Beijing Forestry University Academic Research Building
+- 2022.10 - 2023.07*, Faculty Celebration Wall Visualization Design, Beijing Forestry University Academic Research Building
 
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     To meet the 10th anniversary of the School of Art and Design, we designed the exhibition wall on the 12th floor of the Research Building of Beijing Forestry University, responsible for the content layout and spatial dynamic line design. </p>
+
 
 # 🎖 Honors and Awards
 
 ## ◻️ Scholarships
 
-- *2024.9*  [Baosteel Outstanding Student Scholarship](http://www.bsef.baosteel.com/#/) (approximately 500 candidates nationwide each year). 
+- *2024.09*  [Baosteel Outstanding Student Scholarship](http://www.bsef.baosteel.com/#/) (awarded annually to ~500 top students across China). 
 - *2024.09*  China National Scholarship (1%) 
 - *2023.09*  China National Scholarship (1%) 
 - *2024, 2023, 2022*  BJFU Outstanding Student First Class Scholarship (2%)
