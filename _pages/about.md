@@ -210,7 +210,7 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     In collaboration with the eco-friendly brand Plastic Answer, we designed an installation made from recycled plastic sheets, which was exhibited at the Infinity x City-Children's Art Festival held at the Shanzhongtian Art Center-Genkan. </p>
 
-  <img src="https://imgur.la/images/2025/04/26/Letter---4.png" alt="Letter 4" border="0">
+  <img src="https://imgur.la/images/2025/07/18/DJI_20250712234133_0294_D.jpg" alt="DJI 20250712234133 0294 D" border="0">
 
 - 2022.09 - 2023.03*,  [Xiaomi 14 &14 pro Vibration Waveform Optimization Design](https://www.mi.com/xiaomi-14), Xiaomi Flagship Phone
 
