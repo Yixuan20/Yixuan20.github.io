@@ -134,7 +134,8 @@ I have research experience at [The Hong Kong University of Science and Technolog
     <p>
         <i><b>Yixuan Li</b>, Rui Zhang, Zihuang Wu, Yang Jiao 2022.09 - 2023.03,  </i>
          </p>
-     <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Using accelerometers, Pico5444DMSO oscilloscopes, semi-structured interviews with users, UEQ, using multiple linear regression, KMO, particle swarm optimization algorithms to analyze the data and generate new waveforms. </p>
+     <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">   Using accelerometers, Pico5444DMSO oscilloscopes, semi-structured interviews with users, UEQ, using multiple linear regression, KMO, particle swarm optimization algorithms to analyze the data and generate new waveforms. These optimized waveforms were applied to the vibration system design of the Xiaomi 14 and 14 Pro, Xiaomi's flagship smartphones.
+Since their release, the phones have collectively sold over 7 million units. </p>
      </div>
      </div><div class='paper-box'>
     <div class='paper-box-image'>
@@ -151,7 +152,7 @@ I have research experience at [The Hong Kong University of Science and Technolog
         <p>
             <i><b>Yixuan Li</b>, Hongni Ye, Yinghao Gao 2025.4</i>
              </p>
-         <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> Inspired by the artwork of children from diverse genealogies and my observations of mushroom morphology, I realized that each individual shines with an irreplaceable life force. Seemingly independent entities are interconnected through a hidden mycelial network, facilitating nutrient exchange and information flow, thus forming a complex ecosystem. The work uses mushrooms as a metaphor and employs tactile installations to simulate the flow of energy within the mycelial network, inviting the audience to reconsider the boundaries of groups in human society. The so-called 'circles' defined by society are not isolated islands, but rather dynamic, interconnected life networks, where each unique individual can remain authentic while becoming a crucial node in sustaining the system's operation. </p>
+         <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> Inspired by children's artwork from diverse backgrounds and the morphology of mushrooms, this work explores how seemingly separate individuals are linked through hidden networks—like a mycelium—exchanging energy and forming a living ecosystem. Through tactile installations, it invites audiences to rethink social boundaries, suggesting that societal “circles” are not isolated but interconnected systems where each authentic individual plays a vital role. </p>
          </div>
 </div>
 
@@ -195,7 +196,6 @@ I have research experience at [The Hong Kong University of Science and Technolog
          <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> In collaboration with the eco-friendly brand Plastic Answer, we designed an installation made from recycled plastic sheets, which was exhibited at the Infinity x City-Children's Art Festival held at the Shanzhongtian Art Center-Genkan. </p>
 </div>
 </div>
-
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
@@ -208,7 +208,7 @@ I have research experience at [The Hong Kong University of Science and Technolog
         BMW x Tongji University Innovation Challenge Camp Exhibition, Copilot Interactive System Design, Shanghai, China
         </a>
         <p>
-            Core Member 2023.09 - 2023.11</i>
+            <i>Core Member 2023.09 - 2023.11</i>
              </p>
         <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Jointly with BMW AI training platform, the output of design combining generative large model with in-vehicle multimodal recognition, personalized HMI and emotional interaction in car experience for users, exhibited at the Tongji University, won the second prize.  </p> 
 </div>
@@ -230,7 +230,7 @@ I have research experience at [The Hong Kong University of Science and Technolog
 
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for paper writing and designing experiments, organizing co-construction activities in Beijing Petroleum  Community, and implementing community renovation programs. At present, we already granted a notice of acceptance of appearance patent. </p>
 
-- 2022.10 - 2023.07*, Faculty Celebration Wall Visualization Design, Beijing Forestry University Academic Research Building
+- 2022.10 - 2023.07, Faculty Celebration Wall Visualization Design, Beijing Forestry University Academic Research Building
 
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     To meet the 10th anniversary of the School of Art and Design, we designed the exhibition wall on the 12th floor of the Research Building of Beijing Forestry University, responsible for the content layout and spatial dynamic line design. </p>
 
