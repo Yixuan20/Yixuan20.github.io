@@ -143,6 +143,7 @@ I have research experience at [The Hong Kong University of Science and Technolog
              <img src='https://i.ibb.co/0yQs8RvG/image-1475.jpg' alt="sym" width="100%">
         </div>
     </div>
+
     <div class='paper-box-text'>
         <a href="https://www.gzlib.org.cn/english/index.jhtml">
          "See Diversity" Digital Media Art Exhibition-Mycelium Spectrum, Guangzhou library, Guangzhou, China
@@ -152,7 +153,9 @@ I have research experience at [The Hong Kong University of Science and Technolog
              </p>
          <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> Inspired by the artwork of children from diverse genealogies and my observations of mushroom morphology, I realized that each individual shines with an irreplaceable life force. Seemingly independent entities are interconnected through a hidden mycelial network, facilitating nutrient exchange and information flow, thus forming a complex ecosystem. The work uses mushrooms as a metaphor and employs tactile installations to simulate the flow of energy within the mycelial network, inviting the audience to reconsider the boundaries of groups in human society. The so-called 'circles' defined by society are not isolated islands, but rather dynamic, interconnected life networks, where each unique individual can remain authentic while becoming a crucial node in sustaining the system's operation. </p>
          </div>
-</div><div class='paper-box'>
+</div>
+
+<div class='paper-box'>
     <div class='paper-box-image'>
         <div>
             <div class="badge">Art Exhibition</div>
@@ -167,68 +170,13 @@ I have research experience at [The Hong Kong University of Science and Technolog
             <i><b>Yixuan Li</b>, Xiaoli Zhou, Peixuan Liu</i>
           </p>
                 <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     In collaboration with IKEA and INGKA Group, we designed a space installation in Beijing's largest commercial space for parents and children. The work was introduced to Jesper Brodin, CEO of INGKA Group, and was supported by the leading groups in Sweden and China. </p>
+<p style="color: rgba(97, 97, 97, 0.7); font-size: 14px;">
+  <a href="https://www.youtube.com/watch?v=L3EMBTZAKxc" target="_blank" rel="noopener noreferrer">
+    ▶ Watch the project video
+  </a>
+</p>
 </div>
-<p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     <a href="https://www.youtube.com/watch?v=L3EMBTZAKxc">
-           Video
-        </a> 
-        </p></div>
-
 </div>
-
-
-      <div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">Commercial Products</div>
-             <img src='https://i.ibb.co/pj5dHqjM/Group-2090052059.jpg' alt="sym" width="100%">
-        </div>
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://www.mi.com/xiaomi-14">
-          Xiaomi 14, 14 pro Vibration Waveform Optimization Design, Xiaomi Flagship Phone
-        </a>
-        <p>
-            <i><b>Yixuan Li</b>, Rui Zhang, Zihuang Wu, Yang Jiao 2022.09 - 2023.03,  </i>
-             </p>
-         <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Using accelerometers, Pico5444DMSO oscilloscopes, semi-structured interviews with users, UEQ, using multiple linear regression, KMO, particle swarm optimization algorithms to analyze the data and generate new waveforms. </p>
-         </div>
-</div>
-     
-
-
-
-<style>
-.paper-box {
-    display: flex;
-    gap: 20px;
-    align-items: flex-start;
-    margin-bottom: 30px;
-}
-.paper-box-image {
-    flex: 1;
-    max-width: 40%;
-}
-.paper-box-text {
-    flex: 2;
-}
-</style>
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">Commercial Products</div>
-             <img src='https://i.ibb.co/pj5dHqjM/Group-2090052059.jpg' alt="sym" width="100%">
-        </div>
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://www.mi.com/xiaomi-14">
-          Xiaomi 14, 14 pro Vibration Waveform Optimization Design, Xiaomi Flagship Phone
-        </a>
-        <p>
-            <i><b>Yixuan Li</b>, Rui Zhang, Zihuang Wu, Yang Jiao 2022.09 - 2023.03,  </i>
-             </p>
-         <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Using accelerometers, Pico5444DMSO oscilloscopes, semi-structured interviews with users, UEQ, using multiple linear regression, KMO, particle swarm optimization algorithms to analyze the data and generate new waveforms. </p>
-
-
 
 <div class='paper-box'>
     <div class='paper-box-image'>
@@ -245,6 +193,8 @@ I have research experience at [The Hong Kong University of Science and Technolog
             <i><b>Yixuan Li</b>, Peixuan Liu 2023.12 - 2024.02</i>
              </p>
          <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> In collaboration with the eco-friendly brand Plastic Answer, we designed an installation made from recycled plastic sheets, which was exhibited at the Infinity x City-Children's Art Festival held at the Shanzhongtian Art Center-Genkan. </p>
+</div>
+</div>
 
 <div class='paper-box'>
     <div class='paper-box-image'>
@@ -260,7 +210,9 @@ I have research experience at [The Hong Kong University of Science and Technolog
         <p>
             Core Member 2023.09 - 2023.11</i>
              </p>
-        <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Jointly with BMW AI training platform, the output of design combining generative large model with in-vehicle multimodal recognition, personalized HMI and emotional interaction in car experience for users, exhibited at the Tongji University, won the second prize.  </p>
+        <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Jointly with BMW AI training platform, the output of design combining generative large model with in-vehicle multimodal recognition, personalized HMI and emotional interaction in car experience for users, exhibited at the Tongji University, won the second prize.  </p> 
+</div>
+    </div>
 
 
 
