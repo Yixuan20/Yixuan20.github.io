@@ -212,6 +212,8 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 
   <img src="https://imgur.la/images/2025/07/18/DJI_20250712234133_0294_D.th.jpgs" alt="DJI 20250712234133 0294 D" border="0">
 
+  <a href="https://ibb.co/6JL4Sqrc"><img src="https://i.ibb.co/6JL4Sqrc/2.jpg" alt="2" border="0"></a>
+
 - 2022.09 - 2023.03*,  [Xiaomi 14 &14 pro Vibration Waveform Optimization Design](https://www.mi.com/xiaomi-14), Xiaomi Flagship Phone
 
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Using accelerometers, Pico5444DMSO oscilloscopes, semi-structured interviews with users, UEQ, using multiple linear regression, KMO, particle swarm optimization algorithms to analyze the data and generate new waveforms. </p>
