@@ -23,9 +23,9 @@ I have research experience at [The Hong Kong University of Science and Technolog
 
 # 📖 Educations
 
-- *2025.09 - Now*, <img src="https://s2.loli.net/2024/11/22/nyLrt4gP86W2u9S.png" alt=" 2.png" style="zoom:10%;" />M.S. in Electronic Information at Tsinghua University.
-- *2021.09 - 2025.06*,  <img src="https://s2.loli.net/2024/11/22/qA7LrlcBRwZQj8z.png" alt="image 1325.png" style="zoom:10%;" />Undergraduate, B.A. in Product Design, Beijing Forestry University.
-- *2021.09 - 2022.09*, <img src="https://s2.loli.net/2024/11/22/qA7LrlcBRwZQj8z.png" alt="image 1325.png" style="zoom:10%;" />Undergraduate, minored in Computer Art at the School of Information Science and Technology, Beijing Forestry University.
+- *2025.09 - Now*, <img src="https://s2.loli.net/2024/11/22/nyLrt4gP86W2u9S.png" alt=" 2.png" style="zoom:10%;" /> M.S. in Electronic Information at Tsinghua University.
+- *2021.09 - 2025.06*,  <img src="https://s2.loli.net/2024/11/22/qA7LrlcBRwZQj8z.png" alt="image 1325.png" style="zoom:10%;" /> B.A. in Product Design, Beijing Forestry University.
+- *2021.09 - 2022.09*, <img src="https://s2.loli.net/2024/11/22/qA7LrlcBRwZQj8z.png" alt="image 1325.png" style="zoom:10%;" /> Minored in Computer Art at the School of Information Science and Technology, Beijing Forestry University.
 
 # 📝 Publications 
 
