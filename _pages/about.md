@@ -164,14 +164,30 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 
 - *2023.10 - 2024.03*, IKEA x  [LIVAT](https://www.ingkacentres.com/zh-cn/where-we-are/china/livat-beijing), [Stainable Healing Space Installation](https://mp.weixin.qq.com/s/kerrR8LTFeLgs1cW6KdA8w), Beijing LIVAT
 
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     In collaboration with IKEA and INGKA Group, we designed a space installation in Beijing's largest commercial space for parents and children. The work was introduced to Jesper Brodin, CEO of INGKA Group, and was supported by the leading groups in Sweden and China. </p>
+  
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     <a href="https://www.youtube.com/watch?v=L3EMBTZAKxc">
              Video
           </a> </p>
-  <img src="https://i.ibb.co/YBYvhLG9/119.jpg" alt="image" border="0">
   
-- 
-
+  <div class='paper-box'>
+      <div class='paper-box-image'>
+          <div>
+              <div class="badge">ICMI 2024</div>
+               <img src='https://i.ibb.co/YBYvhLG9/119.jpg' alt="sym" width="100%">
+          </div>
+      </div>
+      <div class='paper-box-text'>
+          <a href="https://www.ingkacentres.com/zh-cn/where-we-are/china/livat-beijing">
+             IKEA x  LIVAT, Stainable Healing Space Installation(https://mp.weixin.qq.com/s/kerrR8LTFeLgs1cW6KdA8w), Beijing LIVAT
+          </a>
+          <p>
+              <i>Yixuan Li, <b>Xiaoli Zhou</b>, Peixuan Liu</i>
+          </p>
+         
+            <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     In collaboration with IKEA and INGKA Group, we designed a space installation in Beijing's largest commercial space for parents and children. The work was introduced to Jesper Brodin, CEO of INGKA Group, and was supported by the leading groups in Sweden and China. </p>
+      </div>
+  </div>
+  
 - <div class='paper-box'>
       <div class='paper-box-image'>
           <div>
