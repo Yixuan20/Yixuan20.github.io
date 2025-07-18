@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master student at **Tsinghua University**, majoring in **Electronic Information**. I hold a B.A. in Product Design from Beijing Forestry University, with a minor in Computer Art from theSchool of Information Science and Technology. With a background spanning both **Electrical Engineering** and **Product Design**, my previous research has focused on **tangible interfaces**, **digital fabrication**, and **haptic feedback**.
+I am currently a Master student at **Tsinghua University**, majoring in **Electronic Information**. I hold a B.A. in Product Design from Beijing Forestry University, with a minor in Computer Art from the School of Information Science and Technology. With a background spanning both **Electrical Engineering** and **Product Design**, my previous research has focused on **tangible interfaces**, **digital fabrication**, and **haptic feedback**.
 
 I have research experience at [The Hong Kong University of Science and Technology (Guangzhou), Computational Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), [Future Laboratory, Tsinghua University ](https://thfl.tsinghua.edu.cn/en/), and the [Southern University of Science and Technology, School of Design](https://designschool.sustech.edu.cn/), along with work experience at [BMW (China) Service Co., Ltd](https://www.bmwgroup.com/en/news/general/2019/china-fe.html). These interdisciplinary experiences have strengthened my ability to integrate **design thinking with technical research**, enabling me to develop innovative, user-centered technological solutions.
 
 # 📖 Educations
 
-- *2025.09 - 2027.06 (expect)*, <img src="https://s2.loli.net/2024/11/22/nyLrt4gP86W2u9S.png" alt=" 2.png" style="zoom:10%;" />Master,  Electronic Information at Tsinghua University.
-- *2021.09 - 2025.06 (now)*,  <img src="https://s2.loli.net/2024/11/22/qA7LrlcBRwZQj8z.png" alt="image 1325.png" style="zoom:10%;" />Undergraduate, majoring in Product Design at the School of Art and Design, Beijing Forestry University.
+- *2025.09 - Now*, <img src="https://s2.loli.net/2024/11/22/nyLrt4gP86W2u9S.png" alt=" 2.png" style="zoom:10%;" />M.S. in Electronic Information at Tsinghua University.
+- *2021.09 - 2025.06*,  <img src="https://s2.loli.net/2024/11/22/qA7LrlcBRwZQj8z.png" alt="image 1325.png" style="zoom:10%;" />Undergraduate, B.A. in Product Design, Beijing Forestry University.
 - *2021.09 - 2022.09*, <img src="https://s2.loli.net/2024/11/22/qA7LrlcBRwZQj8z.png" alt="image 1325.png" style="zoom:10%;" />Undergraduate, minored in Computer Art at the School of Information Science and Technology, Beijing Forestry University.
 
 # 📝 Publications 
@@ -144,6 +144,7 @@ Since their release, the phones have collectively sold over 7 million units. </p
              <img src='https://i.ibb.co/0yQs8RvG/image-1475.jpg' alt="sym" width="100%">
         </div>
     </div>
+
 
     <div class='paper-box-text'>
         <a href="https://www.gzlib.org.cn/english/index.jhtml">
