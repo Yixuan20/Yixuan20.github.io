@@ -218,7 +218,9 @@ I am interested in human-computer interaction (HCI), specifically in the design 
 
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Using accelerometers, Pico5444DMSO oscilloscopes, semi-structured interviews with users, UEQ, using multiple linear regression, KMO, particle swarm optimization algorithms to analyze the data and generate new waveforms. </p>
 
-  <img src="https://imgur.la/images/2025/04/26/image840b4994543ce60f.jpeg" alt="image" border="0">
+  <img src="https://i.ibb.co/93Sq0dcm/2.jpg" alt="image" border="0">
+
+- 
 
 - *2023.10 - 2024.03*, IKEA x  [LIVAT](https://www.ingkacentres.com/zh-cn/where-we-are/china/livat-beijing), [Stainable Healing Space Installation](https://mp.weixin.qq.com/s/kerrR8LTFeLgs1cW6KdA8w), Beijing LIVAT
 
