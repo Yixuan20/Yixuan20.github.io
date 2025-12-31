@@ -32,7 +32,52 @@ I have research experience at [The Hong Kong University of Science and Technolog
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">ICMI 2024</div>
+            <div class="badge">SIGGRAPH ASIA 2025 (CCF-A)</div>
+            <img src="https://i.ibb.co/hR8FVxC5/Frame-2090053424.png" alt="Frame 2090053424" border="0" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://dl.acm.org/doi/10.1145/3757374.3771432">
+            SofiBuddy: Soft mobile Interface for On-Body Interaction
+        </a>
+        <p>
+            <i>Yixuan Li, <b>Jie Yu</b>, Chenwan Zhong, Zhaowen Deng, Teng Han, Yi Cai, Xin Tong†</i>
+        </p>
+      <div style="color:#1e66ff; font-weight:600; margin:6px 0 0 0;">
+  Audience Choice Award
+</div>
+        <ul>
+            <li>Tangible</li>
+            <li>Soft Robotics</li>
+        </ul>
+    </div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Journal of Computer-Aided Design & Computer Graphics (CCF-A)</div>
+            <img src="https://i.ibb.co/hR8FVxC5/Frame-2090053424.png" alt="Frame 2090053424" border="0" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://dl.acm.org/doi/abs/10.1145/3678957.3685739">
+            Optimization Design of Smartphone Haptic Feedback Based on Vibration–Semantic Features
+        </a>
+        <p>
+            <i>Rui Zhang, <b>Yixuan Li</b>, Yang Jiao†</i>
+        </p>
+        <ul>
+            <li>Tangible</li>
+            <li>Soft Robotics</li>
+        </ul>
+    </div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">ICMI 2024 (CCF-C)</div>
             <img src='https://s2.loli.net/2024/11/22/SwoF3c1CXb6TPp7.jpg' alt="sym" width="100%">
         </div>
     </div>
@@ -52,7 +97,7 @@ I have research experience at [The Hong Kong University of Science and Technolog
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">UIST 2024</div>
+            <div class="badge">UIST 2024 (CCF-A)</div>
             <img src='https://s2.loli.net/2024/11/22/dU7nPHlKVIeNOWu.png' alt="sym" width="100%">
         </div>
     </div>
@@ -73,6 +118,7 @@ I have research experience at [The Hong Kong University of Science and Technolog
         </ul>
     </div>
 </div>
+
 
 # 💻 Experience
 
