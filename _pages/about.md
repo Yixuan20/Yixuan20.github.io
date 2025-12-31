@@ -181,40 +181,6 @@ I have research experience at [The Hong Kong University of Science and Technolog
      <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">   Using accelerometers, Pico5444DMSO oscilloscopes, semi-structured interviews with users, UEQ, using multiple linear regression, KMO, particle swarm optimization algorithms to analyze the data and generate new waveforms. These optimized waveforms were applied to the vibration system design of the Xiaomi 14 and 14 Pro, Xiaomi's flagship smartphones.
 Since their release, the phones have collectively sold over 7 million units. </p>
      </div>
-     </div><div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">Commercial Products-CES 2026</div>
-             <img src='https://i.ibb.co/0yQs8RvG/image-1475.jpg' alt="sym" width="100%">
-        </div>
-    </div>   </div><div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">Art Exhibition</div>
-             <img src='https://i.ibb.co/0yQs8RvG/image-1475.jpg' alt="sym" width="100%">
-        </div>
-    </div>
-
-<div class='paper-box-text'>
-    <a href="https://www.mi.com/xiaomi-14">
-      AI pocket pet “Sweekar”, Takway.ai 
-    </a>
-
-     <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> Co-designed “Sweekarr”, an AI pocket pet integrating AI, nurturing gameplay and multi-sensory hardware, covering interaction flows and product structure; scheduled for Kickstarter & CES 2026 and featured by 21st Century Business Herald and major expos (CITE 2025, wteam AI Maker Festival, Shanghai New International Expo Centre). </p>
-     </div>
-
-
-
-    <div class='paper-box-text'>
-        <a href="https://www.gzlib.org.cn/english/index.jhtml">
-         "See Diversity" Digital Media Art Exhibition-Mycelium Spectrum, Guangzhou library, Guangzhou, China
-        </a>
-        <p>
-            <i><b>Yixuan Li</b>, Hongni Ye, Yinghao Gao 2025.4</i>
-             </p>
-         <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> Inspired by children's artwork from diverse backgrounds and the morphology of mushrooms, this work explores how seemingly separate individuals are linked through hidden networks—like a mycelium—exchanging energy and forming a living ecosystem. Through tactile installations, it invites audiences to rethink social boundaries, suggesting that societal “circles” are not isolated but interconnected systems where each authentic individual plays a vital role. </p>
-         </div>
-</div>
 
 <div class='paper-box'>
     <div class='paper-box-image'>
@@ -238,7 +204,6 @@ Since their release, the phones have collectively sold over 7 million units. </p
 </p>
 </div>
 </div>
-
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
@@ -256,23 +221,7 @@ Since their release, the phones have collectively sold over 7 million units. </p
          <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> In collaboration with the eco-friendly brand Plastic Answer, we designed an installation made from recycled plastic sheets, which was exhibited at the Infinity x City-Children's Art Festival held at the Shanzhongtian Art Center-Genkan. </p>
 </div>
 </div>
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">Art Exhibition</div>
-             <img src='https://i.ibb.co/JWQGW8PR/image-1405.jpg' alt="sym" width="100%">
-        </div>
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://www.sohu.com/a/735124266_121124373">
-        BMW x Tongji University Innovation Challenge Camp Exhibition, Copilot Interactive System Design, Shanghai, China
-        </a>
-        <p>
-            <i>Core Member 2023.09 - 2023.11</i>
-             </p>
-        <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Jointly with BMW AI training platform, the output of design combining generative large model with in-vehicle multimodal recognition, personalized HMI and emotional interaction in car experience for users, exhibited at the Tongji University, won the second prize.  </p> 
-</div>
-    </div>
+
 
 
 
