@@ -33,7 +33,11 @@ I have research experience at [The Hong Kong University of Science and Technolog
     <div class='paper-box-image'>
         <div>
             <div class="badge">SIGGRAPH ASIA 2025 (CCF-A)</div>
-            <img src="https://i.ibb.co/hR8FVxC5/Frame-2090053424.png" alt="Frame 2090053424" border="0" width="100%">
+           <img
+  src="https://i.ibb.co/hR8FVxC5/Frame-2090053424.png"
+  alt="Frame 2090053424"
+  style="width:100%; height:auto; display:block; object-fit:contain;"
+>
         </div>
     </div>
     <div class='paper-box-text'>
