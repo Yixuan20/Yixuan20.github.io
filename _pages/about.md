@@ -184,7 +184,7 @@ Since their release, the phones have collectively sold over 7 million units. </p
      </div><div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">Art Exhibition</div>
+            <div class="badge">Commercial Products-CES 2026</div>
              <img src='https://i.ibb.co/0yQs8RvG/image-1475.jpg' alt="sym" width="100%">
         </div>
     </div>   </div><div class='paper-box'>
@@ -194,6 +194,14 @@ Since their release, the phones have collectively sold over 7 million units. </p
              <img src='https://i.ibb.co/0yQs8RvG/image-1475.jpg' alt="sym" width="100%">
         </div>
     </div>
+
+<div class='paper-box-text'>
+    <a href="https://www.mi.com/xiaomi-14">
+      AI pocket pet “Sweekar”, Takway.ai 
+    </a>
+
+     <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> Co-designed “Sweekarr”, an AI pocket pet integrating AI, nurturing gameplay and multi-sensory hardware, covering interaction flows and product structure; scheduled for Kickstarter & CES 2026 and featured by 21st Century Business Herald and major expos (CITE 2025, wteam AI Maker Festival, Shanghai New International Expo Centre). </p>
+     </div>
 
 
 
