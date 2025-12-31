@@ -45,7 +45,7 @@ I have research experience at [The Hong Kong University of Science and Technolog
             SofiBuddy: Soft mobile Interface for On-Body Interaction
         </a>
         <p>
-            <i>Yixuan Li, <b>Jie Yu</b>, Chenwan Zhong, Zhaowen Deng, Teng Han, Yi Cai, Xin Tong†</i>
+            <i><b>Yixuan Li</b>, Jie Yu, Chenwan Zhong, Zhaowen Deng, Teng Han, Yi Cai, Xin Tong†</i>
         </p>
       <div style="color:#1e66ff; font-weight:600; margin:6px 0 0 0;">
   Audience Choice Award
@@ -61,7 +61,7 @@ I have research experience at [The Hong Kong University of Science and Technolog
     <div class='paper-box-image'>
         <div>
             <div class="badge">Journal of Computer-Aided Design & Computer Graphics (CCF-A)</div>
-            <img src="https://i.ibb.co/hR8FVxC5/Frame-2090053424.png" alt="Frame 2090053424" border="0" width="100%">
+             <img src='https://s2.loli.net/2024/11/22/dU7nPHlKVIeNOWu.png' alt="sym" width="100%">
         </div>
     </div>
     <div class='paper-box-text'>
@@ -72,8 +72,8 @@ I have research experience at [The Hong Kong University of Science and Technolog
             <i>Rui Zhang, <b>Yixuan Li</b>, Yang Jiao†</i>
         </p>
         <ul>
-            <li>Tangible</li>
-            <li>Soft Robotics</li>
+            <li>Haptic</li>
+            <li>Vibration Feedback</li>
         </ul>
     </div>
 </div>
