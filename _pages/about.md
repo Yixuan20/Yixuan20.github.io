@@ -186,18 +186,30 @@ Since their release, the phones have collectively sold over 7 million units. </p
 
 
 
-
-
-    <div class='paper-box-text'>
+    <div class="paper-box">
+      <div class="paper-box-image">
+        <div>
+          <div class="badge">Art Exhibition</div>
+          <img src="https://i.ibb.co/gMNVWXhV/image-1475.jpg" alt="image 1475" width="100%">
+        </div>
+      </div>
+    
+      <div class="paper-box-text">
         <a href="https://www.gzlib.org.cn/english/index.jhtml">
-         "See Diversity" Digital Media Art Exhibition-Mycelium Spectrum, Guangzhou library, Guangzhou, China
+          "See Diversity" Digital Media Art Exhibition-Mycelium Spectrum, Guangzhou library, Guangzhou, China
         </a>
+    
         <p>
-            <i><b>Yixuan Li</b>, Hongni Ye, Yinghao Gao 2025.4</i>
-             </p>
-         <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> Inspired by children's artwork from diverse backgrounds and the morphology of mushrooms, this work explores how seemingly separate individuals are linked through hidden networks—like a mycelium—exchanging energy and forming a living ecosystem. Through tactile installations, it invites audiences to rethink social boundaries, suggesting that societal “circles” are not isolated but interconnected systems where each authentic individual plays a vital role. </p>
-         </div>
-</div>
+          <i><b>Yixuan Li</b>, Hongni Ye, Yinghao Gao 2025.4</i>
+        </p>
+    
+        <p style="color: rgba(97, 97, 97, 0.7); font-size: 14px;">
+          Inspired by children's artwork from diverse backgrounds and the morphology of mushrooms, this work explores how seemingly separate individuals are linked through hidden networks—like a mycelium—exchanging energy and forming a living ecosystem. Through tactile installations, it invites audiences to rethink social boundaries, suggesting that societal “circles” are not isolated but interconnected systems where each authentic individual plays a vital role.
+        </p>
+      </div>
+    </div>
+    
+
 
 <div class='paper-box'>
     <div class='paper-box-image'>
