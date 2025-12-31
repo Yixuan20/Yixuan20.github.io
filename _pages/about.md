@@ -164,6 +164,8 @@ I have research experience at [The Hong Kong University of Science and Technolog
 
 # 🎨 Design
 
+
+
   <div class='paper-box'>
 <div class='paper-box-image'>
     <div>
@@ -180,7 +182,22 @@ I have research experience at [The Hong Kong University of Science and Technolog
          </p>
      <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">   Using accelerometers, Pico5444DMSO oscilloscopes, semi-structured interviews with users, UEQ, using multiple linear regression, KMO, particle swarm optimization algorithms to analyze the data and generate new waveforms. These optimized waveforms were applied to the vibration system design of the Xiaomi 14 and 14 Pro, Xiaomi's flagship smartphones.
 Since their release, the phones have collectively sold over 7 million units. </p>
-     </div>
+     </div></div>
+
+
+
+
+
+    <div class='paper-box-text'>
+        <a href="https://www.gzlib.org.cn/english/index.jhtml">
+         "See Diversity" Digital Media Art Exhibition-Mycelium Spectrum, Guangzhou library, Guangzhou, China
+        </a>
+        <p>
+            <i><b>Yixuan Li</b>, Hongni Ye, Yinghao Gao 2025.4</i>
+             </p>
+         <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> Inspired by children's artwork from diverse backgrounds and the morphology of mushrooms, this work explores how seemingly separate individuals are linked through hidden networks—like a mycelium—exchanging energy and forming a living ecosystem. Through tactile installations, it invites audiences to rethink social boundaries, suggesting that societal “circles” are not isolated but interconnected systems where each authentic individual plays a vital role. </p>
+         </div>
+</div>
 
 <div class='paper-box'>
     <div class='paper-box-image'>
@@ -204,6 +221,7 @@ Since their release, the phones have collectively sold over 7 million units. </p
 </p>
 </div>
 </div>
+
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
@@ -221,7 +239,6 @@ Since their release, the phones have collectively sold over 7 million units. </p
          <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> In collaboration with the eco-friendly brand Plastic Answer, we designed an installation made from recycled plastic sheets, which was exhibited at the Infinity x City-Children's Art Festival held at the Shanzhongtian Art Center-Genkan. </p>
 </div>
 </div>
-
 
 
 
