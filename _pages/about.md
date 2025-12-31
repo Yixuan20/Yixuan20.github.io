@@ -33,11 +33,7 @@ I have research experience at [The Hong Kong University of Science and Technolog
     <div class='paper-box-image'>
         <div>
             <div class="badge">SIGGRAPH ASIA 2025 (CCF-A)</div>
-           <img
-  src="https://i.ibb.co/hR8FVxC5/Frame-2090053424.png"
-  alt="Frame 2090053424"
-  style="width:100%; height:auto; display:block; object-fit:contain;"
->
+           <img src='https://i.ibb.co/hR8FVxC5/Frame-2090053424.png' alt="Frame 2090053424" width="100%">
         </div>
     </div>
     <div class='paper-box-text'>
@@ -171,25 +167,23 @@ I have research experience at [The Hong Kong University of Science and Technolog
   <div class='paper-box'>
 <div class='paper-box-image'>
     <div>
-        <div class="badge">Commercial Products</div>
-         <img src='https://i.ibb.co/pj5dHqjM/Group-2090052059.jpg' alt="sym" width="100%">
+        <div class="badge">Commercial Products-CES 2026</div>
+         <img src="https://i.ibb.co/bj9q6R7g/image-2213.png" alt="image 2213" border="0">
     </div>
 </div>
 <div class='paper-box-text'>
     <a href="https://www.mi.com/xiaomi-14">
-      Xiaomi 14, 14 pro Vibration Waveform Optimization Design, Xiaomi Flagship Phone
+      AI pocket pet Sweekar, Takway.ai
     </a>
     <p>
-        <i><b>Yixuan Li</b>, Rui Zhang, Zihuang Wu, Yang Jiao 2022.09 - 2023.03,  </i>
          </p>
-     <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">   Using accelerometers, Pico5444DMSO oscilloscopes, semi-structured interviews with users, UEQ, using multiple linear regression, KMO, particle swarm optimization algorithms to analyze the data and generate new waveforms. These optimized waveforms were applied to the vibration system design of the Xiaomi 14 and 14 Pro, Xiaomi's flagship smartphones.
-Since their release, the phones have collectively sold over 7 million units. </p>
+     <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> Co-designed “Sweekarr”, an AI pocket pet integrating AI, nurturing gameplay and multi-sensory hardware, covering interaction flows and product structure; scheduled for Kickstarter & CES 2026 and featured by 21st Century Business Herald and major expos (CITE 2025, wteam AI Maker Festival, Shanghai New International Expo Centre). </p>
      </div>
      </div><div class='paper-box'>
     <div class='paper-box-image'>
         <div>
             <div class="badge">Art Exhibition</div>
-             <img src="https://i.ibb.co/bj9q6R7g/image-2213.png" alt="image 2213" width="100%">
+             <img src='https://i.ibb.co/0yQs8RvG/image-1475.jpg' alt="sym" width="100%">
         </div>
     </div>
 
