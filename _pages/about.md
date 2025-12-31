@@ -168,7 +168,30 @@ I have research experience at [The Hong Kong University of Science and Technolog
 
 # 🎨 Design
 
-
+  <div class='paper-box'>
+<div class='paper-box-image'>
+    <div>
+        <div class="badge">Commercial Products</div>
+         <img src='https://i.ibb.co/pj5dHqjM/Group-2090052059.jpg' alt="sym" width="100%">
+    </div>
+</div>
+<div class='paper-box-text'>
+    <a href="https://www.mi.com/xiaomi-14">
+      Xiaomi 14, 14 pro Vibration Waveform Optimization Design, Xiaomi Flagship Phone
+    </a>
+    <p>
+        <i><b>Yixuan Li</b>, Rui Zhang, Zihuang Wu, Yang Jiao 2022.09 - 2023.03,  </i>
+         </p>
+     <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">   Using accelerometers, Pico5444DMSO oscilloscopes, semi-structured interviews with users, UEQ, using multiple linear regression, KMO, particle swarm optimization algorithms to analyze the data and generate new waveforms. These optimized waveforms were applied to the vibration system design of the Xiaomi 14 and 14 Pro, Xiaomi's flagship smartphones.
+Since their release, the phones have collectively sold over 7 million units. </p>
+     </div>
+     </div><div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Art Exhibition</div>
+             <img src="https://i.ibb.co/bj9q6R7g/image-2213.png" alt="image 2213" width="100%">
+        </div>
+    </div>
 
   <div class='paper-box'>
 <div class='paper-box-image'>
