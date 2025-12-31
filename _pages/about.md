@@ -178,14 +178,8 @@ I have research experience at [The Hong Kong University of Science and Technolog
     <p>
          </p>
      <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> Co-designed “Sweekarr”, an AI pocket pet integrating AI, nurturing gameplay and multi-sensory hardware, covering interaction flows and product structure; scheduled for Kickstarter & CES 2026 and featured by 21st Century Business Herald and major expos (CITE 2025, wteam AI Maker Festival, Shanghai New International Expo Centre). </p>
-     </div>
-     </div><div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">Art Exhibition</div>
-             <img src='https://i.ibb.co/0yQs8RvG/image-1475.jpg' alt="sym" width="100%">
-        </div>
-    </div>
+
+​     
 
   <div class='paper-box'>
 <div class='paper-box-image'>
@@ -204,13 +198,9 @@ I have research experience at [The Hong Kong University of Science and Technolog
      <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">   Using accelerometers, Pico5444DMSO oscilloscopes, semi-structured interviews with users, UEQ, using multiple linear regression, KMO, particle swarm optimization algorithms to analyze the data and generate new waveforms. These optimized waveforms were applied to the vibration system design of the Xiaomi 14 and 14 Pro, Xiaomi's flagship smartphones.
 Since their release, the phones have collectively sold over 7 million units. </p>
      </div>
-     </div><div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">Art Exhibition</div>
-             <img src='https://i.ibb.co/0yQs8RvG/image-1475.jpg' alt="sym" width="100%">
-        </div>
-    </div>
+
+  
+
 
 
     <div class='paper-box-text'>
