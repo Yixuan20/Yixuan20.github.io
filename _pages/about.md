@@ -225,10 +225,10 @@ I have research experience at [The Hong Kong University of Science and Technolog
     <a href="https://www.mi.com/xiaomi-14">
        “RedFOX” Children's language learning companion hardware</a>
 <p>
-      <i><b>Core member</b></i>
+      <i><b>Core member 2025</b></i>
      </p>
  <ul style="color: rgba(97, 97, 97, 0.7); font-size: 14px; font-family: yourFont, sans-serif;">
-  <li>Built a pet-like embodied interaction system using servo-driven movements to increase engagement and companionship. Fine-tuned ERNIE 4.5 Tiny to improve voice interaction quality, controllability, and safety. Used game-based mechanics to boost children’s motivation and learning persistence.</li>
+  <li>Built a pet-like embodied interaction system using servo-driven movements to increase companionship, fine-tuned ERNIE 4.5 Tiny to improve voice interaction quality. Used game-based mechanics to boost children’s motivation and learning persistence.</li>
   <li>Won Global 3rd Place in the Baidu ERNIE Open Source Innovation Competition (AI + Hardware track), and exhibited at the Baidu PaddlePaddle Xiamen Empowerment Center. Received the Best App Award in Tsinghua University’s “Artificial Intelligence and Innovative Design” course and won the AI Playful Toys track.</li>
 </ul>
      </div></div>
