@@ -134,7 +134,10 @@ I have research experience at [The Hong Kong University of Science and Technolog
 
 - *2022.11 - 2024.05*,<img src="https://s2.loli.net/2024/11/22/eWJm5r68u9g4RKA.png" alt=" 1.png" style="zoom: 25%;" /> [Future Laboratory, Tsinghua University ](https://thfl.tsinghua.edu.cn/en/), Haptic Vibration Feedback Design Group Internship, Beijing.
 
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for analyzing the evaluation dimensions of smartphone vibration feedback, user experiments and comparative cross-testing research of multiple terminals.Supervisor: Prof. Yang Jiao. </p>
+  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> <li>Led projects including SemanticTap, Haptic Metric.</li>
+  <li>Conducted research on vibrotactile feedback evaluation and haptic perception. Designed and fabricated haptic actuators and wearable systems. Supervisor: Prof. Yang Jiao. </li></p>
+
+  
 
 - *2024.01 - 2024.03*, <img src="https://s2.loli.net/2024/11/22/qaV8RZj5OK9Sgpt.png" alt="Screenshot 2024-11-22 at 01.44.58 1.png" style="zoom:25%;" /> [North Carolina State University, Wilson College of Textiles](https://textiles.ncsu.edu/), USA.
 
@@ -168,7 +171,7 @@ I have research experience at [The Hong Kong University of Science and Technolog
 <div class='paper-box-image'>
     <div>
         <div class="badge">Commercial Products</div>
-         <img src="https://i.ibb.co/B5g5SKsT/image.png" alt="image" width="100%">
+         <img src="https://i.ibb.co/XZdvR3dK/Group-2090054933.png" alt="Group 2090054933" width="100%">
     </div>
 </div>
 <div class='paper-box-text'>
