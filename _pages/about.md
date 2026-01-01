@@ -164,7 +164,23 @@ I have research experience at [The Hong Kong University of Science and Technolog
 
 # 🎨 Design
 
-
+  <div class='paper-box'>
+<div class='paper-box-image'>
+    <div>
+        <div class="badge">Commercial Products</div>
+         <img src="https://i.ibb.co/B5g5SKsT/image.png" alt="image" width="100%">
+    </div>
+</div>
+<div class='paper-box-text'>
+    <a href="https://www.mi.com/xiaomi-14">
+       CES2026-AI pocket pet “Sweekar”, Takway.ai 
+    </a>
+    <p>
+          <i><b>Core member</b></i>
+         </p>
+     <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> Co-designed “Sweekar”, an AI pocket pet integrating AI, nurturing gameplay and multi-sensory hardware, covering interaction flows and product structure; scheduled for Kickstarter, CES 2026 and featured by 21st Century Business Herald and major expos (CITE 2025, wteam AI Maker Festival, Shanghai New International Expo Centre).
+ </p>
+     </div></div>
 
   <div class='paper-box'>
 <div class='paper-box-image'>
