@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master student at **Tsinghua University**, majoring in **Electronic Information**. I hold a B.A. in Product Design from Beijing Forestry University, with a minor in Computer Art from the School of Information Science and Technology. With a background spanning both **Electrical Engineering** and **Product Design**, my previous research has focused on **tangible interfaces**, **digital fabrication**, and **haptic feedback**.
+I am currently a Master student at **Tsinghua University**, majoring in **Electronic Information**. I hold a B.A. in Product Design from Beijing Forestry University, with a minor in Computer Art from the School of Information Science and Technology. With a background spanning both **Electrical Engineering** and **Product Design**, my previous research has focused on **fabrication**, **tangible interfaces**, and **AI-assisted embodied systems**.
 
 I have research experience at [The Hong Kong University of Science and Technology (Guangzhou), Computational Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), [Future Laboratory, Tsinghua University ](https://thfl.tsinghua.edu.cn/en/), and the [Southern University of Science and Technology, School of Design](https://designschool.sustech.edu.cn/), along with work experience at [BMW (China) Service Co., Ltd](https://www.bmwgroup.com/en/news/general/2019/china-fe.html). These interdisciplinary experiences have strengthened my ability to integrate **design thinking with technical research**, enabling me to develop innovative, user-centered technological solutions.
 
