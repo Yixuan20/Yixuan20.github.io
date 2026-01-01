@@ -170,7 +170,6 @@ I have research experience at [The Hong Kong University of Science and Technolog
           </a> </p>
   
   
-  
 - *2024.01 - 2024.05*, <img src="https://s2.loli.net/2024/11/22/w5kXLAjJo7BVtgR.png" alt="image 1343.png" style="zoom:25%;" /> University of Rochester, Department of Computer Science, Research Intern, USA.
 
   <ul style="color: rgba(97, 97, 97, 0.7); font-size: 14px;">
@@ -207,10 +206,29 @@ I have research experience at [The Hong Kong University of Science and Technolog
        CES2026-AI pocket pet “Sweekar”, Takway.ai 
     </a>
     <p>
-          <i><b>Core member</b></i>
+          <i><b>Core member 2025</b></i>
          </p>
      <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> Co-designed “Sweekar”, an AI pocket pet integrating AI, nurturing gameplay and multi-sensory hardware, covering interaction flows and product structure; scheduled for Kickstarter, CES 2026 and featured by 21st Century Business Herald and major expos (CITE 2025, wteam AI Maker Festival, Shanghai New International Expo Centre).
  </p>
+     </div></div>
+
+  <div class='paper-box'>
+<div class='paper-box-image'>
+    <div>
+        <div class="badge">Commercial Products</div>
+         <img src="https://i.ibb.co/6JpmRLQZ/Group-2090054969.png" alt="Group 2090054969"  width="100%">
+    </div>
+</div>
+<div class='paper-box-text'>
+    <a href="https://www.mi.com/xiaomi-14">
+       “RedFOX” Children's language learning companion hardware</a>
+<p>
+      <i><b>Core member</b></i>
+     </p>
+ <ul style="color: rgba(97, 97, 97, 0.7); font-size: 14px; font-family: yourFont, sans-serif;">
+  <li>Built a pet-like embodied interaction system using servo-driven movements to increase engagement and companionship. Fine-tuned ERNIE 4.5 Tiny to improve voice interaction quality, controllability, and safety. Used game-based mechanics to boost children’s motivation and learning persistence.</li>
+  <li>Won Global 3rd Place in the Baidu ERNIE Open Source Innovation Competition (AI + Hardware track), and exhibited at the Baidu PaddlePaddle Xiamen Empowerment Center. Received the Best App Award in Tsinghua University’s “Artificial Intelligence and Innovative Design” course and won the AI Playful Toys track.</li>
+</ul>
      </div></div>
 
   <div class='paper-box'>
@@ -225,10 +243,12 @@ I have research experience at [The Hong Kong University of Science and Technolog
       Xiaomi 14, 14 pro Vibration Waveform Optimization Design, Xiaomi Flagship Phone
     </a>
     <p>
-        <i><b>Yixuan Li</b>, Rui Zhang, Zihuang Wu, Yang Jiao 2022.09 - 2023.03,  </i>
+        <i><b>Yixuan Li</b>, Rui Zhang, Zihuang Wu, Yang Jiao 2023 </i>
          </p>
-     <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">   Using accelerometers, Pico5444DMSO oscilloscopes, semi-structured interviews with users, UEQ, using multiple linear regression, KMO, particle swarm optimization algorithms to analyze the data and generate new waveforms. These optimized waveforms were applied to the vibration system design of the Xiaomi 14 and 14 Pro, Xiaomi's flagship smartphones.
-Since their release, the phones have collectively sold over 7 million units. </p>
+   <ul style="color: rgba(97, 97, 97, 0.7); font-size: 14px; font-family: yourFont, sans-serif;">
+  <li>Collaborated with Xiaomi Corporation, using accelerometers and a Pico 5444D MSO oscilloscope to collect motion signals, combined with semi-structured interviews, applied KMO testing, multiple linear regression, and particle swarm optimization to analyze the data and generate novel waveforms. </li>
+  <li>These optimized waveforms were applied to the vibration system design of the Xiaomi 14 and 14 Pro, Xiaomi's flagship smartphones. Since their release, the phones have collectively sold over 10,000,000+.</li>
+</ul>
      </div></div>
 
   <div class='paper-box'>
@@ -243,10 +263,12 @@ Since their release, the phones have collectively sold over 7 million units. </p
        "See Diversity" Digital Media Art Exhibition-Mycelium Spectrum, Guangzhou library, Guangzhou, China
     </a>
     <p>
-          <i><b>Yixuan Li</b>, Hongni Ye, Yinghao Gao 2025.4</i>
+          <i><b>Yixuan Li</b>, Hongni Ye, Yinghao Gao 2025</i>
          </p>
-     <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> Inspired by children's artwork from diverse backgrounds and the morphology of mushrooms, this work explores how seemingly separate individuals are linked through hidden networks—like a mycelium—exchanging energy and forming a living ecosystem. Through tactile installations, it invites audiences to rethink social boundaries, suggesting that societal “circles” are not isolated but interconnected systems where each authentic individual plays a vital role.
- </p>
+   <ul style="color: rgba(97, 97, 97, 0.7); font-size: 14px; font-family: yourFont, sans-serif;">
+  <li>Collaborated with the Guangzhou Disabled Persons’ Federation and 37 Interactive Entertainment Network Technology Group Co., Ltd., inspired by children’s artwork from diverse backgrounds, this work explores how seemingly separate individuals are connected through hidden networks—like a mycelium—exchanging energy and forming a living ecosystem.</li>
+  <li>Through tactile installations, it invites audiences to rethink social boundaries, suggesting that societal “circles” are not isolated but interconnected systems where each authentic individual plays a vital role.</li>
+</ul>
      </div></div>
 
 <div class='paper-box'>
@@ -261,9 +283,12 @@ Since their release, the phones have collectively sold over 7 million units. </p
            IKEA x  LIVAT, Stainable Healing Space Installation, Beijing LIVAT
         </a>
         <p>
-            <i><b>Yixuan Li</b>, Xiaoli Zhou, Peixuan Liu</i>
+            <i><b>Yixuan Li</b>, Xiaoli Zhou, Peixuan Liu 2024</i>
           </p>
-                <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     In collaboration with IKEA and INGKA Group, we designed a space installation in Beijing's largest commercial space for parents and children. The work was introduced to Jesper Brodin, CEO of INGKA Group, and was supported by the leading groups in Sweden and China. </p>
+               <ul style="color: rgba(97, 97, 97, 0.7); font-size: 14px; font-family: yourFont, sans-serif;">
+  <li>In collaboration with IKEA and INGKA Group, we designed a space installation in Beijing's largest commercial space for parents and children.</li>
+  <li>The work was introduced to Jesper Brodin, CEO of INGKA Group, and was supported by the leading groups in Sweden and China.</li>
+</ul>
 <p style="color: rgba(97, 97, 97, 0.7); font-size: 14px;">
   <a href="https://www.youtube.com/watch?v=L3EMBTZAKxc" target="_blank" rel="noopener noreferrer">
     ▶ Watch the project video
@@ -284,15 +309,15 @@ Since their release, the phones have collectively sold over 7 million units. </p
         Plastic Response x Artworks Composition Patch Series, 798 Art Space Exhibition, Beijing, China
         </a>
         <p>
-            <i><b>Yixuan Li</b>, Peixuan Liu 2023.12 - 2024.02</i>
+            <i><b>Yixuan Li</b>, Peixuan Liu 2024</i>
              </p>
-         <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> In collaboration with the eco-friendly brand Plastic Answer, we designed an installation made from recycled plastic sheets, which was exhibited at the Infinity x City-Children's Art Festival held at the Shanzhongtian Art Center-Genkan. </p>
+        <ul style="color: rgba(97, 97, 97, 0.7); font-size: 14px; font-family: yourFont, sans-serif;">
+  <li>In collaboration with the eco-friendly brand Plastic Answer, we designed an installation made from recycled plastic sheets, which was exhibited at the Infinity x City-Children's Art Festival held at the Shanzhongtian Art Center-Genkan.</li>
+</ul>
 </div>
 </div>
 
-
-
-# 📖 Project
+📖 Project
 
 - 2023.06 - 2025.06, Beijing Association of Higher Education Funding Program, AIGC-Assisted Design Teaching｜Core member
 
