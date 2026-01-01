@@ -107,7 +107,7 @@
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.xiaohongshu %}
-        <li><a href="{{ author.xiaohongshu }}"><i class="fas fa-fw fa-heart"></i> RedNote</a></li>
+        <li><a href="{{ author.xiaohongshu }}"><svg style="width: 14px; height: 14px; vertical-align: middle; margin-right: 8px; fill: #666;" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg"><path d="M512 0C229.2 0 0 229.2 0 512s229.2 512 512 512 512-229.2 512-512S794.8 0 512 0z m0 928c-229.8 0-416-186.2-416-416S282.2 96 512 96s416 186.2 416 416-186.2 416-416 416z m-96-640c0-35.3 28.7-64 64-64s64 28.7 64 64v256c0 35.3-28.7 64-64 64s-64-28.7-64-64V288z m192 0c0-35.3 28.7-64 64-64s64 28.7 64 64v256c0 35.3-28.7 64-64 64s-64-28.7-64-64V288z"/></svg>RedNote</a></li>
       {% endif %}
       {% if author.cv %}
         <li><a href="{{ author.cv }}"><i class="fas fa-fw fa-file-pdf"></i> CV{% if author.cv_updated %} <small>(updated: {{ author.cv_updated }})</small>{% endif %}</a></li>
@@ -208,7 +208,7 @@
         <a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i></a>
       {% endif %}
       {% if author.xiaohongshu %}
-        <a href="{{ author.xiaohongshu }}"><i class="fas fa-fw fa-heart"></i></a>
+        <a href="{{ author.xiaohongshu }}"><svg style="width: 14px; height: 14px; fill: #666;" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg"><path d="M512 0C229.2 0 0 229.2 0 512s229.2 512 512 512 512-229.2 512-512S794.8 0 512 0z m0 928c-229.8 0-416-186.2-416-416S282.2 96 512 96s416 186.2 416 416-186.2 416-416 416z m-96-640c0-35.3 28.7-64 64-64s64 28.7 64 64v256c0 35.3-28.7 64-64 64s-64-28.7-64-64V288z m192 0c0-35.3 28.7-64 64-64s64 28.7 64 64v256c0 35.3-28.7 64-64 64s-64-28.7-64-64V288z"/></svg></a>
       {% endif %}
       {% if author.cv %}
         <a href="{{ author.cv }}"><i class="fas fa-fw fa-file-pdf"></i></a>
