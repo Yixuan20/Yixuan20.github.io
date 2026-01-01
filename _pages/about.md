@@ -27,12 +27,20 @@ I have research experience at [The Hong Kong University of Science and Technolog
 - *2021.09 - 2025.06*,  <img src="https://s2.loli.net/2024/11/22/qA7LrlcBRwZQj8z.png" alt="image 1325.png" style="zoom:10%;" /> B.A. in Product Design, Beijing Forestry University.
 - *2021.09 - 2022.09*, <img src="https://s2.loli.net/2024/11/22/qA7LrlcBRwZQj8z.png" alt="image 1325.png" style="zoom:10%;" /> Minored in Computer Art at the School of Information Science and Technology, Beijing Forestry University.
 
+# 🎖 Scholarships
+
+- *2024.09*  [Baosteel Outstanding Student Scholarship](http://www.bsef.baosteel.com/#/) (awarded annually to ~500 top students across China). 
+- *2024.09*  China National Scholarship (1%) 
+- *2023.09*  China National Scholarship (1%) 
+- *2024, 2023, 2022*  BJFU Outstanding Student First Class Scholarship (2%)
+- *2024, 2023, 2022*  BJFU Scholarship for Academic Excellence
+
 # 📝 Publications 
 
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">SIGGRAPH ASIA 2025 (CCF-A)</div>
+            <div class="badge">ACM SIGGRAPH ASIA'25 Poster</div>
            <img src='https://i.ibb.co/hR8FVxC5/Frame-2090053424.png' alt="Frame 2090053424" width="100%">
         </div>
     </div>
@@ -44,7 +52,7 @@ I have research experience at [The Hong Kong University of Science and Technolog
             <i><b>Yixuan Li</b>, Jie Yu, Chenwan Zhong, Zhaowen Deng, Teng Han, Yi Cai, Xin Tong†</i>
         </p>
       <div style="color:#1e66ff; font-weight:600; margin:6px 0 0 0;">
-  Audience Choice Award
+  🏅Audience Choice Award
 </div>
         <ul>
             <li>Tangible</li>
@@ -56,7 +64,7 @@ I have research experience at [The Hong Kong University of Science and Technolog
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">Journal of Computer-Aided Design & Computer Graphics (CCF-A)</div>
+            <div class="badge">Journal of Computer-Aided Design & Computer Graphics</div>
              <img src='https://s2.loli.net/2024/11/22/dU7nPHlKVIeNOWu.png' alt="sym" width="100%">
         </div>
     </div>
@@ -77,7 +85,7 @@ I have research experience at [The Hong Kong University of Science and Technolog
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">ICMI 2024 (CCF-C)</div>
+            <div class="badge">ACM ICMI'24</div>
             <img src='https://s2.loli.net/2024/11/22/SwoF3c1CXb6TPp7.jpg' alt="sym" width="100%">
         </div>
     </div>
@@ -97,7 +105,7 @@ I have research experience at [The Hong Kong University of Science and Technolog
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">UIST 2024 (CCF-A)</div>
+            <div class="badge">ACM UIST'24 SIC</div>
             <img src='https://s2.loli.net/2024/11/22/dU7nPHlKVIeNOWu.png' alt="sym" width="100%">
         </div>
     </div>
@@ -118,6 +126,7 @@ I have research experience at [The Hong Kong University of Science and Technolog
         </ul>
     </div>
 </div>
+
 
 
 # 💻 Experience
@@ -285,11 +294,11 @@ Since their release, the phones have collectively sold over 7 million units. </p
 
 # 📖 Project
 
-- 2023.06 - Present, Beijing Association of Higher Education Funding Program, AIGC-Assisted Design Teaching｜Core member
+- 2023.06 - 2025.06, Beijing Association of Higher Education Funding Program, AIGC-Assisted Design Teaching｜Core member
 
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for writing the research report of AIGC-assisted design and conducting the teaching experiment. Utilized Python to analyze the data and complete the paper writing, totaling more than 30,000 words. Supervisor: Xue Lei. </p>
 
-- 2023.02 - Present, Supported by the [Fundamental Research Funds for the Central Universities](https://artpro.com/gallery/1468), Research on the Innovation System of “Green Community Service Design” under the Concept of Ecological Civilization ｜Core Member
+- 2023.02 - 2025.06, Supported by the [Fundamental Research Funds for the Central Universities](https://artpro.com/gallery/1468), Research on the Innovation System of “Green Community Service Design” under the Concept of Ecological Civilization ｜Core Member
 
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for more than 50,000 words of writing, and 40+ case studies on sustainable communities. Supervisor: Xue Lei. </p>
 
@@ -301,16 +310,7 @@ Since their release, the phones have collectively sold over 7 million units. </p
 
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     To meet the 10th anniversary of the School of Art and Design, we designed the exhibition wall on the 12th floor of the Research Building of Beijing Forestry University, responsible for the content layout and spatial dynamic line design. </p>
 
-
-# 🎖 Honors and Awards
-
-## ◻️ Scholarships
-
-- *2024.09*  [Baosteel Outstanding Student Scholarship](http://www.bsef.baosteel.com/#/) (awarded annually to ~500 top students across China). 
-- *2024.09*  China National Scholarship (1%) 
-- *2023.09*  China National Scholarship (1%) 
-- *2024, 2023, 2022*  BJFU Outstanding Student First Class Scholarship (2%)
-- *2024, 2023, 2022*  BJFU Scholarship for Academic Excellence
+# 🏆 Awards
 
 ## ◻️ Design Awards
 
