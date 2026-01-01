@@ -35,6 +35,31 @@ I have research experience at [The Hong Kong University of Science and Technolog
 - *2024, 2023, 2022*  BJFU Outstanding Student First Class Scholarship (2%)
 - *2024, 2023, 2022*  BJFU Scholarship for Academic Excellence
 
+# 🗃️ Open Source
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Github</div>
+           <img src="https://i.ibb.co/3yy9B9ty/Screenshot-2026-01-01-at-23-26-17-1.png" alt="Screenshot 2026 01 01 at 23 26 17 1" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://github.com/datawhalechina/easy-vibe">
+            Easy-Vibe: master Vibe Coding and AI skills through project-based learning, and build your first AI-native product.
+        </a>
+        <p>
+            <i>Core member 2026</i>
+        </p>
+      <div style="color:#1e66ff; font-weight:600; margin:6px 0 0 0;">
+</div>
+        <ul>
+            <li>Co-open sourced “easy-vibe” with Datawhale, China’s largest AI open-source learning community: a hands-on tutorial on building AI-native applications for complete beginners.</li>
+            <li>To help learners systematically master vibe coding, the tutorial is structured into three stages: practice, knowledge reinforcement, and capstone application, with each stage serving as a solid stepping stone to the next.</li>
+        </ul>
+    </div>
+</div>
+
 # 📝 Publications 
 
 <div class='paper-box'>
