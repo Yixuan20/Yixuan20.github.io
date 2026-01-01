@@ -268,3 +268,19 @@
     display: none;
   }
 }
+
+.xiaohongshu-link {
+  position: relative;
+}
+
+.subscriber-count {
+  display: none;
+  margin-left: 5px;
+  font-size: 0.85em;
+  color: #999;
+  font-weight: normal;
+}
+
+.xiaohongshu-link:hover .subscriber-count {
+  display: inline;
+}
