@@ -126,32 +126,49 @@ I have research experience at [The Hong Kong University of Science and Technolog
 
 - *2024.05*, <img src="https://s2.loli.net/2024/11/22/cYVRtEDkluAIh2y.png" alt="image 1342.png" style="zoom: 25%;" /> [The Hong Kong University of Science and Technology (Guangzhou), Computational Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), Research Associate, Guangzhou.
 
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Join in HKUST(GZ) as a Research Assistant in Human-Computer Interaction, child-oriented tangible interfaces/devices. Supervisor: Xin Tong. </p>
+  <ul style="color: rgba(97, 97, 97, 0.7); font-size: 14px;">
+    <li>Led projects including HanoCH, GenRole, EmoPus, and SofiBuddy. Participate in the project EchoClass.</li>
+    <li>
+  Directed research on tangible interaction, digital fabrication, and AI-assisted accessibility design.</li>
+   <li>Gained extensive experience with PLA/FDM 3D printing and diverse fabrication processes.</li>
+    <li>Advisor: Prof. Xin Tong</li>
+  </ul>
 
 - *2023.05 - 2023.07*, <img src="https://s2.loli.net/2024/11/22/8793FvuPUfNHzeY.png" alt="image 1344.png" style="zoom: 25%;" /> [Southern University of Science and Technology, School of Design](https://designschool.sustech.edu.cn/), Visiting Student, Shenzhen.
 
-- <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     As a visiting student of Prof. Mirna ZORDAN, assisted in research on behavioral performance of environments under complex conditions, and conducted literature reviews and Unity productions related to human peripheral vision, Hong Kong's high-density cities, and so on. </p>
+- <ul style="color: rgba(97, 97, 97, 0.7); font-size: 14px;">
+    <li>Participated in a project on behavioral performance of environments under complex conditions, conducting literature reviews and developing Unity projects related to human peripheral vision. </li>
+    <li> Advisor: Prof. Mirna ZORDAN</li>
+  </ul>
 
 - *2022.11 - 2024.05*,<img src="https://s2.loli.net/2024/11/22/eWJm5r68u9g4RKA.png" alt=" 1.png" style="zoom: 25%;" /> [Future Laboratory, Tsinghua University ](https://thfl.tsinghua.edu.cn/en/), Haptic Vibration Feedback Design Group Internship, Beijing.
 
   <ul style="color: rgba(97, 97, 97, 0.7); font-size: 14px;">
     <li>Led projects including SemanticTap, Haptic Metric.</li>
-    <li>Conducted research on vibrotactile feedback evaluation and haptic perception. 
-        Designed and fabricated haptic actuators and wearable systems. 
-        Supervisor: Prof. Yang Jiao.</li>
+    <li>Conducted research on vibrotactile feedback evaluation and haptic perception. Designed and fabricated haptic actuators and wearable systems. </li>
+    <li> Advisor: Prof. Yang Jiao.</li>
   </ul>
 
 - *2024.01 - 2024.03*, <img src="https://s2.loli.net/2024/11/22/qaV8RZj5OK9Sgpt.png" alt="Screenshot 2024-11-22 at 01.44.58 1.png" style="zoom:25%;" /> [North Carolina State University, Wilson College of Textiles](https://textiles.ncsu.edu/), USA.
 
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Cooperate with Applied the deformation effect of memory alloy based on SCR signal to origami structured textiles, researched and designed a wearable device, and created a poster for presentation. Supervisor: Prof. Rong Yin. </p>
+  <ul style="color: rgba(97, 97, 97, 0.7); font-size: 14px;">
+    <li>Responsible for project on Emolink: Textile Devices Based on SCR Signals. Applied the SMA based on SCR signal to origami structured textiles wearable device.</li>
+    <li> Research poster presentation Awarded 2024 Winter GEARS Program-Certificate of Excellence.   </li>
+    <li> Advisor: Prof. Rong Yin.</li>
+  </ul>
   <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">    <a href="https://www.youtube.com/watch?v=6pnTmdU3NJw&t=12s">
              Video
           </a> </p>
   
   
+  
 - *2024.01 - 2024.05*, <img src="https://s2.loli.net/2024/11/22/w5kXLAjJo7BVtgR.png" alt="image 1343.png" style="zoom:25%;" /> University of Rochester, Department of Computer Science, Research Intern, USA.
 
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Capturing users' behavioral, developing visual physiological data interfaces as socio-emotional cues in asynchronous games, and exploring emotional communication features in VR. Supervisor: Prof. Yukang Yan. </p>
+  <ul style="color: rgba(97, 97, 97, 0.7); font-size: 14px;">
+    <li>Responsible for prject on A Visualization Study to Facilitate Social Connections in VR Asynchronous Games.</li>
+    <li>Capturing users' behavioral, developing visual physiological data interfaces as socio-emotional cues in asynchronous VR game. </li>
+    <li> Advisor: Prof. Yukang Yan.</li>
+  </ul>
 
 ## ◻️ Internships
 
