@@ -208,8 +208,10 @@ I have research experience at [The Hong Kong University of Science and Technolog
     <p>
           <i><b>Core member 2025</b></i>
          </p>
-     <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;"> Co-designed “Sweekar”, an AI pocket pet integrating AI, nurturing gameplay and multi-sensory hardware, covering interaction flows and product structure; scheduled for Kickstarter, CES 2026 and featured by 21st Century Business Herald and major expos (CITE 2025, wteam AI Maker Festival, Shanghai New International Expo Centre).
- </p>
+  <ul style="color: rgba(97, 97, 97, 0.7); font-size: 14px; font-family: yourFont, sans-serif;">
+  <li>Co-designed “Sweekar”, an AI pocket pet integrating AI, nurturing gameplay and multi-sensory hardware, covering interaction flows and product structure.</li>
+    <li>Scheduled to launch on Kickstarter and exhibit at CES 2026. Previously showcased at major expos (CITE 2025, WTEAM AI Maker Festival, Shanghai New International Expo Centre) and featured by 21st Century Business Herald.</li>
+</ul>
      </div></div>
 
   <div class='paper-box'>
