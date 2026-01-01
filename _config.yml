@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yixuan Li's website"
-description              : "HCI🤖 Designer🧑‍🎨  Artist🎨 Email: yixuanli87@163.com"
+description              : "HCI🤖 Designer🧑‍🎨  Email: yixuan-li25@mails.tsinghua.edu.cn"
 repository               : "yixuan20/yixuan20.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3peOthcAAAAJ&hl=zh-CN"
-  email            : "yixuanli87@163.com"
+  email            : "yixuan-li25@mails.tsinghua.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
