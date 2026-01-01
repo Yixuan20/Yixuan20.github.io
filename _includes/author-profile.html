@@ -106,6 +106,9 @@
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
+      {% if author.xiaohongshu %}
+        <li><a href="{{ author.xiaohongshu }}"><i class="fas fa-fw fa-heart"></i> RedNote</a></li>
+      {% endif %}
       {% if author.cv %}
         <li><a href="{{ author.cv }}"><i class="fas fa-fw fa-file-pdf"></i> CV{% if author.cv_updated %} <small>(updated: {{ author.cv_updated }})</small>{% endif %}</a></li>
       {% endif %}
@@ -203,6 +206,9 @@
       {% endif %}
       {% if author.googlescholar %}
         <a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i></a>
+      {% endif %}
+      {% if author.xiaohongshu %}
+        <a href="{{ author.xiaohongshu }}"><i class="fas fa-fw fa-heart"></i></a>
       {% endif %}
       {% if author.cv %}
         <a href="{{ author.cv }}"><i class="fas fa-fw fa-file-pdf"></i></a>
