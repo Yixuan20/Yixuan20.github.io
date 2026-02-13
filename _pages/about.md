@@ -42,7 +42,7 @@ I have research experience at [The Hong Kong University of Science and Technolog
     <div class='paper-box-image'>
         <div>
             <div class="badge">ACM CHI'26</div>
-            <img src="https://i.ibb.co/XxtvNZmw/GENR.png" alt="GenRole" width="100%">
+            <img src="https://i.ibb.co/4gRSy9cd/lyx1.png" alt="sym" width="100%">
         </div>
     </div>
     <div class='paper-box-text'>
@@ -63,7 +63,7 @@ I have research experience at [The Hong Kong University of Science and Technolog
     <div class='paper-box-image'>
         <div>
             <div class="badge">ACM SIGGRAPH ASIA'25 Poster</div>
-           <img src='https://i.ibb.co/hR8FVxC5/Frame-2090053424.png' alt="Frame 2090053424" width="100%">
+           <img src='https://i.ibb.co/hR8FVxC5/Frame-2090053424.png' alt="Frame 2090053424" e 2090053424" width="100%">
         </div>
     </div>
     <div class='paper-box-text'>
@@ -87,7 +87,7 @@ I have research experience at [The Hong Kong University of Science and Technolog
     <div class='paper-box-image'>
         <div>
             <div class="badge">Journal of Computer-Aided Design & Computer Graphics</div>
-             <img src="https://i.ibb.co/sdrn4WzK/SYSTEM.jpg" alt="sym" width="100%">
+             <img src="https://i.ibb.co/3m1ZfwHL/zr1.jpg" alt="sym" width="100%">
         </div>
     </div>
     <div class='paper-box-text'>
