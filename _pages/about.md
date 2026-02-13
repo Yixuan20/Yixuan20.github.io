@@ -52,6 +52,10 @@ I have research experience at [The Hong Kong University of Science and Technolog
         <p>
             <i><b>Yixuan Li</b>, Keyi Zeng, Jiaqi Zong, Yingying Zhang, Hongzhu Deng, Li Wang, Xin Tong∗</i>
         </p>
+       <ul>
+            <li>Interative System</li>
+            <li>AI Assisted Creative Tool</li>
+        </ul>
     </div>
 </div>
 
