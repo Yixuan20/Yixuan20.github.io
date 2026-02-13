@@ -63,7 +63,7 @@ I have research experience at [The Hong Kong University of Science and Technolog
     <div class='paper-box-image'>
         <div>
             <div class="badge">ACM SIGGRAPH ASIA'25 Poster</div>
-           <img src='https://i.ibb.co/hR8FVxC5/Frame-2090053424.png' alt="Frame 2090053424" e 2090053424" width="100%">
+           <img src='https://i.ibb.co/hR8FVxC5/Frame-2090053424.png' alt="Frame 2090053424" width="100%">
         </div>
     </div>
     <div class='paper-box-text'>
