@@ -29,11 +29,12 @@ I have research experience at [The Hong Kong University of Science and Technolog
 
 # 🎖 Scholarships
 
-- *2024.09*  [Baosteel Outstanding Student Scholarship](http://www.bsef.baosteel.com/#/) (awarded annually to ~500 top students across China). 
-- *2024.09*  China National Scholarship (1%) 
-- *2023.09*  China National Scholarship (1%) 
-- *2024, 2023, 2022*  BJFU Outstanding Student First Class Scholarship (2%)
-- *2024, 2023, 2022*  BJFU Scholarship for Academic Excellence
+- *2026*  Tsinghua University Three-Good Student
+- *2025*  [Baosteel Outstanding Student Scholarship](http://www.bsef.baosteel.com/#/) (awarded annually to ~500 top students across China). 
+- *2025*  China National Scholarship (1%) 
+- *2024*  China National Scholarship (1%) 
+- *2025, 2024, 2023*  BJFU Outstanding Student First Class Scholarship (2%)
+- *2025, 2024, 2023*  BJFU Scholarship for Academic Excellence
 
 
 # 📝 Publications 
@@ -410,6 +411,5 @@ I have research experience at [The Hong Kong University of Science and Technolog
 - 2022 The 8th China International Innovation and Entrepreneurship Competition for College Students, Provincial Excellence Award;
 - 2022 Computer Application Competition of Five Provinces in North China, Second Prize ;
 - 2022 China Hainan Free Trade Port High School Main Track, Excellence Award;
-
 
 
