@@ -21,6 +21,8 @@ I am currently a Master student at **Tsinghua University**, majoring in **Electr
 
 I have research experience at [The Hong Kong University of Science and Technology (Guangzhou), Computational Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), [Future Laboratory, Tsinghua University ](https://thfl.tsinghua.edu.cn/en/), and the [Southern University of Science and Technology, School of Design](https://designschool.sustech.edu.cn/), along with work experience at [BMW (China) Service Co., Ltd](https://www.bmwgroup.com/en/news/general/2019/china-fe.html). These interdisciplinary experiences have strengthened my ability to integrate **design thinking with technical research**, enabling me to develop innovative, user-centered technological solutions.
 
+<img src="https://i.ibb.co/N6qSyWR9/Frame-1410125407.png" alt="Frame 1410125407" border="0" style="width: 100%; height: auto;" />
+
 # 📖 Educations
 
 - *2025.09 - Now*, <img src="https://s2.loli.net/2024/11/22/nyLrt4gP86W2u9S.png" alt=" 2.png" style="zoom:10%;" /> M.S. in Electronic Information at Tsinghua University (**GPA 4.0/4.0, Ranked 1/30**).
@@ -64,7 +66,7 @@ I have research experience at [The Hong Kong University of Science and Technolog
     <div class='paper-box-image'>
         <div>
             <div class="badge">IJHCI'26</div>
-            <img src="https://i.ibb.co/R4syvHQM/Screenshot-2026-06-06-at-13-13-22.png" alt="Screenshot 2026 06 06 at 13 13 22" border="0" width="100%">
+            <img src="https://i.ibb.co/R4syvHQM/Screenshot-2026-06-06-at-13-13-22.png" alt="Screenshot 2026 06 06 at 13 13 22" border="0" width="100%" style="aspect-ratio: 16 / 9; object-fit: cover;">
         </div>
     </div>
     <div class='paper-box-text'>
