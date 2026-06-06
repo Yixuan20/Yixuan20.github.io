@@ -29,7 +29,7 @@ I have research experience at [The Hong Kong University of Science and Technolog
 
 # 🎖 Scholarships
 
-- *2026*  Tsinghua University Three-Good Student
+- *2026*  Tsinghua University Outstanding Student Award
 - *2025*  [Baosteel Outstanding Student Scholarship](http://www.bsef.baosteel.com/#/) (awarded annually to ~500 top students across China). 
 - *2025*  China National Scholarship (1%) 
 - *2024*  China National Scholarship (1%) 
@@ -56,6 +56,27 @@ I have research experience at [The Hong Kong University of Science and Technolog
        <ul>
             <li>Interative System</li>
             <li>AI Assisted Creative Tool</li>
+        </ul>
+    </div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">IJHCI'26</div>
+            <img src="https://i.ibb.co/R4syvHQM/Screenshot-2026-06-06-at-13-13-22.png" alt="Screenshot 2026 06 06 at 13 13 22" border="0" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <a>
+            Glitter: Exploring an LLM Virtual Agent for Supporting Practitioners in Behavioral Interventions of Autistic Children
+        </a>
+        <p>
+            <i>Xin Tong, Liwen He, Zhaowen Deng, Weibo Li, Ziheng Tang, <b>Yixuan Li</b>, Yutong Ren, Matthew Louis Mauriello, Ming Li</i>
+        </p>
+       <ul>
+            <li>LLM Virtual Agent</li>
+            <li>AI, Behavioral Interventions</li>
         </ul>
     </div>
 </div>
@@ -411,5 +432,3 @@ I have research experience at [The Hong Kong University of Science and Technolog
 - 2022 The 8th China International Innovation and Entrepreneurship Competition for College Students, Provincial Excellence Award;
 - 2022 Computer Application Competition of Five Provinces in North China, Second Prize ;
 - 2022 China Hainan Free Trade Port High School Main Track, Excellence Award;
-
-
