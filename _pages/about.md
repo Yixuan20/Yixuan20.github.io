@@ -23,12 +23,11 @@ I have research experience at [The Hong Kong University of Science and Technolog
 
 <img src="https://i.ibb.co/N6qSyWR9/Frame-1410125407.png" alt="Frame 1410125407" border="0" style="width: 100%; height: auto;" />
 
-News
+# 📰 News
 
-- 6/2026 — One co-author paper was accepted at CHI ’26.
+- 6/2026 — One co-author paper was accepted at UIST ’26.
 - 2/2026 — A first-author poster was accepted at CHI ’26!
-- 1/2026 — One paper was accepted at CHI ’26; another was rejected in Round 2.
-- 1/2026 — Submitted two papers to DIS ’26.
+- 1/2026 — One paper was accepted at CHI ’26; another was rejected in Round 2 😭.
 - 12/2025 — SofiBuddy won the SIGGRAPH Asia ’25 Audience Choice Award!
 
 # 📖 Educations
@@ -205,11 +204,6 @@ News
         </ul>
     </div>
 </div>
-
-
-# 
-
-
 # 💻 Experience
 
 ## ◻️ Research 
@@ -399,24 +393,6 @@ News
 </ul>
 </div>
 </div>
-
-📖 Project
-
-- 2023.06 - 2025.06, Beijing Association of Higher Education Funding Program, AIGC-Assisted Design Teaching｜Core member
-
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for writing the research report of AIGC-assisted design and conducting the teaching experiment. Utilized Python to analyze the data and complete the paper writing, totaling more than 30,000 words. Supervisor: Xue Lei. </p>
-
-- 2023.02 - 2025.06, Supported by the [Fundamental Research Funds for the Central Universities](https://artpro.com/gallery/1468), Research on the Innovation System of “Green Community Service Design” under the Concept of Ecological Civilization ｜Core Member
-
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for more than 50,000 words of writing, and 40+ case studies on sustainable communities. Supervisor: Xue Lei. </p>
-
-- 2023.05 - 2024.09, [National level Innovation and Entrepreneurship Training Program for Undergraduates](http://gjcxcy.bjtu.edu.cn/), Research on the renovation of child-friendly space in old communities based on community co-construction｜Leader
-
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for paper writing and designing experiments, organizing co-construction activities in Beijing Petroleum  Community, and implementing community renovation programs. At present, we already granted a notice of acceptance of appearance patent. </p>
-
-- 2022.10 - 2023.07, Faculty Celebration Wall Visualization Design, Beijing Forestry University Academic Research Building
-
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     To meet the 10th anniversary of the School of Art and Design, we designed the exhibition wall on the 12th floor of the Research Building of Beijing Forestry University, responsible for the content layout and spatial dynamic line design. </p>
 
 # 🏆 Awards
 
