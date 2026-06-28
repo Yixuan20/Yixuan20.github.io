@@ -23,6 +23,14 @@ I have research experience at [The Hong Kong University of Science and Technolog
 
 <img src="https://i.ibb.co/N6qSyWR9/Frame-1410125407.png" alt="Frame 1410125407" border="0" style="width: 100%; height: auto;" />
 
+News
+
+- 6/2026 — One co-author paper was accepted at CHI ’26.
+- 2/2026 — A first-author poster was accepted at CHI ’26!
+- 1/2026 — One paper was accepted at CHI ’26; another was rejected in Round 2.
+- 1/2026 — Submitted two papers to DIS ’26.
+- 12/2025 — SofiBuddy won the SIGGRAPH Asia ’25 Audience Choice Award!
+
 # 📖 Educations
 
 - *2025.09 - Now*, <img src="https://s2.loli.net/2024/11/22/nyLrt4gP86W2u9S.png" alt=" 2.png" style="zoom:10%;" /> M.S. in Electronic Information at Tsinghua University (**GPA 4.0/4.0, Ranked 1/30**).
