@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master student at **Tsinghua University**, majoring in **Electronic Information**. I hold a B.A. in Product Design from Beijing Forestry University, with a minor in Computer Art from the School of Information Science and Technology. With a background spanning both **Electrical Engineering** and **Product Design**, my previous research has focused on embodied generative AI for semantic authoring, affective interaction, and inclusive human agency.
+I am an M.S. student in **Electronic Information at Tsinghua University** and will study **Informatics at the Technical University of Munich** as an exchange student from 2026 to 2027. I hold a B.A. in Product Design with a minor in Computer Art from Beijing Forestry University.
 
-I have research experience at [ARK Lab at HKUST (GZ)](https://arkxlab.github.io/), the [Future Laboratory at Tsinghua University](https://thfl.tsinghua.edu.cn/en/), and the [DE4M Lab at UT Dallas](https://www.de4m.xyz/).
+With a background in **Electrical Engineering** and **Product Design**, I focus on embodied generative AI, tangible interaction, and human-centered AI, with research experience at [ARK Lab at HKUST (GZ)](https://arkxlab.github.io/), the [Future Laboratory at Tsinghua University](https://thfl.tsinghua.edu.cn/en/), and the [DE4M Lab at UT Dallas](https://www.de4m.xyz/).
 
 <img src="https://i.ibb.co/N6qSyWR9/Frame-1410125407.png" alt="Frame 1410125407" border="0" style="width: 100%; height: auto;" />
 
@@ -56,27 +56,6 @@ I have research experience at [ARK Lab at HKUST (GZ)](https://arkxlab.github.io/
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">IJHCI'26</div>
-            <img src="https://i.ibb.co/R4syvHQM/Screenshot-2026-06-06-at-13-13-22.png" alt="Screenshot 2026 06 06 at 13 13 22" border="0" width="100%" style="aspect-ratio: 16 / 9; object-fit: cover;">
-        </div>
-    </div>
-    <div class='paper-box-text'>
-        <a>
-            Glitter: Exploring an LLM Virtual Agent for Supporting Practitioners in Behavioral Interventions of Autistic Children
-        </a>
-        <p>
-            <i>Xin Tong, Liwen He, Zhaowen Deng, Weibo Li, Ziheng Tang, <b>Yixuan Li</b>, Yutong Ren, Matthew Louis Mauriello, Ming Li</i>
-        </p>
-       <ul>
-            <li>LLM Virtual Agent</li>
-            <li>AI, Behavioral Interventions</li>
-        </ul>
-    </div>
-</div>
-
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
             <div class="badge">ACM SIGGRAPH ASIA'25 Poster</div>
            <img src='https://i.ibb.co/hR8FVxC5/Frame-2090053424.png' alt="Frame 2090053424" width="100%">
         </div>
@@ -97,28 +76,6 @@ I have research experience at [ARK Lab at HKUST (GZ)](https://arkxlab.github.io/
         </ul>
     </div>
 </div>
-
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">Journal of Computer-Aided Design & Computer Graphics</div>
-             <img src="https://i.ibb.co/3m1ZfwHL/zr1.jpg" alt="sym" width="100%">
-        </div>
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://dl.acm.org/doi/abs/10.1145/3678957.3685739">
-            Optimization Design of Smartphone Haptic Feedback Based on Vibration–Semantic Features
-        </a>
-        <p>
-            <i>Rui Zhang, <b>Yixuan Li</b>, Yang Jiao†</i>
-        </p>
-        <ul>
-            <li>Haptic</li>
-            <li>Vibration Feedback</li>
-        </ul>
-    </div>
-</div>
-
 
 <div class='paper-box'>
     <div class='paper-box-image'>
@@ -164,6 +121,28 @@ I have research experience at [ARK Lab at HKUST (GZ)](https://arkxlab.github.io/
         </ul>
     </div>
 </div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">IJHCI'26</div>
+            <img src="https://i.ibb.co/R4syvHQM/Screenshot-2026-06-06-at-13-13-22.png" alt="Glitter virtual agent" width="100%" style="aspect-ratio: 16 / 9; object-fit: cover;">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <a>
+            Glitter: Exploring an LLM Virtual Agent for Supporting Practitioners in Behavioral Interventions of Autistic Children
+        </a>
+        <p>
+            <i>Xin Tong, Liwen He, Zhaowen Deng, Weibo Li, Ziheng Tang, <b>Yixuan Li</b>, Yutong Ren, Matthew Louis Mauriello, Ming Li</i>
+        </p>
+        <ul>
+            <li>LLM Virtual Agent</li>
+            <li>AI, Behavioral Interventions</li>
+        </ul>
+    </div>
+</div>
+
 # 🗃️ Open Source
 
 <div class='paper-box'>
@@ -192,64 +171,19 @@ I have research experience at [ARK Lab at HKUST (GZ)](https://arkxlab.github.io/
 
 ## ◻️ Research 
 
-- *2024.05*, <img src="https://s2.loli.net/2024/11/22/cYVRtEDkluAIh2y.png" alt="image 1342.png" style="zoom: 25%;" /> [The Hong Kong University of Science and Technology (Guangzhou), Computational Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), Research Associate, Guangzhou.
-
-  <ul style="color: rgba(97, 97, 97, 0.7); font-size: 14px;">
-    <li>Led projects including HanoCH, GenRole, EmoPus, and SofiBuddy. Participate in the project EchoClass.</li>
-    <li>
-  Directed research on tangible interaction, digital fabrication, and AI-assisted accessibility design.</li>
-   <li>Gained extensive experience with PLA/FDM 3D printing and diverse fabrication processes.</li>
-    <li>Advisor: Prof. Xin Tong</li>
-  </ul>
-
-- *2023.05 - 2023.07*, <img src="https://s2.loli.net/2024/11/22/8793FvuPUfNHzeY.png" alt="image 1344.png" style="zoom: 25%;" /> [Southern University of Science and Technology, School of Design](https://designschool.sustech.edu.cn/), Visiting Student, Shenzhen.
-
-- <ul style="color: rgba(97, 97, 97, 0.7); font-size: 14px;">
-    <li>Participated in a project on behavioral performance of environments under complex conditions, conducting literature reviews and developing Unity projects related to human peripheral vision. </li>
-    <li> Advisor: Prof. Mirna ZORDAN</li>
-  </ul>
-
-- *2022.11 - 2024.05*,<img src="https://s2.loli.net/2024/11/22/eWJm5r68u9g4RKA.png" alt=" 1.png" style="zoom: 25%;" /> [Future Laboratory, Tsinghua University ](https://thfl.tsinghua.edu.cn/en/), Haptic Vibration Feedback Design Group Internship, Beijing.
-
-  <ul style="color: rgba(97, 97, 97, 0.7); font-size: 14px;">
-    <li>Led projects including SemanticTap, Haptic Metric.</li>
-    <li>Conducted research on vibrotactile feedback evaluation and haptic perception. Designed and fabricated haptic actuators and wearable systems. </li>
-    <li> Advisor: Prof. Yang Jiao.</li>
-  </ul>
-
-- *2024.01 - 2024.03*, <img src="https://s2.loli.net/2024/11/22/qaV8RZj5OK9Sgpt.png" alt="Screenshot 2024-11-22 at 01.44.58 1.png" style="zoom:25%;" /> [North Carolina State University, Wilson College of Textiles](https://textiles.ncsu.edu/), USA.
-
-  <ul style="color: rgba(97, 97, 97, 0.7); font-size: 14px;">
-    <li>Responsible for project on Emolink: Textile Devices Based on SCR Signals. Applied the SMA based on SCR signal to origami structured textiles wearable device.</li>
-    <li> Research poster presentation Awarded 2024 Winter GEARS Program-Certificate of Excellence.   </li>
-    <li> Advisor: Prof. Rong Yin.</li>
-  </ul>
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">    <a href="https://www.youtube.com/watch?v=6pnTmdU3NJw&t=12s">
-             Video
-          </a> </p>
-  
-  
-- *2024.01 - 2024.05*, <img src="https://s2.loli.net/2024/11/22/w5kXLAjJo7BVtgR.png" alt="image 1343.png" style="zoom:25%;" /> University of Rochester, Department of Computer Science, Research Intern, USA.
-
-  <ul style="color: rgba(97, 97, 97, 0.7); font-size: 14px;">
-    <li>Responsible for prject on A Visualization Study to Facilitate Social Connections in VR Asynchronous Games.</li>
-    <li>Capturing users' behavioral, developing visual physiological data interfaces as socio-emotional cues in asynchronous VR game. </li>
-    <li> Advisor: Prof. Yukang Yan.</li>
-  </ul>
+- *2025.12 - Present* — [DE4M Lab, The University of Texas at Dallas](https://www.de4m.xyz/), **Visiting Scholar** — Swarm haptic interfaces for VR.
+- *2024.07 - 2025.09* — [ARK Lab, HKUST (GZ)](https://arkxlab.github.io/), **Full-time Research Assistant** — Embodied AI, multimodal interaction, and soft robotics.
+- *2024.01 - 2024.05* — University of Rochester, Department of Computer Science, **Research Intern** — Social interaction in asynchronous VR.
+- *2024.01 - 2024.03* — [North Carolina State University, Wilson College of Textiles](https://textiles.ncsu.edu/), **Visiting Researcher** — Responsive textile interfaces.
+- *2023.05 - 2023.12* — [Southern University of Science and Technology, School of Design](https://designschool.sustech.edu.cn/), **Visiting Student** — Human peripheral vision in complex environments.
+- *2022.11 - 2024.05* — [Future Laboratory, Tsinghua University](https://thfl.tsinghua.edu.cn/en/), **Research Assistant** — Vibrotactile feedback and haptic perception.
 
 ## ◻️ Internships
 
-- *2023.12 - 2024.05*, <img src="https://s2.loli.net/2024/11/22/gCjFyeYdszu9KRL.png" alt="image 1345.png" style="zoom:25%;" /> [BMW (China) Service Co., Ltd](https://www.bmwgroup.com/en/news/general/2019/china-fe.html), Electric Vehicle Program & User Research Internship, Beijing.
-
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Conducted testing and market research on the BMW tram charging system as well as in-vehicle hardware and interfaces, and analyzed competitor vehicles such as NIO and XPeng for cross-testing comparisons. </p>
-
-- *2022.10 - 2023.07*, Guangzhou Yuanwukong Technology Co., UI Designer, Guangzhou.
-
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Cooperate with developers to complete the tasks of interaction, design and user experience research of the project. Analyze business requirements and generate interface and physical product prototypes through user research. </p>
-
-- *2022.06 - 2022.09*, [Shenzhen EDA Art Space](https://artpro.com/gallery/1468), Curatorial Assistant, Shenzhen.
-
-  <p style="color: rgba(97, 97, 97, 0.7);font-size: 14px;">     Responsible for planning and arranging the solo exhibition of Central Academy of Fine Arts artist Dazhi, dynamic poster production, push production, etc. Accumulated more than 10,000 radiant people. </p>
+- *2026.04 - 2026.06* — Alibaba International AI Talent Incubation Center — **AI Experience Design Intern**
+- *2025.11 - 2026.03* — Takway.ai (Shenzhen Lingdong Future Technology Co., Ltd.) — **Interaction Design Intern**
+- *2023.12 - 2024.05* — [BMW (China) Service Co., Ltd., R&D Center](https://www.bmwgroup.com/en/news/general/2019/china-fe.html) — **Electric Vehicle & User Research Intern**
+- *2022.10 - 2023.07* — Guangzhou Yuanwukong Technology Co. — **UI Designer**
 
 # 🎨 Design
 
