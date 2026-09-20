@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Master student at **Tsinghua University**, majoring in **Electronic Information**. I hold a B.A. in Product Design from Beijing Forestry University, with a minor in Computer Art from the School of Information Science and Technology. With a background spanning both **Electrical Engineering** and **Product Design**, my previous research has focused on embodied generative AI for semantic authoring, affective interaction, and inclusive human agency.
 
-I have research experience at [The Hong Kong University of Science and Technology (Guangzhou), Computational Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), [Future Laboratory, Tsinghua University ](https://thfl.tsinghua.edu.cn/en/), and the [Southern University of Science and Technology, School of Design](https://designschool.sustech.edu.cn/), along with work experience at [BMW (China) Service Co., Ltd](https://www.bmwgroup.com/en/news/general/2019/china-fe.html). These interdisciplinary experiences have strengthened my ability to integrate **design thinking with technical research**, enabling me to develop innovative, user-centered technological solutions.
+I have research experience at [ARK Lab at HKUST (GZ)](https://arkxlab.github.io/), the [Future Laboratory at Tsinghua University](https://thfl.tsinghua.edu.cn/en/), and the [DE4M Lab at UT Dallas](https://www.de4m.xyz/).
 
 <img src="https://i.ibb.co/N6qSyWR9/Frame-1410125407.png" alt="Frame 1410125407" border="0" style="width: 100%; height: auto;" />
 
