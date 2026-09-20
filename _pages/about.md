@@ -30,22 +30,6 @@ I have research experience at [ARK Lab at HKUST (GZ)](https://arkxlab.github.io/
 - 1/2026 — One paper was accepted at CHI ’26; another was rejected in Round 2 😭.
 - 12/2025 — SofiBuddy won the SIGGRAPH Asia ’25 Audience Choice Award!
 
-# 📖 Educations
-
-- *2025.09 - Now*, <img src="https://s2.loli.net/2024/11/22/nyLrt4gP86W2u9S.png" alt=" 2.png" style="zoom:10%;" /> M.S. in Electronic Information at Tsinghua University (**GPA 4.0/4.0, Ranked 1/1428**).
-- *2021.09 - 2025.06*,  <img src="https://s2.loli.net/2024/11/22/qA7LrlcBRwZQj8z.png" alt="image 1325.png" style="zoom:10%;" /> B.A. in Product Design, Beijing Forestry University  (**GPA 3.88/4.0, Ranked 1/33**).
-- *2021.09 - 2022.09*, <img src="https://s2.loli.net/2024/11/22/qA7LrlcBRwZQj8z.png" alt="image 1325.png" style="zoom:10%;" /> Minored in Computer Art at the School of Information Science and Technology, Beijing Forestry University.
-
-# 🎖 Scholarships
-
-- *2026*  Tsinghua University Outstanding Student Award
-- *2025*  [Baosteel Outstanding Student Scholarship](http://www.bsef.baosteel.com/#/) (awarded annually to ~500 top students across China). 
-- *2025*  China National Scholarship (1%) 
-- *2024*  China National Scholarship (1%) 
-- *2025, 2024, 2023*  BJFU Outstanding Student First Class Scholarship (2%)
-- *2025, 2024, 2023*  BJFU Scholarship for Academic Excellence
-
-
 # 📝 Publications 
 
 <div class='paper-box'>
@@ -269,6 +253,8 @@ I have research experience at [ARK Lab at HKUST (GZ)](https://arkxlab.github.io/
 
 # 🎨 Design
 
+<div class="design-grid">
+
   <div class='paper-box'>
 <div class='paper-box-image'>
     <div>
@@ -277,16 +263,13 @@ I have research experience at [ARK Lab at HKUST (GZ)](https://arkxlab.github.io/
     </div>
 </div>
 <div class='paper-box-text'>
-    <a href="https://www.mi.com/xiaomi-14">
-       CES2026-AI pocket pet “Sweekar”, Takway.ai 
-    </a>
+    <span class="design-title">
+       Sweekar — AI Pocket Pet
+    </span>
     <p>
           <i><b>Core member 2025</b></i>
          </p>
-  <ul style="color: rgba(97, 97, 97, 0.7); font-size: 14px; font-family: yourFont, sans-serif;">
-  <li>Co-designed “Sweekar”, an AI pocket pet integrating AI, nurturing gameplay and multi-sensory hardware, covering interaction flows and product structure.</li>
-    <li>Scheduled to launch on Kickstarter and exhibit at CES 2026. Previously showcased at major expos (CITE 2025, WTEAM AI Maker Festival, Shanghai New International Expo Centre) and featured by 21st Century Business Herald.</li>
-</ul>
+  <p class="design-summary">An AI companion combining nurturing play, multisensory interaction, and expressive hardware; featured at CES 2026.</p>
      </div></div>
 
   <div class='paper-box'>
@@ -297,15 +280,13 @@ I have research experience at [ARK Lab at HKUST (GZ)](https://arkxlab.github.io/
     </div>
 </div>
 <div class='paper-box-text'>
-    <a href="https://www.mi.com/xiaomi-14">
-       “RedFOX” Children's language learning companion hardware</a>
+    <span class="design-title">
+       RedFOX — Language-Learning Companion
+    </span>
 <p>
       <i><b>Core member 2025</b></i>
      </p>
- <ul style="color: rgba(97, 97, 97, 0.7); font-size: 14px; font-family: yourFont, sans-serif;">
-  <li>Built a pet-like embodied interaction system using servo-driven movements to increase companionship, fine-tuned ERNIE 4.5 Tiny to improve voice interaction quality. Used game-based mechanics to boost children’s motivation and learning persistence.</li>
-  <li>Won Global 3rd Place in the Baidu ERNIE Open Source Innovation Competition (AI + Hardware track), and exhibited at the Baidu PaddlePaddle Xiamen Empowerment Center. Received the Best App Award in Tsinghua University’s “Artificial Intelligence and Innovative Design” course and won the AI Playful Toys track.</li>
-</ul>
+ <p class="design-summary">An embodied AI learning companion with expressive motion and child-friendly voice interaction; Global 3rd Place in Baidu's AI + Hardware track.</p>
      </div></div>
 
   <div class='paper-box'>
@@ -317,15 +298,12 @@ I have research experience at [ARK Lab at HKUST (GZ)](https://arkxlab.github.io/
 </div>
 <div class='paper-box-text'>
     <a href="https://www.mi.com/xiaomi-14">
-      Xiaomi 14, 14 pro Vibration Waveform Optimization Design, Xiaomi Flagship Phone
+      Xiaomi 14/14 Pro Haptic Design
     </a>
     <p>
         <i><b>Yixuan Li</b>, Rui Zhang, Zihuang Wu, Yang Jiao 2023 </i>
          </p>
-   <ul style="color: rgba(97, 97, 97, 0.7); font-size: 14px; font-family: yourFont, sans-serif;">
-  <li>Collaborated with Xiaomi Corporation, using accelerometers and a Pico 5444D MSO oscilloscope to collect motion signals, combined with semi-structured interviews, applied KMO testing, multiple linear regression, and particle swarm optimization to analyze the data and generate novel waveforms. </li>
-  <li>These optimized waveforms were applied to the vibration system design of the Xiaomi 14 and 14 Pro, Xiaomi's flagship smartphones. Since their release, the phones have collectively sold over 10,000,000+.</li>
-</ul>
+   <p class="design-summary">Data-driven vibration waveforms developed through user research, signal analysis, and algorithmic optimization for Xiaomi flagship phones.</p>
      </div></div>
 
   <div class='paper-box'>
@@ -336,16 +314,13 @@ I have research experience at [ARK Lab at HKUST (GZ)](https://arkxlab.github.io/
     </div>
 </div>
 <div class='paper-box-text'>
-    <a href="https://www.mi.com/xiaomi-14">
-       "See Diversity" Digital Media Art Exhibition-Mycelium Spectrum, Guangzhou library, Guangzhou, China
-    </a>
+    <span class="design-title">
+       Mycelium Spectrum — “See Diversity”
+    </span>
     <p>
           <i><b>Yixuan Li</b>, Hongni Ye, Yinghao Gao 2025</i>
          </p>
-   <ul style="color: rgba(97, 97, 97, 0.7); font-size: 14px; font-family: yourFont, sans-serif;">
-  <li>Collaborated with the Guangzhou Disabled Persons’ Federation and 37 Interactive Entertainment Network Technology Group Co., Ltd., inspired by children’s artwork from diverse backgrounds, this work explores how seemingly separate individuals are connected through hidden networks—like a mycelium—exchanging energy and forming a living ecosystem.</li>
-  <li>Through tactile installations, it invites audiences to rethink social boundaries, suggesting that societal “circles” are not isolated but interconnected systems where each authentic individual plays a vital role.</li>
-</ul>
+   <p class="design-summary">A tactile digital-media installation translating children's artworks into a connected, living ecosystem.</p>
      </div></div>
 
 <div class='paper-box'>
@@ -357,15 +332,12 @@ I have research experience at [ARK Lab at HKUST (GZ)](https://arkxlab.github.io/
     </div>
     <div class='paper-box-text'>
         <a href="https://www.ingkacentres.com/zh-cn/where-we-are/china/livat-beijing">
-           IKEA x  LIVAT, Stainable Healing Space Installation, Beijing LIVAT
+           IKEA × LIVAT Healing Space
         </a>
         <p>
             <i><b>Yixuan Li</b>, Xiaoli Zhou, Peixuan Liu 2024</i>
           </p>
-               <ul style="color: rgba(97, 97, 97, 0.7); font-size: 14px; font-family: yourFont, sans-serif;">
-  <li>In collaboration with IKEA and INGKA Group, we designed a space installation in Beijing's largest commercial space for parents and children.</li>
-  <li>The work was introduced to Jesper Brodin, CEO of INGKA Group, and was supported by the leading groups in Sweden and China.</li>
-</ul>
+        <p class="design-summary">A restorative parent–child spatial installation created with IKEA and INGKA Group for Beijing LIVAT.</p>
 <p style="color: rgba(97, 97, 97, 0.7); font-size: 14px;">
   <a href="https://www.youtube.com/watch?v=L3EMBTZAKxc" target="_blank" rel="noopener noreferrer">
     ▶ Watch the project video
@@ -383,16 +355,30 @@ I have research experience at [ARK Lab at HKUST (GZ)](https://arkxlab.github.io/
     </div>
     <div class='paper-box-text'>
         <a href="https://mp.weixin.qq.com/s/iMmlwcnNrE4ovLfAIlNTmg">
-        Plastic Response x Artworks Composition Patch Series, 798 Art Space Exhibition, Beijing, China
+        Plastic Response — Recycled Art Installation
         </a>
         <p>
             <i><b>Yixuan Li</b>, Peixuan Liu 2024</i>
              </p>
-        <ul style="color: rgba(97, 97, 97, 0.7); font-size: 14px; font-family: yourFont, sans-serif;">
-  <li>In collaboration with the eco-friendly brand Plastic Answer, we designed an installation made from recycled plastic sheets, which was exhibited at the Infinity x City-Children's Art Festival held at the Shanzhongtian Art Center-Genkan.</li>
-</ul>
+        <p class="design-summary">A recycled-plastic installation exhibited at the Infinity × City Children's Art Festival in Beijing.</p>
 </div>
 </div>
+
+</div>
+
+# 📖 Education
+
+- *2025.09 - Now*, <img src="https://s2.loli.net/2024/11/22/nyLrt4gP86W2u9S.png" alt="Tsinghua University" style="zoom:10%;" /> M.S. in Electronic Information at Tsinghua University (**GPA 4.0/4.0, Ranked 1/1428**).
+- *2021.09 - 2025.06*, <img src="https://s2.loli.net/2024/11/22/qA7LrlcBRwZQj8z.png" alt="Beijing Forestry University" style="zoom:10%;" /> B.A. in Product Design, Beijing Forestry University (**GPA 3.88/4.0, Ranked 1/33**).
+- *2021.09 - 2022.09*, <img src="https://s2.loli.net/2024/11/22/qA7LrlcBRwZQj8z.png" alt="Beijing Forestry University" style="zoom:10%;" /> Minor in Computer Art, School of Information Science and Technology, Beijing Forestry University.
+
+# 🎖 Scholarships
+
+- *2026* Tsinghua University Outstanding Student Award
+- *2025* [Baosteel Outstanding Student Scholarship](http://www.bsef.baosteel.com/#/) (awarded annually to ~500 students in China)
+- *2025, 2024* China National Scholarship (Top 1%)
+- *2025, 2024, 2023* BJFU Outstanding Student First Class Scholarship (Top 2%)
+- *2025, 2024, 2023* BJFU Scholarship for Academic Excellence
 
 # 🏆 Awards
 
