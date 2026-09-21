@@ -118,16 +118,22 @@ With a background in **Electrical Engineering** and **Product Design**, I focus 
         </div>
     </div>
 
-    <div class="publication-list-item">
-        <div class="publication-venue">ACM MM '26 Demo</div>
-        <div class="publication-title">CAREFox: An LLM-Assisted Embodied Multimodal Companion for Care-Based EFL Learning with Children</div>
-        <p><a href="https://openreview.net/profile?id=~Yixuan_Li33"><b>Yixuan Li</b></a>, Zixuan Gui, <a href="https://openreview.net/profile?id=~Yutian_Lu2">Yutian Lu</a>, <a href="https://openreview.net/profile?email=pandawang%40zju.edu.cn">Shuai Wang</a>, Mingyue Qu, <a href="https://openreview.net/profile?id=~Shiguang_NI1">Shiguang Ni</a></p>
+    <div class="publication-list-item publication-list-item--featured">
+        <img class="publication-thumb" src="/images/redfox.png" alt="CAREFox embodied learning companion system">
+        <div class="publication-list-content">
+            <div class="publication-venue">ACM MM '26 Demo</div>
+            <div class="publication-title">CAREFox: An LLM-Assisted Embodied Multimodal Companion for Care-Based EFL Learning with Children</div>
+            <p><a href="https://openreview.net/profile?id=~Yixuan_Li33"><b>Yixuan Li</b></a>, Zixuan Gui, <a href="https://openreview.net/profile?id=~Yutian_Lu2">Yutian Lu</a>, <a href="https://openreview.net/profile?email=pandawang%40zju.edu.cn">Shuai Wang</a>, Mingyue Qu, <a href="https://openreview.net/profile?id=~Shiguang_NI1">Shiguang Ni</a></p>
+        </div>
     </div>
 
-    <div class="publication-list-item">
-        <div class="publication-venue">ACM CHI '26 Poster</div>
-        <div class="publication-title">From Waste to Worth: A Participatory Service System for Furniture Upcycling with Recycled Plastics</div>
-        <p><b>Yixuan Li</b>, Peixuan Liu, Jie Zhang, Xin Tong</p>
+    <div class="publication-list-item publication-list-item--featured">
+        <img class="publication-thumb" src="/images/plastic.png" alt="From Waste to Worth furniture upcycling system">
+        <div class="publication-list-content">
+            <div class="publication-venue">ACM CHI '26 Poster</div>
+            <div class="publication-title">From Waste to Worth: A Participatory Service System for Furniture Upcycling with Recycled Plastics</div>
+            <p><b>Yixuan Li</b>, Peixuan Liu, Jie Zhang, Xin Tong</p>
+        </div>
     </div>
 
     <div class="publication-list-item">
