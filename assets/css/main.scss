@@ -216,15 +216,15 @@
 
     .publication-list-item--featured {
         display: grid;
-        grid-template-columns: 64px minmax(0, 1fr);
-        gap: .7rem;
+        grid-template-columns: 112px minmax(0, 1fr);
+        gap: .8rem;
         align-items: start;
     }
 
     .publication-thumb {
         display: block;
-        width: 64px;
-        height: 48px;
+        width: 112px;
+        height: 56px;
         margin-top: .1rem;
         border-radius: 5px;
         object-fit: cover;
@@ -269,13 +269,13 @@
 
     @include breakpoint($medium) {
         .publication-list-item--featured {
-            grid-template-columns: 84px minmax(0, 1fr);
-            gap: .85rem;
+            grid-template-columns: 160px minmax(0, 1fr);
+            gap: 1rem;
         }
 
         .publication-thumb {
-            width: 84px;
-            height: 58px;
+            width: 160px;
+            height: 72px;
         }
     }
 }
