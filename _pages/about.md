@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an M.S. student in **Electronic Information at Tsinghua University** and will study **Informatics at the Technical University of Munich** as an exchange student from 2026 to 2027. I hold a B.A. in Product Design with a minor in Computer Art from Beijing Forestry University.
+I am an M.S. student in **Electronic Information at Tsinghua University** and am studying **Informatics at the Technical University of Munich** as an exchange student from 2026 to 2027. I hold a B.A. in Product Design with a minor in Computer Art from Beijing Forestry University.
 
 With a background in **Electrical Engineering** and **Product Design**, I focus on embodied generative AI, tangible interaction, and human-centered AI, with research experience at [ARK Lab at HKUST (GZ)](https://arkxlab.github.io/), the [Future Laboratory at Tsinghua University](https://thfl.tsinghua.edu.cn/en/), and the [DE4M Lab at UT Dallas](https://www.de4m.xyz/).
 
