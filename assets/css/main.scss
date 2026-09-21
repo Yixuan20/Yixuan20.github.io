@@ -216,18 +216,19 @@
 
     .publication-list-item--featured {
         display: grid;
-        grid-template-columns: 110px minmax(0, 1fr);
-        gap: .9rem;
+        grid-template-columns: 64px minmax(0, 1fr);
+        gap: .7rem;
         align-items: start;
     }
 
     .publication-thumb {
         display: block;
-        width: 110px;
-        height: 82px;
-        border-radius: 7px;
+        width: 64px;
+        height: 48px;
+        margin-top: .1rem;
+        border-radius: 5px;
         object-fit: cover;
-        box-shadow: 0 3px 10px rgba(28, 39, 49, .12);
+        box-shadow: 0 2px 7px rgba(28, 39, 49, .12);
     }
 
     .publication-list-content {
@@ -268,13 +269,13 @@
 
     @include breakpoint($medium) {
         .publication-list-item--featured {
-            grid-template-columns: 150px minmax(0, 1fr);
-            gap: 1.15rem;
+            grid-template-columns: 84px minmax(0, 1fr);
+            gap: .85rem;
         }
 
         .publication-thumb {
-            width: 150px;
-            height: 100px;
+            width: 84px;
+            height: 58px;
         }
     }
 }
