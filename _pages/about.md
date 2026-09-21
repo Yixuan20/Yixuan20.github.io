@@ -145,7 +145,7 @@ With a background in **Electrical Engineering** and **Product Design**, I focus 
 
 # 🗃️ Open Source
 
-<div class='paper-box'>
+<div class='paper-box open-source-compact'>
     <div class='paper-box-image'>
         <div>
             <div class="badge">Github</div>
@@ -154,24 +154,19 @@ With a background in **Electrical Engineering** and **Product Design**, I focus 
     </div>
     <div class='paper-box-text'>
         <a href="https://github.com/datawhalechina/easy-vibe">
-            Easy-Vibe: master Vibe Coding and AI skills through project-based learning, and build your first AI-native product.
+            Easy-Vibe — Learn Vibe Coding by Building
         </a>
         <p>
-            <i>Core member 2026</i>
+            <i>Core member · 2026</i>
         </p>
-      <div style="color:#1e66ff; font-weight:600; margin:6px 0 0 0;">
-</div>
-        <ul>
-            <li>Co-open sourced “easy-vibe” with Datawhale, China’s largest AI open-source learning community: a hands-on tutorial on building AI-native applications for complete beginners.</li>
-            <li>To help learners systematically master vibe coding, the tutorial is structured into three stages: practice, knowledge reinforcement, and capstone application, with each stage serving as a solid stepping stone to the next.</li>
-        </ul>
+        <p class="open-source-summary">A project-based open-source tutorial for building AI-native applications with Datawhale.</p>
     </div>
 </div>
 # 💻 Experience
 
 ## ◻️ Research 
 
-- *2025.12 - Present* — [DE4M Lab, The University of Texas at Dallas](https://www.de4m.xyz/), **Visiting Scholar** — Swarm haptic interfaces for VR.
+- *2025.12 - Present* — [DE4M Lab, The University of Texas at Dallas](https://www.de4m.xyz/), **Visiting Scholar** — VR swarm haptics; AI-assisted fabrication research ideation.
 - *2024.07 - 2025.09* — [ARK Lab, HKUST (GZ)](https://arkxlab.github.io/), **Full-time Research Assistant** — Embodied AI, multimodal interaction, and soft robotics.
 - *2024.01 - 2024.05* — University of Rochester, Department of Computer Science, **Research Intern** — Social interaction in asynchronous VR.
 - *2024.01 - 2024.03* — [North Carolina State University, Wilson College of Textiles](https://textiles.ncsu.edu/), **Visiting Researcher** — Responsive textile interfaces.
