@@ -32,6 +32,8 @@ With a background in **Electrical Engineering** and **Product Design**, I focus 
 
 # 📝 Publications 
 
+## PEER-REVIEWED PAPERS
+
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
@@ -49,30 +51,6 @@ With a background in **Electrical Engineering** and **Product Design**, I focus 
        <ul>
             <li>Interative System</li>
             <li>AI Assisted Creative Tool</li>
-        </ul>
-    </div>
-</div>
-
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">ACM SIGGRAPH ASIA'25 Poster</div>
-           <img src='https://i.ibb.co/hR8FVxC5/Frame-2090053424.png' alt="Frame 2090053424" width="100%">
-        </div>
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://dl.acm.org/doi/10.1145/3757374.3771432">
-            SofiBuddy: Soft mobile Interface for On-Body Interaction
-        </a>
-        <p>
-            <i><b>Yixuan Li</b>, Jie Yu, Chenwan Zhong, Zhaowen Deng, Teng Han, Yi Cai, Xin Tong†</i>
-        </p>
-      <div style="color:#1e66ff; font-weight:600; margin:6px 0 0 0;">
-  🏅Audience Choice Award
-</div>
-        <ul>
-            <li>Tangible</li>
-            <li>Soft Robotics</li>
         </ul>
     </div>
 </div>
@@ -100,31 +78,6 @@ With a background in **Electrical Engineering** and **Product Design**, I focus 
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">ACM UIST'24 SIC</div>
-            <img src='https://s2.loli.net/2024/11/22/dU7nPHlKVIeNOWu.png' alt="sym" width="100%">
-        </div>
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://dl.acm.org/doi/abs/10.1145/3672539.3686730">
-            EmoPus: Providing Emotional and Tactile Comfort with an AI Desk Companion Octopus
-        </a>
-        <p>
-            <i><b>Yixuan Li∗</b>, Zhaowen Deng∗, Yanying Zhu</i>
-           <a href="https://www.youtube.com/watch?v=6pnTmdU3NJw&t=12s">
-           Video
-        </a>
-        </p>
-        <ul>
-            <li>Emotional Companion</li>
-            <li>AI Robot</li>
-            <li>Tactile Comfort</li>
-        </ul>
-    </div>
-</div>
-
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
             <div class="badge">IJHCI'26</div>
             <img src="https://i.ibb.co/R4syvHQM/Screenshot-2026-06-06-at-13-13-22.png" alt="Glitter virtual agent" width="100%" style="aspect-ratio: 16 / 9; object-fit: cover;">
         </div>
@@ -140,6 +93,41 @@ With a background in **Electrical Engineering** and **Product Design**, I focus 
             <li>LLM Virtual Agent</li>
             <li>AI, Behavioral Interventions</li>
         </ul>
+    </div>
+</div>
+
+## PEER-REVIEWED EXTENDED ABSTRACTS
+
+<div class="publication-list">
+    <div class="publication-list-item">
+        <div class="publication-venue">ACM MM '26 Demo</div>
+        <div class="publication-title">CAREFox: An LLM-Assisted Embodied Multimodal Companion for Care-Based EFL Learning with Children</div>
+        <p><a href="https://openreview.net/profile?id=~Yixuan_Li33"><b>Yixuan Li</b></a>, Zixuan Gui, <a href="https://openreview.net/profile?id=~Yutian_Lu2">Yutian Lu</a>, <a href="https://openreview.net/profile?email=pandawang%40zju.edu.cn">Shuai Wang</a>, Mingyue Qu, <a href="https://openreview.net/profile?id=~Shiguang_NI1">Shiguang Ni</a></p>
+    </div>
+
+    <div class="publication-list-item">
+        <div class="publication-venue">ACM CHI '26 Poster</div>
+        <div class="publication-title">From Waste to Worth: A Participatory Service System for Furniture Upcycling with Recycled Plastics</div>
+        <p><b>Yixuan Li</b>, Peixuan Liu, Jie Zhang, Xin Tong</p>
+    </div>
+
+    <div class="publication-list-item">
+        <div class="publication-venue">EMNLP 2026 Workshop REALM</div>
+        <a class="publication-title" href="https://openreview.net/forum?id=PDQxtrrHVs">Testing Behavioral Adaptation in Repeated Interactions Between LLM Agents</a>
+        <p>Lixin Liu, <b>Yixuan Li</b>, Yutian Lu, Shiguang Ni</p>
+    </div>
+
+    <div class="publication-list-item">
+        <div class="publication-venue">ACM SIGGRAPH Asia '25 Poster</div>
+        <a class="publication-title" href="https://dl.acm.org/doi/10.1145/3757374.3771432">SofiBuddy: Soft mobile Interface for On-Body Interaction</a>
+        <p><b>Yixuan Li</b>, Jie Yu, Chenwan Zhong, Zhaowen Deng, Teng Han, Yi Cai, Xin Tong†</p>
+        <div class="publication-note">🏅 Audience Choice Award</div>
+    </div>
+
+    <div class="publication-list-item">
+        <div class="publication-venue">ACM UIST '24 SIC</div>
+        <a class="publication-title" href="https://dl.acm.org/doi/abs/10.1145/3672539.3686730">EmoPus: Providing Emotional and Tactile Comfort with an AI Desk Companion Octopus</a>
+        <p><b>Yixuan Li∗</b>, Zhaowen Deng∗, Yanying Zhu · <a href="https://www.youtube.com/watch?v=6pnTmdU3NJw&t=12s">Video</a></p>
     </div>
 </div>
 
