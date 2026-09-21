@@ -149,7 +149,6 @@ With a background in **Electrical Engineering** and **Product Design**, I focus 
 - *2025.12 - Present* — [DE4M Lab, The University of Texas at Dallas](https://www.de4m.xyz/), **Visiting Scholar** — VR swarm haptics; AI-assisted fabrication research ideation.
 - *2024.07 - 2025.09* — [ARK Lab, HKUST (GZ)](https://arkxlab.github.io/), **Full-time Research Assistant** — Embodied AI, multimodal interaction, and soft robotics.
 - *2024.01 - 2024.05* — University of Rochester, Department of Computer Science, **Research Intern** — Social interaction in asynchronous VR.
-- *2024.01 - 2024.03* — [North Carolina State University, Wilson College of Textiles](https://textiles.ncsu.edu/), **Visiting Researcher** — Responsive textile interfaces.
 - *2023.05 - 2023.12* — [Southern University of Science and Technology, School of Design](https://designschool.sustech.edu.cn/), **Visiting Student** — Human peripheral vision in complex environments.
 - *2022.11 - 2024.05* — [Future Laboratory, Tsinghua University](https://thfl.tsinghua.edu.cn/en/), **Research Assistant** — Vibrotactile feedback and haptic perception.
 
