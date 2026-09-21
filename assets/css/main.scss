@@ -267,6 +267,18 @@
     }
 }
 
+.publication-list--no-last-divider .publication-list-item:last-child {
+    border-bottom: 0;
+}
+
+.open-source-list {
+    border-top: 0;
+
+    .publication-list-item {
+        border-bottom: 0;
+    }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 

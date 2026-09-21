@@ -36,7 +36,7 @@ With a background in **Electrical Engineering** and **Product Design**, I focus 
 
 ## PEER-REVIEWED PAPERS
 
-<div class="publication-list">
+<div class="publication-list publication-list--no-last-divider">
     <div class="publication-list-item publication-list-item--featured">
         <img class="publication-thumb" src="https://i.ibb.co/4gRSy9cd/lyx1.png" alt="GenRole personalized role-play system">
         <div class="publication-list-content">
