@@ -21,7 +21,9 @@ I am an M.S. student in **Electronic Information at Tsinghua University** and wi
 
 With a background in **Electrical Engineering** and **Product Design**, I focus on embodied generative AI, tangible interaction, and human-centered AI, with research experience at [ARK Lab at HKUST (GZ)](https://arkxlab.github.io/), the [Future Laboratory at Tsinghua University](https://thfl.tsinghua.edu.cn/en/), and the [DE4M Lab at UT Dallas](https://www.de4m.xyz/).
 
+<!-- Intro image temporarily hidden.
 <img src="https://i.ibb.co/N6qSyWR9/Frame-1410125407.png" alt="Frame 1410125407" border="0" style="width: 100%; height: auto;" />
+-->
 
 # 📰 News
 
@@ -116,31 +118,28 @@ With a background in **Electrical Engineering** and **Product Design**, I focus 
         </div>
     </div>
 
-    <div class="publication-list-item">
-        <div class="publication-venue">EMNLP 2026 Workshop REALM</div>
-        <a class="publication-title" href="https://openreview.net/forum?id=PDQxtrrHVs">Testing Behavioral Adaptation in Repeated Interactions Between LLM Agents</a>
-        <p>Lixin Liu, <b>Yixuan Li</b>, Yutian Lu, Shiguang Ni</p>
+    <div class="publication-list-item publication-list-item--featured">
+        <img class="publication-thumb publication-thumb--contain" src="/images/realm.png" alt="Testing behavioral adaptation in repeated LLM agent interactions">
+        <div class="publication-list-content">
+            <div class="publication-venue">EMNLP 2026 Workshop REALM</div>
+            <a class="publication-title" href="https://openreview.net/forum?id=PDQxtrrHVs">Testing Behavioral Adaptation in Repeated Interactions Between LLM Agents</a>
+            <p>Lixin Liu, <b>Yixuan Li</b>, Yutian Lu, Shiguang Ni</p>
+        </div>
     </div>
 
 </div>
 
 # 🗃️ Open Source
 
-<div class='paper-box open-source-compact'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">Github</div>
-           <img src="https://i.ibb.co/3yy9B9ty/Screenshot-2026-01-01-at-23-26-17-1.png" alt="Screenshot 2026 01 01 at 23 26 17 1" width="100%">
+<div class="publication-list open-source-list">
+    <div class="publication-list-item publication-list-item--featured">
+        <img class="publication-thumb" src="https://i.ibb.co/3yy9B9ty/Screenshot-2026-01-01-at-23-26-17-1.png" alt="Easy-Vibe open-source learning project">
+        <div class="publication-list-content">
+            <div class="publication-venue">GitHub · Open Source</div>
+            <a class="publication-title" href="https://github.com/datawhalechina/easy-vibe">Easy-Vibe — Learn Vibe Coding by Building</a>
+            <p><i>Core member · 2026</i></p>
+            <div class="publication-keywords">Project-based tutorials for building AI-native applications with Datawhale.</div>
         </div>
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://github.com/datawhalechina/easy-vibe">
-            Easy-Vibe — Learn Vibe Coding by Building
-        </a>
-        <p>
-            <i>Core member · 2026</i>
-        </p>
-        <p class="open-source-summary">A project-based open-source tutorial for building AI-native applications with Datawhale.</p>
     </div>
 </div>
 # 💻 Experience

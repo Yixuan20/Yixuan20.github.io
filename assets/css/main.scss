@@ -175,36 +175,6 @@
     }
 }
 
-.paper-box.open-source-compact {
-    padding: 1rem 0;
-
-    .paper-box-image img {
-        max-height: 150px;
-        object-fit: cover;
-    }
-
-    .paper-box-text p {
-        margin: .45rem 0 0;
-    }
-
-    .open-source-summary {
-        color: #59636e;
-        font-size: .88em;
-        line-height: 1.5;
-    }
-
-    @include breakpoint($medium) {
-        .paper-box-image {
-            max-width: 30%;
-        }
-
-        .paper-box-text {
-            max-width: 70%;
-            padding-left: 1.5rem;
-        }
-    }
-}
-
 .publication-list {
     margin: .75rem 0 2rem;
     border-top: 1px solid #e6e8eb;
@@ -229,6 +199,11 @@
         border-radius: 5px;
         object-fit: cover;
         box-shadow: 0 2px 7px rgba(28, 39, 49, .12);
+    }
+
+    .publication-thumb--contain {
+        object-fit: contain;
+        background: #f7f8fa;
     }
 
     .publication-list-content {
