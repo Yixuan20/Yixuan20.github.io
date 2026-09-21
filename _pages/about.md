@@ -291,30 +291,35 @@ With a background in **Electrical Engineering** and **Product Design**, I focus 
 
 # 🏆 Awards
 
+<ul class="awards-highlights">
+  <li><em>2023</em> <a href="https://www.shobserver.com/sgh/detail?id=1227897">The Ninth “Creativity - Made in China” Automobile Design Competition</a>, National 2nd Prize (3%)</li>
+  <li><em>2022</em> <a href="http://news.bjfu.edu.cn/lsxy/404279.html">The 5th China University Student Research English Speech Contest</a>, National Grand Prize (14th in China)</li>
+  <li><em>2024</em> The 1st Youth Green Science and Technology Innovation Competition, National Bronze Prize</li>
+</ul>
+
 <details class="awards-details">
-<summary>View 17 awards</summary>
+<summary>Expand all awards <span aria-hidden="true">↓</span></summary>
 
-## ◻️ Design Awards
+<h3>◻️ Design Awards</h3>
+<ul>
+  <li><em>2024</em> NCDA Future Designer Competition, Beijing 3rd Prize</li>
+  <li><em>2023</em> The 7th Beijing Cultural Creativity Competition, Finalist Award</li>
+  <li><em>2023</em> Beijing Industrial Design Competition for College Students, 2nd, 3rd Prize and Excellence Award</li>
+  <li><em>2023</em> DiD Award Dongguan Cup International Industrial Design Competition, Excellence Award</li>
+  <li><em>2023</em> The 11th International Art &amp; Design Competition Mutual Arts Award, Excellence Award</li>
+  <li><em>2023</em> Venice International Art and Design Award, Student Group Nomination Award</li>
+  <li><em>2023</em> USDA Design Competition, Second Prize</li>
+  <li><em>2023</em> G CROSS Design Competition, Silver Award</li>
+  <li><em>2023</em> HK Contemporary Design Competition, Silver Prize</li>
+</ul>
 
-- *2024*  NCDA Future Designer Competition, Beijing 3rd Prize;
-- *2023*  [The Ninth “Creativity - Made in China” Automobile Design Competition](https://www.shobserver.com/sgh/detail?id=1227897), National 2nd Prize (3%);
-- *2023*  The 7th Beijing Cultural Creativity Competition, Finalist Award;
-- *2023*  Beijing Industrial Design Competition for College Students, 2nd, 3rd Prize and Excellence Award;
-- 2023 DiD Award Dongguan Cup International Industrial Design Competition,  Excellence Award;
-- 2023 The 11th International Art & Design Competition Mutual Arts Award, Excellence Award;
-- 2023 Venice International Art and Design Award, Student Group Nomination Award;
-- 2023 USDA Design Competition, Second Prize;
-- 2023 G CROSS Design Competition, Silver Award;
-- 2023 HK Contemporary Design Competition, Silver Prize;
-- *2022*   [The 5th China University Student Research English Speech Contest](http://news.bjfu.edu.cn/lsxy/404279.html), National Grand Prize (14th in China, the first student from BJFU to win this prize);
-
-## ◻️ Entrepreneurship Awards
-
-- 2024 The 1st Youth Green Science and Technology Innovation Competition, Bronze Prize of the National Competition;
-- 2024 The First National Student Career Planning Competition, Second Prize of Beijing Region Employment Track;
-- 2023 “Youth Creating Beijing” “Challenge Cup” Capital University Students Science and Technology Competition, Second Prize;
-- 2022 The 8th China International Innovation and Entrepreneurship Competition for College Students, Provincial Excellence Award;
-- 2022 Computer Application Competition of Five Provinces in North China, Second Prize ;
-- 2022 China Hainan Free Trade Port High School Main Track, Excellence Award;
+<h3>◻️ Entrepreneurship Awards</h3>
+<ul>
+  <li><em>2024</em> The First National Student Career Planning Competition, Second Prize of Beijing Region Employment Track</li>
+  <li><em>2023</em> “Youth Creating Beijing” “Challenge Cup” Capital University Students Science and Technology Competition, Second Prize</li>
+  <li><em>2022</em> The 8th China International Innovation and Entrepreneurship Competition for College Students, Provincial Excellence Award</li>
+  <li><em>2022</em> Computer Application Competition of Five Provinces in North China, Second Prize</li>
+  <li><em>2022</em> China Hainan Free Trade Port High School Main Track, Excellence Award</li>
+</ul>
 
 </details>
