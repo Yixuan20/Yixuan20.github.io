@@ -56,6 +56,16 @@ With a background in **Electrical Engineering** and **Product Design**, I focus 
     </div>
 
     <div class="publication-list-item publication-list-item--featured">
+        <img class="publication-thumb" src="/images/HapticMetric.png" alt="HapticMetric vibration waveform features">
+        <div class="publication-list-content">
+            <div class="publication-venue">ACM ChineseCHI '24 · International Chinese Association of Computer Human Interaction</div>
+            <div class="publication-title">HapticMetric: A Smartphone Haptic Experience Computing System [J]</div>
+            <p><b>Yixuan Li∗</b>, Rui Zhang∗, Yang Jiao</p>
+            <div class="publication-keywords">Haptic Experience · Vibration Metrics</div>
+        </div>
+    </div>
+
+    <div class="publication-list-item publication-list-item--featured">
         <img class="publication-thumb" src="https://i.ibb.co/R4syvHQM/Screenshot-2026-06-06-at-13-13-22.png" alt="Glitter LLM virtual agent">
         <div class="publication-list-content">
             <div class="publication-venue">IJHCI '26</div>
