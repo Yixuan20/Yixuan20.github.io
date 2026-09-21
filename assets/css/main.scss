@@ -267,6 +267,13 @@
         font-weight: 600;
     }
 
+    .publication-keywords {
+        margin-top: .35rem;
+        color: #536b88;
+        font-size: .78em;
+        font-weight: 600;
+    }
+
     @include breakpoint($medium) {
         .publication-list-item--featured {
             grid-template-columns: 160px minmax(0, 1fr);

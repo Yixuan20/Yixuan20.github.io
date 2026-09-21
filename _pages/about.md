@@ -34,65 +34,35 @@ With a background in **Electrical Engineering** and **Product Design**, I focus 
 
 ## PEER-REVIEWED PAPERS
 
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">ACM CHI'26</div>
-            <img src="https://i.ibb.co/4gRSy9cd/lyx1.png" alt="sym" width="100%">
+<div class="publication-list">
+    <div class="publication-list-item publication-list-item--featured">
+        <img class="publication-thumb" src="https://i.ibb.co/4gRSy9cd/lyx1.png" alt="GenRole personalized role-play system">
+        <div class="publication-list-content">
+            <div class="publication-venue">ACM CHI '26</div>
+            <div class="publication-title">GenRole: Personalizing Role Play for Educators Supporting Autistic Students’ Social Interaction Learning</div>
+            <p><b>Yixuan Li</b>, Keyi Zeng, Jiaqi Zong, Yingying Zhang, Hongzhu Deng, Li Wang, Xin Tong∗</p>
+            <div class="publication-keywords">Interactive Systems · AI-Assisted Creative Tools</div>
         </div>
     </div>
-    <div class='paper-box-text'>
-        <a>
-            GenRole: Personalizing Role Play for Educators Supporting Autistic Students’ Social Interaction Learning
-        </a>
-        <p>
-            <i><b>Yixuan Li</b>, Keyi Zeng, Jiaqi Zong, Yingying Zhang, Hongzhu Deng, Li Wang, Xin Tong∗</i>
-        </p>
-       <ul>
-            <li>Interative System</li>
-            <li>AI Assisted Creative Tool</li>
-        </ul>
-    </div>
-</div>
 
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">ACM ICMI'24</div>
-            <img src='https://s2.loli.net/2024/11/22/SwoF3c1CXb6TPp7.jpg' alt="sym" width="100%">
+    <div class="publication-list-item publication-list-item--featured">
+        <img class="publication-thumb" src="https://s2.loli.net/2024/11/22/SwoF3c1CXb6TPp7.jpg" alt="SemanticTap haptic toolkit">
+        <div class="publication-list-content">
+            <div class="publication-venue">ACM ICMI '24</div>
+            <a class="publication-title" href="https://dl.acm.org/doi/abs/10.1145/3678957.3685739">SemanticTap: A Haptic Toolkit for Vibration Semantic Design of Smartphone</a>
+            <p>Rui Zhang∗, <b>Yixuan Li∗</b>, Zihuang Wu, Yong Zhang, Jie Zhao, Yang Jiao†</p>
+            <div class="publication-keywords">Haptic Experience · Vibration Design Toolkit</div>
         </div>
     </div>
-    <div class='paper-box-text'>
-        <a href="https://dl.acm.org/doi/abs/10.1145/3678957.3685739">
-            SemanticTap: A Haptic Toolkit for Vibration Semantic Design of Smartphone
-        </a>
-        <p>
-            <i>Rui Zhang∗, <b>Yixuan Li∗</b>, Zihuang Wu, Yong Zhang, Jie Zhao, Yang Jiao†</i>
-        </p>
-        <ul>
-            <li>Haptic experience</li>
-            <li>Vibration Design Toolkit</li>
-        </ul>
-    </div>
-</div>
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">IJHCI'26</div>
-            <img src="https://i.ibb.co/R4syvHQM/Screenshot-2026-06-06-at-13-13-22.png" alt="Glitter virtual agent" width="100%" style="aspect-ratio: 16 / 9; object-fit: cover;">
+
+    <div class="publication-list-item publication-list-item--featured">
+        <img class="publication-thumb" src="https://i.ibb.co/R4syvHQM/Screenshot-2026-06-06-at-13-13-22.png" alt="Glitter LLM virtual agent">
+        <div class="publication-list-content">
+            <div class="publication-venue">IJHCI '26</div>
+            <div class="publication-title">Glitter: Exploring an LLM Virtual Agent for Supporting Practitioners in Behavioral Interventions of Autistic Children</div>
+            <p>Xin Tong, Liwen He, Zhaowen Deng, Weibo Li, Ziheng Tang, <b>Yixuan Li</b>, Yutong Ren, Matthew Louis Mauriello, Ming Li</p>
+            <div class="publication-keywords">LLM Virtual Agent · Behavioral Interventions</div>
         </div>
-    </div>
-    <div class='paper-box-text'>
-        <a>
-            Glitter: Exploring an LLM Virtual Agent for Supporting Practitioners in Behavioral Interventions of Autistic Children
-        </a>
-        <p>
-            <i>Xin Tong, Liwen He, Zhaowen Deng, Weibo Li, Ziheng Tang, <b>Yixuan Li</b>, Yutong Ren, Matthew Louis Mauriello, Ming Li</i>
-        </p>
-        <ul>
-            <li>LLM Virtual Agent</li>
-            <li>AI, Behavioral Interventions</li>
-        </ul>
     </div>
 </div>
 
