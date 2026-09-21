@@ -86,7 +86,7 @@ With a background in **Electrical Engineering** and **Product Design**, I focus 
         <div class="publication-list-content">
             <div class="publication-venue">ACM MM '26 Demo</div>
             <div class="publication-title">CAREFox: An LLM-Assisted Embodied Multimodal Companion for Care-Based EFL Learning with Children</div>
-            <p><a href="https://openreview.net/profile?id=~Yixuan_Li33"><b>Yixuan Li</b></a>, Zixuan Gui, <a href="https://openreview.net/profile?id=~Yutian_Lu2">Yutian Lu</a>, <a href="https://openreview.net/profile?email=pandawang%40zju.edu.cn">Shuai Wang</a>, Mingyue Qu, <a href="https://openreview.net/profile?id=~Shiguang_NI1">Shiguang Ni</a></p>
+            <p><b>Yixuan Li</b>, Zixuan Gui, Yutian Lu, Shuai Wang, Mingyue Qu, Shiguang Ni</p>
         </div>
     </div>
 
