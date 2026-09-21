@@ -76,6 +76,33 @@ With a background in **Electrical Engineering** and **Product Design**, I focus 
             <div class="publication-keywords">LLM Virtual Agent · Behavioral Interventions</div>
         </div>
     </div>
+
+    <div class="publication-list-item publication-list-item--featured">
+        <img class="publication-thumb" src="/images/fabforge.png" alt="FabForge AI-assisted fabrication research ideation system">
+        <div class="publication-list-content">
+            <div class="publication-venue">Submitted to CHI '27</div>
+            <div class="publication-title">FabForge: AI-Assisted Fabrication Research Ideation through Cross-Discipline Exploration</div>
+            <p><b>Yixuan Li</b>, Zimai Qin, Liang He</p>
+        </div>
+    </div>
+
+    <div class="publication-list-item publication-list-item--featured">
+        <img class="publication-thumb" src="/images/hanoch.png" alt="HanoCH cultural heritage accessibility interaction system">
+        <div class="publication-list-content">
+            <div class="publication-venue">Submitted to CHI '27</div>
+            <div class="publication-title">HanoCH: Supporting BLV Users in Active Exploration of Cultural Heritage through Modular Multimodal Interaction</div>
+            <p><b>Yixuan Li</b>, Pingting Chen, Ziqi Gong, Kerui Chen, Jiayong Xie, Liang He, Xin Tong</p>
+        </div>
+    </div>
+
+    <div class="publication-list-item publication-list-item--featured">
+        <img class="publication-thumb" src="/images/motion.png" alt="Move2Motion embodied 3D motion design system">
+        <div class="publication-list-content">
+            <div class="publication-venue">Submitted to CHI '27</div>
+            <div class="publication-title">Move2Motion: 3D Motion Design Using Embodied Motion Gesturing and Prompt-Based Movement Description</div>
+            <p>Ke Huang∗, <b>Yixuan Li∗</b>, Yimo Xu∗, RAY LC</p>
+        </div>
+    </div>
 </div>
 
 ## PEER-REVIEWED EXTENDED ABSTRACTS
