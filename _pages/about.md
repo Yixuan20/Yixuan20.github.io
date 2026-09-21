@@ -291,6 +291,9 @@ With a background in **Electrical Engineering** and **Product Design**, I focus 
 
 # 🏆 Awards
 
+<details class="awards-details">
+<summary>View 17 awards</summary>
+
 ## ◻️ Design Awards
 
 - *2024*  NCDA Future Designer Competition, Beijing 3rd Prize;
@@ -313,3 +316,5 @@ With a background in **Electrical Engineering** and **Product Design**, I focus 
 - 2022 The 8th China International Innovation and Entrepreneurship Competition for College Students, Provincial Excellence Award;
 - 2022 Computer Application Competition of Five Provinces in North China, Second Prize ;
 - 2022 China Hainan Free Trade Port High School Main Track, Excellence Award;
+
+</details>

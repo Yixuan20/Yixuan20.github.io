@@ -287,3 +287,37 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.awards-details {
+    margin: .8rem 0 2.25rem;
+    border: 1px solid #e6e8eb;
+    border-radius: 8px;
+    background: #fafbfc;
+
+    summary {
+        padding: .7rem 1rem;
+        color: #415670;
+        font-size: .9em;
+        font-weight: 700;
+        cursor: pointer;
+        user-select: none;
+    }
+
+    &[open] summary {
+        border-bottom: 1px solid #e6e8eb;
+    }
+
+    > h2,
+    > ul {
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+
+    > h2:first-of-type {
+        margin-top: 1.25rem;
+    }
+
+    > ul:last-child {
+        margin-bottom: 1.25rem;
+    }
+}
