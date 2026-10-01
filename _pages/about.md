@@ -103,6 +103,15 @@ With a background in **Electrical Engineering** and **Product Design**, I focus 
             <p>Ke Huang∗, <b>Yixuan Li∗</b>, Yimo Xu∗, RAY LC</p>
         </div>
     </div>
+
+    <div class="publication-list-item publication-list-item--featured">
+        <img class="publication-thumb" src="/images/tactio.png" alt="Tactio distributed haptic interface for virtual reality">
+        <div class="publication-list-content">
+            <div class="publication-venue">Submitted to TEI '27</div>
+            <div class="publication-title">Tactio: A Distributed Haptic Interface for On-Demand Contact Feedback in Virtual Reality</div>
+            <p><b>Yixuan Li</b>, Aezaz Ali, Yifan Jia, Liang He</p>
+        </div>
+    </div>
 </div>
 
 ## PEER-REVIEWED EXTENDED ABSTRACTS
