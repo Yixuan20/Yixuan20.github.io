@@ -108,7 +108,7 @@ With a background in **Electrical Engineering** and **Product Design**, I focus 
     <div class="publication-list-item publication-list-item--featured">
         <img class="publication-thumb" src="/images/motion.png" alt="Move2Motion embodied 3D motion design system">
         <div class="publication-list-content">
-            <div class="publication-venue">Submitted to CHI '27</div>
+            <div class="publication-venue">In submission</div>
             <div class="publication-title">Move2Motion: 3D Motion Design Using Embodied Motion Gesturing and Prompt-Based Movement Description</div>
             <p>Ke Huang∗, <b>Yixuan Li∗</b>, Yimo Xu∗, RAY LC</p>
         </div>
