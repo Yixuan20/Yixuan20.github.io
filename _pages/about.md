@@ -182,6 +182,7 @@ With a background in **Electrical Engineering** and **Product Design**, I focus 
 
 ## ◻️ Research 
 
+- *2026.10 - Present* — BMW Group, **Research Intern** — Gaze interaction for AR-HUDs; data analysis.
 - *2025.12 - Present* — [DE4M Lab, The University of Texas at Dallas](https://www.de4m.xyz/), **Visiting Scholar** — VR swarm haptics; AI-assisted fabrication research ideation.
 - *2024.07 - 2025.09* — [ARK Lab, HKUST (GZ)](https://arkxlab.github.io/), **Full-time Research Assistant** — Embodied AI, multimodal interaction, and soft robotics.
 - *2024.01 - 2024.05* — University of Rochester, Department of Computer Science, **Research Intern** — Social interaction in asynchronous VR.
