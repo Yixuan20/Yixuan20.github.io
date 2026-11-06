@@ -78,9 +78,19 @@ With a background in **Electrical Engineering** and **Product Design**, I focus 
     </div>
 
     <div class="publication-list-item publication-list-item--featured">
+        <img class="publication-thumb" src="/images/v-hook.png" alt="V-Hook vibration-driven locomotion design interface">
+        <div class="publication-list-content">
+            <div class="publication-venue">ACM UIST '26 · Paper &amp; Demo</div>
+            <a class="publication-title" href="https://programs.sigchi.org/uist/2026/program/session/278204">V-Hook: Morphology-Mediated Vibration-Driven Locomotion through 3D-Printed Hook Structures</a>
+            <p>Shuai Wang, Xichun Wang, Junzhe Ji, Xiaoyang Zhu, Shuyang Ji, Yue Tao, Yue Chen, <b>Yixuan Li</b>, Zonglin Lai, Ye Tao, Guanyun Wang</p>
+            <div class="publication-keywords">Co-author · Vibration-Driven Locomotion · Computational Fabrication</div>
+        </div>
+    </div>
+
+    <div class="publication-list-item publication-list-item--featured">
         <img class="publication-thumb" src="/images/fabforge.png" alt="FabForge AI-assisted fabrication research ideation system">
         <div class="publication-list-content">
-            <div class="publication-venue">Submitted to CHI '27</div>
+            <div class="publication-venue">In submission</div>
             <div class="publication-title">FabForge: AI-Assisted Fabrication Research Ideation through Cross-Discipline Exploration</div>
             <p><b>Yixuan Li</b>, Zimai Qin, Liang He</p>
         </div>
@@ -89,7 +99,7 @@ With a background in **Electrical Engineering** and **Product Design**, I focus 
     <div class="publication-list-item publication-list-item--featured">
         <img class="publication-thumb" src="/images/hanoch.png" alt="HanoCH cultural heritage accessibility interaction system">
         <div class="publication-list-content">
-            <div class="publication-venue">Submitted to CHI '27</div>
+            <div class="publication-venue">In submission</div>
             <div class="publication-title">HanoCH: Supporting BLV Users in Active Exploration of Cultural Heritage through Modular Multimodal Interaction</div>
             <p><b>Yixuan Li</b>, Pingting Chen, Ziqi Gong, Kerui Chen, Jiayong Xie, Liang He, Xin Tong</p>
         </div>
@@ -107,7 +117,7 @@ With a background in **Electrical Engineering** and **Product Design**, I focus 
     <div class="publication-list-item publication-list-item--featured">
         <img class="publication-thumb" src="/images/tactio.png" alt="Tactio distributed haptic interface for virtual reality">
         <div class="publication-list-content">
-            <div class="publication-venue">Submitted to TEI '27</div>
+            <div class="publication-venue">In submission</div>
             <div class="publication-title">Tactio: A Distributed Haptic Interface for On-Demand Contact Feedback in Virtual Reality</div>
             <p><b>Yixuan Li</b>, Aezaz Ali, Yifan Jia, Liang He</p>
         </div>
